@@ -1,20 +1,20 @@
 # Free Proxy List - Checked Every 5 Minutes
 
-![Live proxies](https://img.shields.io/badge/live%20proxies-476-22c55e?style=flat-square)
-![Countries](https://img.shields.io/badge/countries-64-3b82f6?style=flat-square)
-![Median speed](https://img.shields.io/badge/median%20speed-883%20ms-a855f7?style=flat-square)
-![Updated](https://img.shields.io/badge/updated-03%20Aug%202026%2019%3A16%20UTC-64748b?style=flat-square)
+![Live proxies](https://img.shields.io/badge/live%20proxies-486-22c55e?style=flat-square)
+![Countries](https://img.shields.io/badge/countries-63-3b82f6?style=flat-square)
+![Median speed](https://img.shields.io/badge/median%20speed-857%20ms-a855f7?style=flat-square)
+![Updated](https://img.shields.io/badge/updated-03%20Aug%202026%2019%3A23%20UTC-64748b?style=flat-square)
 
 Most free proxy lists are full of dead addresses, and you only find out after your script
 fails. This list is different. Every proxy here answered a real request through our own test
 server in the last few minutes, and the files update every 5 minutes.
 
-Right now you get **476 working proxies** in **64 countries**. Half of
-them answer in under **883 ms**. There is no sign-up, no key, and no limit.
+Right now you get **486 working proxies** in **63 countries**. Half of
+them answer in under **857 ms**.
 
-Built and maintained by [Relayglass](https://relayglass.com).
+> Built and maintained by [Relayglass](https://relayglass.com).
 
-## Get your first proxy in ten seconds
+## ⚡ Get your first proxy in ten seconds
 
 Download the whole list:
 
@@ -44,29 +44,29 @@ print(r.status_code)
 
 | File | Proxies | Use it when |
 | --- | ---: | --- |
-| [`proxies/all.txt`](proxies/all.txt) | 476 | You want everything, `ip:port` on each line |
+| [`proxies/all.txt`](proxies/all.txt) | 486 | You want everything, `ip:port` on each line |
 | [`proxies/http.txt`](proxies/http.txt) | 268 | Your tool asks for an HTTP proxy. Start here |
-| [`proxies/socks5.txt`](proxies/socks5.txt) | 69 | You need SOCKS5, which also carries non-web traffic |
-| [`proxies/socks4.txt`](proxies/socks4.txt) | 139 | Your tool only speaks the older SOCKS4 |
-| [`proxies/https.txt`](proxies/https.txt) | 157 | You need to load `https://` pages through the proxy |
-| [`proxies/elite.txt`](proxies/elite.txt) | 359 | The site must not see that you use a proxy |
-| [`proxies/anonymous.txt`](proxies/anonymous.txt) | 411 | You want elite and anonymous proxies together |
-| [`proxies/all.csv`](proxies/all.csv) | 476 | You want to filter by country, speed, or uptime |
+| [`proxies/socks5.txt`](proxies/socks5.txt) | 78 | You need SOCKS5, which also carries non-web traffic |
+| [`proxies/socks4.txt`](proxies/socks4.txt) | 141 | Your tool only speaks the older SOCKS4 |
+| [`proxies/https.txt`](proxies/https.txt) | 169 | You need to load `https://` pages through the proxy |
+| [`proxies/elite.txt`](proxies/elite.txt) | 369 | The site must not see that you use a proxy |
+| [`proxies/anonymous.txt`](proxies/anonymous.txt) | 422 | You want elite and anonymous proxies together |
+| [`proxies/all.csv`](proxies/all.csv) | 486 | You want to filter by country, speed, or uptime |
 
 A note on the HTTPS file. Many HTTP proxies can only forward plain `http://` pages. Loading an
-`https://` page needs a different trick, called CONNECT, and only 157 of our proxies
+`https://` page needs a different trick, called CONNECT, and only 169 of our proxies
 support it. If your requests to secure sites fail, use that file.
 
-## See where the proxies are
+## 🌍 See where the proxies are
 
 These are the five countries with the most working proxies right now:
 
 ```
-United States  ██████████████████████████████  197
-China          ███████  44
+United States  ██████████████████████████████  202
+China          ███████  47
 Zimbabwe       ███  22
 France         ███  21
-Germany        ███  18
+Hong Kong      ███  19
 ```
 
 Country matters more than you might think. A proxy in the same country as the site you load
@@ -103,15 +103,15 @@ reason this list is short and honest instead of long and wrong.
 Every proxy sends headers (extra lines of information) with your request. Some of those lines
 can contain your real IP address. We test what each proxy leaks and label it:
 
-- **Elite:** The site sees a normal request. It cannot tell that you used a proxy, and your
+- `elite` — The site sees a normal request. It cannot tell that you used a proxy, and your
   real address is not in the headers. Use these when it matters.
-- **Anonymous:** The site can tell you used a proxy, but your real address is hidden. This is
+- `anonymous` — The site can tell you used a proxy, but your real address is hidden. This is
   fine for most scraping.
-- **Transparent:** The proxy passes your real IP address in a header called
+- `transparent` — The proxy passes your real IP address in a header called
   `X-Forwarded-For`. It hides nothing. Avoid these unless you only want a different route.
 
 The `anonymity` column in the CSV holds this value. If you use `all.txt` without checking it,
-you may be using a transparent proxy and leaking your address.
+you may be using a `transparent` proxy and leaking your address.
 
 ## Filter the CSV to find exactly what you need
 
@@ -158,15 +158,15 @@ print(len(fast), fast[:5])
 Free proxies are not stable, and any list that promises uptime is lying to you. Here are our
 real numbers, measured across the whole list.
 
-The average proxy in this list has **89% uptime**. So if you load 100
-addresses from `all.txt` and try them all at once, expect about **89** to answer.
+The average proxy in this list has **90.8% uptime**. So if you load 100
+addresses from `all.txt` and try them all at once, expect about **91** to answer.
 The rest will have died since the last check, and that is normal.
 
 We re-test every working proxy every 5 minutes. If one fails, we test it less often, and
 after 42 hours of continuous failure we drop it completely. That is why the list stays short.
 A list of 200,000 proxies is a list nobody checked.
 
-## Three warnings worth reading
+## ⚠️ Three warnings worth reading
 
 **The operator sees everything you send.** A public proxy is somebody else's server, and that
 somebody can read every plain request that passes through. Never sign in to an account
@@ -181,7 +181,7 @@ of requests per second through one proxy, you take down a stranger's server.
 country, and they get blocked by big sites. If your business depends on the request landing,
 free proxies are the wrong tool. That is honest advice even though we sell the other kind.
 
-## Bonus tips most lists will not tell you
+## 💡 Bonus tips most lists will not tell you
 
 - **Sort by uptime, not by speed.** A proxy at 300 ms with 20% uptime wastes more of your
   time than one at 1,200 ms with 90% uptime. Use the `uptime_pct` column.
@@ -207,12 +207,18 @@ More free tools, including a bulk proxy checker and an IP checker, are at
 
 ## In short
 
-You get 476 working proxies, updated every 5 minutes, with no sign-up. Check the
-`anonymity` column before you trust a proxy to hide your address, sort by `uptime_pct` rather
-than speed, and never send anything private through a free proxy.
+You get 486 working proxies, updated every 5 minutes. Check the `anonymity` column
+before you trust a proxy to hide your address, sort by `uptime_pct` rather than speed, and
+never send anything private through a free proxy.
 
-**Last updated:** 2026-08-03 19:16 UTC. This page and every file are generated
+**Last updated:** 2026-08-03 19:23 UTC. This page and every file are generated
 automatically, so a pull request against them will be replaced by the next run.
+
+## ⚖️ Disclaimer
+
+These proxies are run by third parties we do not control. The list is provided as is, with no
+warranty of any kind. Relayglass accepts no liability for any loss or damage arising from
+your use of it, and you are responsible for using it lawfully.
 
 Free to use for anything, with no attribution required. Questions go to
 [contact@relayglass.com](mailto:contact@relayglass.com).
