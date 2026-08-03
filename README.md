@@ -1,16 +1,16 @@
 # Free Proxy List - Checked Every 5 Minutes
 
-![Live proxies](https://img.shields.io/badge/live%20proxies-513-22c55e?style=flat-square)
-![Countries](https://img.shields.io/badge/countries-62-3b82f6?style=flat-square)
-![Median speed](https://img.shields.io/badge/median%20speed-859%20ms-a855f7?style=flat-square)
-![Updated](https://img.shields.io/badge/updated-03%20Aug%202026%2019%3A41%20UTC-64748b?style=flat-square)
+![Live proxies](https://img.shields.io/badge/live%20proxies-511-22c55e?style=flat-square)
+![Countries](https://img.shields.io/badge/countries-64-3b82f6?style=flat-square)
+![Median speed](https://img.shields.io/badge/median%20speed-891%20ms-a855f7?style=flat-square)
+![Updated](https://img.shields.io/badge/updated-03%20Aug%202026%2019%3A46%20UTC-64748b?style=flat-square)
 
 Most free proxy lists are full of dead addresses, and you only find out after your script
 fails. This list is different. Every proxy here answered a real request through our own test
 server in the last few minutes, and the files update every 5 minutes.
 
-Right now you get **513 working proxies** in **62 countries**. Half of
-them answer in under **859 ms**.
+Right now you get **511 working proxies** in **64 countries**. Half of
+them answer in under **891 ms**.
 
 > Built and maintained by [Relayglass](https://relayglass.com).
 
@@ -19,14 +19,14 @@ them answer in under **859 ms**.
 Download the whole list:
 
 ```bash
-curl -s https://raw.githubusercontent.com/relayglass/free-proxy-list/main/proxies/all.txt
+curl -s https://raw.githubusercontent.com/relayglass/free-proxy-list/main/all.txt
 ```
 
 Take the fastest one and use it right away. The files are sorted fastest first, so `head -1`
 gives you the best proxy we have:
 
 ```bash
-PROXY=$(curl -s https://raw.githubusercontent.com/relayglass/free-proxy-list/main/proxies/http.txt | head -1)
+PROXY=$(curl -s https://raw.githubusercontent.com/relayglass/free-proxy-list/main/protocol/http/http.txt | head -1)
 curl -x http://$PROXY https://example.com
 ```
 
@@ -35,7 +35,7 @@ In Python, with the `requests` library:
 ```python
 import requests
 
-proxies = requests.get("https://raw.githubusercontent.com/relayglass/free-proxy-list/main/proxies/http.txt").text.split()
+proxies = requests.get("https://raw.githubusercontent.com/relayglass/free-proxy-list/main/protocol/http/http.txt").text.split()
 r = requests.get("https://example.com", proxies={"http": f"http://{proxies[0]}"}, timeout=10)
 print(r.status_code)
 ```
@@ -44,17 +44,17 @@ print(r.status_code)
 
 | File | Proxies | Use it when |
 | --- | ---: | --- |
-| [`proxies/all.txt`](proxies/all.txt) | 513 | You want everything, `ip:port` on each line |
-| [`proxies/http.txt`](proxies/http.txt) | 278 | Your tool asks for an HTTP proxy. Start here |
-| [`proxies/socks5.txt`](proxies/socks5.txt) | 89 | You need SOCKS5, which also carries non-web traffic |
-| [`proxies/socks4.txt`](proxies/socks4.txt) | 146 | Your tool only speaks the older SOCKS4 |
-| [`proxies/https.txt`](proxies/https.txt) | 188 | You need to load `https://` pages through the proxy |
-| [`proxies/elite.txt`](proxies/elite.txt) | 385 | The site must not see that you use a proxy |
-| [`proxies/anonymous.txt`](proxies/anonymous.txt) | 443 | You want elite and anonymous proxies together |
-| [`proxies/all.csv`](proxies/all.csv) | 513 | You want to filter by country, speed, or uptime |
+| [`all.txt`](all.txt) | 511 | You want everything, `ip:port` on each line |
+| [`all.csv`](all.csv) | 511 | You want to filter by country, speed, or uptime |
+| [`all.json`](all.json) | 511 | Your code would rather not parse CSV |
+| [`protocol/http/http.txt`](protocol/http/http.txt) | 288 | Your tool asks for an HTTP proxy. Start here |
+| [`protocol/socks5/socks5.txt`](protocol/socks5/socks5.txt) | 79 | You need SOCKS5, which also carries non-web traffic |
+| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 144 | Your tool only speaks the older SOCKS4 |
+| [`protocol/https/https.txt`](protocol/https/https.txt) | 175 | You need to load `https://` pages through the proxy |
+| [`anonymity/elite/`](anonymity/elite) | 374 | The site must not see that you use a proxy |
 
 A note on the HTTPS file. Many HTTP proxies can only forward plain `http://` pages. Loading an
-`https://` page needs a different trick, called CONNECT, and only 188 of our proxies
+`https://` page needs a different trick, called CONNECT, and only 175 of our proxies
 support it. If your requests to secure sites fail, use that file.
 
 ## 📂 Browse by protocol, country, or anonymity
@@ -73,7 +73,7 @@ protocol/
 countries/
   US/       US.txt     US.csv     US.json
   DE/       DE.txt     DE.csv     DE.json
-  ...one folder per country, 62 right now
+  ...one folder per country, 64 right now
 
 anonymity/
   elite/        http/  https/  socks4/  socks5/
@@ -125,11 +125,11 @@ converting anything:
 These are the five countries with the most working proxies right now:
 
 ```
-United States  ██████████████████████████████  217
-China          ███████  50
+United States  ██████████████████████████████  208
+China          ███████  51
+France         ███  22
 Zimbabwe       ███  22
-France         ███  21
-Hong Kong      ███  19
+Hong Kong      ███  18
 ```
 
 Country matters more than you might think. A proxy in the same country as the site you load
@@ -195,7 +195,7 @@ ip,port,protocol,https,anonymity,country_code,country,city,org,asn,response_ms,c
 Get every German proxy:
 
 ```bash
-curl -s https://raw.githubusercontent.com/relayglass/free-proxy-list/main/proxies/all.csv | awk -F, '$6=="DE" {print $1":"$2}'
+curl -s https://raw.githubusercontent.com/relayglass/free-proxy-list/main/all.csv | awk -F, '$6=="DE" {print $1":"$2}'
 ```
 
 **A trap to avoid here.** The `org` column holds company names, and some of them contain a
@@ -207,7 +207,7 @@ you most want - use a real CSV reader:
 ```python
 import csv, io, requests
 
-text = requests.get("https://raw.githubusercontent.com/relayglass/free-proxy-list/main/proxies/all.csv").text
+text = requests.get("https://raw.githubusercontent.com/relayglass/free-proxy-list/main/all.csv").text
 rows = csv.DictReader(io.StringIO(text))
 
 fast = [f"{r['ip']}:{r['port']}" for r in rows
@@ -221,8 +221,8 @@ print(len(fast), fast[:5])
 Free proxies are not stable, and any list that promises uptime is lying to you. Here are our
 real numbers, measured across the whole list.
 
-The average proxy in this list has **90.2% uptime**. So if you load 100
-addresses from `all.txt` and try them all at once, expect about **90** to answer.
+The average proxy in this list has **88.7% uptime**. So if you load 100
+addresses from `all.txt` and try them all at once, expect about **89** to answer.
 The rest will have died since the last check, and that is normal.
 
 We re-test every working proxy every 5 minutes. If one fails, we test it less often, and
@@ -270,11 +270,11 @@ More free tools, including a bulk proxy checker and an IP checker, are at
 
 ## In short
 
-You get 513 working proxies, updated every 5 minutes. Check the `anonymity` column
+You get 511 working proxies, updated every 5 minutes. Check the `anonymity` column
 before you trust a proxy to hide your address, sort by `uptime_pct` rather than speed, and
 never send anything private through a free proxy.
 
-**Last updated:** 2026-08-03 19:41 UTC. This page and every file are generated
+**Last updated:** 2026-08-03 19:46 UTC. This page and every file are generated
 automatically, so a pull request against them will be replaced by the next run.
 
 ## ⚖️ Disclaimer
