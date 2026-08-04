@@ -7,45 +7,9 @@
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 968,
+    "response_ms": 980,
     "uptime_pct": 99.8,
-    "checks": 501
-  },
-  {
-    "ip": "203.99.240.179",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "JP",
-    "country": "Japan",
-    "response_ms": 990,
-    "uptime_pct": 99.8,
-    "checks": 503
-  },
-  {
-    "ip": "8.209.255.13",
-    "port": 3128,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
-    "country_code": "JP",
-    "country": "Japan",
-    "response_ms": 1060,
-    "uptime_pct": 97.8,
     "checks": 502
-  },
-  {
-    "ip": "112.28.149.152",
-    "port": 8443,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "JP",
-    "country": "Japan",
-    "response_ms": 1076,
-    "uptime_pct": 94.4,
-    "checks": 501
   },
   {
     "ip": "203.99.240.182",
@@ -55,9 +19,9 @@
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1081,
+    "response_ms": 991,
     "uptime_pct": 100,
-    "checks": 502
+    "checks": 503
   },
   {
     "ip": "114.94.148.37",
@@ -67,21 +31,57 @@
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1121,
+    "response_ms": 1006,
     "uptime_pct": 100,
-    "checks": 481
+    "checks": 482
   },
   {
-    "ip": "103.1.224.34",
-    "port": 18081,
+    "ip": "8.209.255.13",
+    "port": 3128,
     "protocol": "http",
-    "https": true,
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 1074,
+    "uptime_pct": 97.8,
+    "checks": 503
+  },
+  {
+    "ip": "203.99.240.179",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1349,
-    "uptime_pct": 96.5,
-    "checks": 113
+    "response_ms": 1095,
+    "uptime_pct": 99.8,
+    "checks": 504
+  },
+  {
+    "ip": "43.167.226.158",
+    "port": 5555,
+    "protocol": "socks4",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 1319,
+    "uptime_pct": 82.8,
+    "checks": 506
+  },
+  {
+    "ip": "20.27.14.220",
+    "port": 8561,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "anonymous",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 1345,
+    "uptime_pct": 69,
+    "checks": 100
   },
   {
     "ip": "101.36.104.239",
@@ -91,9 +91,21 @@
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1510,
+    "response_ms": 1486,
     "uptime_pct": 92.7,
-    "checks": 518
+    "checks": 519
+  },
+  {
+    "ip": "101.36.104.46",
+    "port": 10808,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 1510,
+    "uptime_pct": 95.9,
+    "checks": 515
   },
   {
     "ip": "210.94.84.86",
@@ -108,6 +120,18 @@
     "checks": 123
   },
   {
+    "ip": "103.1.224.34",
+    "port": 18081,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 1724,
+    "uptime_pct": 96.5,
+    "checks": 114
+  },
+  {
     "ip": "20.210.39.155",
     "port": 8561,
     "protocol": "http",
@@ -120,27 +144,63 @@
     "checks": 110
   },
   {
-    "ip": "101.36.104.46",
-    "port": 10808,
-    "protocol": "socks5",
+    "ip": "168.138.192.184",
+    "port": 2345,
+    "protocol": "http",
     "https": true,
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1896,
-    "uptime_pct": 95.9,
-    "checks": 514
+    "response_ms": 2272,
+    "uptime_pct": 94.3,
+    "checks": 140
   },
   {
-    "ip": "20.27.14.220",
+    "ip": "20.27.15.111",
     "port": 8561,
     "protocol": "http",
     "https": true,
     "anonymity": "anonymous",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1982,
-    "uptime_pct": 68.7,
+    "response_ms": 2655,
+    "uptime_pct": 71.4,
+    "checks": 98
+  },
+  {
+    "ip": "20.78.26.206",
+    "port": 8561,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "anonymous",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 2684,
+    "uptime_pct": 80,
+    "checks": 110
+  },
+  {
+    "ip": "112.28.149.152",
+    "port": 8443,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 3010,
+    "uptime_pct": 94.4,
+    "checks": 502
+  },
+  {
+    "ip": "20.210.39.153",
+    "port": 8561,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "anonymous",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 3450,
+    "uptime_pct": 70.7,
     "checks": 99
   },
   {
@@ -151,21 +211,21 @@
     "anonymity": "anonymous",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 2022,
-    "uptime_pct": 77.9,
-    "checks": 95
+    "response_ms": 6534,
+    "uptime_pct": 78.1,
+    "checks": 96
   },
   {
-    "ip": "103.75.118.84",
-    "port": 1080,
-    "protocol": "socks4",
+    "ip": "20.27.11.248",
+    "port": 8561,
+    "protocol": "http",
     "https": true,
-    "anonymity": "elite",
+    "anonymity": "anonymous",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 2093,
-    "uptime_pct": 91.1,
-    "checks": 214
+    "response_ms": 6702,
+    "uptime_pct": 80.4,
+    "checks": 112
   },
   {
     "ip": "20.27.13.35",
@@ -175,32 +235,8 @@
     "anonymity": "anonymous",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 2707,
-    "uptime_pct": 74.7,
-    "checks": 99
-  },
-  {
-    "ip": "168.138.192.184",
-    "port": 2345,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "JP",
-    "country": "Japan",
-    "response_ms": 3001,
-    "uptime_pct": 94.2,
-    "checks": 139
-  },
-  {
-    "ip": "20.27.15.111",
-    "port": 8561,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "anonymous",
-    "country_code": "JP",
-    "country": "Japan",
-    "response_ms": 3764,
-    "uptime_pct": 71.1,
-    "checks": 97
+    "response_ms": 6933,
+    "uptime_pct": 75,
+    "checks": 100
   }
 ]
