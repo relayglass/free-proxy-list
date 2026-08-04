@@ -1,15 +1,15 @@
 [
   {
-    "ip": "143.0.203.173",
-    "port": 8080,
-    "protocol": "http",
+    "ip": "177.128.81.10",
+    "port": 81,
+    "protocol": "socks4",
     "https": false,
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "country_code": "BR",
     "country": "Brazil",
-    "response_ms": 5182,
-    "uptime_pct": 14.3,
-    "checks": 21
+    "response_ms": 1131,
+    "uptime_pct": 13.3,
+    "checks": 30
   },
   {
     "ip": "144.22.165.206",
@@ -19,8 +19,20 @@
     "anonymity": "elite",
     "country_code": "BR",
     "country": "Brazil",
-    "response_ms": 5940,
+    "response_ms": 2081,
     "uptime_pct": 88.8,
-    "checks": 606
+    "checks": 607
+  },
+  {
+    "ip": "200.115.100.33",
+    "port": 8080,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "BR",
+    "country": "Brazil",
+    "response_ms": 5925,
+    "uptime_pct": 23.1,
+    "checks": 13
   }
 ]
