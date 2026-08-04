@@ -1,15 +1,15 @@
 [
   {
-    "ip": "188.143.169.22",
-    "port": 33333,
-    "protocol": "socks4",
-    "https": false,
-    "anonymity": "elite",
+    "ip": "109.94.1.23",
+    "port": 4050,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 198,
-    "uptime_pct": 10,
-    "checks": 20
+    "response_ms": 149,
+    "uptime_pct": 95.6,
+    "checks": 481
   },
   {
     "ip": "37.110.145.57",
@@ -19,21 +19,21 @@
     "anonymity": "transparent",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 208,
+    "response_ms": 194,
     "uptime_pct": 97,
-    "checks": 499
+    "checks": 500
   },
   {
-    "ip": "185.200.188.234",
-    "port": 10001,
-    "protocol": "http",
+    "ip": "193.233.218.213",
+    "port": 1080,
+    "protocol": "socks5",
     "https": true,
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 255,
-    "uptime_pct": 98.7,
-    "checks": 224
+    "response_ms": 245,
+    "uptime_pct": 99.4,
+    "checks": 512
   },
   {
     "ip": "176.99.134.183",
@@ -48,16 +48,28 @@
     "checks": 505
   },
   {
-    "ip": "151.252.80.124",
+    "ip": "185.189.12.146",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "RU",
+    "country": "Russia",
+    "response_ms": 300,
+    "uptime_pct": 100,
+    "checks": 1
+  },
+  {
+    "ip": "51.250.16.247",
     "port": 1080,
     "protocol": "socks5",
     "https": true,
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 718,
-    "uptime_pct": 75.8,
-    "checks": 62
+    "response_ms": 318,
+    "uptime_pct": 55.4,
+    "checks": 65
   },
   {
     "ip": "91.197.79.59",
@@ -67,45 +79,33 @@
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 1716,
-    "uptime_pct": 61.4,
-    "checks": 44
+    "response_ms": 456,
+    "uptime_pct": 62.2,
+    "checks": 45
   },
   {
-    "ip": "109.94.1.23",
-    "port": 4050,
+    "ip": "185.239.50.122",
+    "port": 10808,
     "protocol": "http",
     "https": true,
-    "anonymity": "transparent",
-    "country_code": "RU",
-    "country": "Russia",
-    "response_ms": 3707,
-    "uptime_pct": 95.6,
-    "checks": 480
-  },
-  {
-    "ip": "46.47.197.210",
-    "port": 3128,
-    "protocol": "http",
-    "https": false,
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 4091,
-    "uptime_pct": 92.5,
-    "checks": 491
+    "response_ms": 485,
+    "uptime_pct": 79.4,
+    "checks": 534
   },
   {
-    "ip": "193.233.218.213",
+    "ip": "195.19.50.114",
     "port": 1080,
     "protocol": "socks5",
     "https": true,
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 4329,
-    "uptime_pct": 99.4,
-    "checks": 511
+    "response_ms": 1164,
+    "uptime_pct": 69.2,
+    "checks": 185
   },
   {
     "ip": "144.31.222.106",
@@ -115,8 +115,44 @@
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 5301,
-    "uptime_pct": 71.3,
-    "checks": 338
+    "response_ms": 1190,
+    "uptime_pct": 71.4,
+    "checks": 339
+  },
+  {
+    "ip": "151.252.80.124",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "RU",
+    "country": "Russia",
+    "response_ms": 1667,
+    "uptime_pct": 76.2,
+    "checks": 63
+  },
+  {
+    "ip": "46.47.197.210",
+    "port": 3128,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "RU",
+    "country": "Russia",
+    "response_ms": 2404,
+    "uptime_pct": 92.5,
+    "checks": 492
+  },
+  {
+    "ip": "185.200.188.234",
+    "port": 10001,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "RU",
+    "country": "Russia",
+    "response_ms": 5247,
+    "uptime_pct": 98.7,
+    "checks": 225
   }
 ]
