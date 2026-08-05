@@ -1,15 +1,27 @@
 [
   {
-    "ip": "144.31.75.120",
-    "port": 11112,
+    "ip": "193.233.139.106",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FI",
+    "country": "Finland",
+    "response_ms": 226,
+    "uptime_pct": 81.8,
+    "checks": 446
+  },
+  {
+    "ip": "65.108.159.129",
+    "port": 5153,
     "protocol": "http",
     "https": true,
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 164,
-    "uptime_pct": 92.3,
-    "checks": 454
+    "response_ms": 232,
+    "uptime_pct": 21.6,
+    "checks": 74
   },
   {
     "ip": "195.26.230.202",
@@ -19,33 +31,9 @@
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 230,
+    "response_ms": 233,
     "uptime_pct": 100,
-    "checks": 823
-  },
-  {
-    "ip": "193.233.139.106",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "FI",
-    "country": "Finland",
-    "response_ms": 238,
-    "uptime_pct": 81.8,
-    "checks": 445
-  },
-  {
-    "ip": "83.147.216.208",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "FI",
-    "country": "Finland",
-    "response_ms": 240,
-    "uptime_pct": 97,
-    "checks": 836
+    "checks": 824
   },
   {
     "ip": "92.118.234.124",
@@ -55,8 +43,32 @@
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 7985,
+    "response_ms": 571,
     "uptime_pct": 93.9,
-    "checks": 670
+    "checks": 671
+  },
+  {
+    "ip": "144.31.75.120",
+    "port": 11112,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FI",
+    "country": "Finland",
+    "response_ms": 1166,
+    "uptime_pct": 92.3,
+    "checks": 455
+  },
+  {
+    "ip": "83.147.216.208",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FI",
+    "country": "Finland",
+    "response_ms": 4357,
+    "uptime_pct": 97,
+    "checks": 837
   }
 ]
