@@ -1,15 +1,15 @@
 [
   {
-    "ip": "45.86.229.39",
-    "port": 11000,
+    "ip": "95.216.22.149",
+    "port": 8090,
     "protocol": "http",
-    "https": true,
+    "https": false,
     "anonymity": "elite",
     "country_code": "ES",
     "country": "Spain",
-    "response_ms": 225,
-    "uptime_pct": 33.3,
-    "checks": 3
+    "response_ms": 264,
+    "uptime_pct": 12.5,
+    "checks": 8
   },
   {
     "ip": "95.216.22.149",
@@ -19,9 +19,9 @@
     "anonymity": "elite",
     "country_code": "ES",
     "country": "Spain",
-    "response_ms": 273,
-    "uptime_pct": 63.4,
-    "checks": 41
+    "response_ms": 291,
+    "uptime_pct": 64.3,
+    "checks": 42
   },
   {
     "ip": "95.216.22.149",
@@ -43,8 +43,20 @@
     "anonymity": "elite",
     "country_code": "ES",
     "country": "Spain",
-    "response_ms": 311,
+    "response_ms": 308,
     "uptime_pct": 99.4,
-    "checks": 617
+    "checks": 618
+  },
+  {
+    "ip": "45.86.229.39",
+    "port": 11000,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "ES",
+    "country": "Spain",
+    "response_ms": 1266,
+    "uptime_pct": 50,
+    "checks": 4
   }
 ]
