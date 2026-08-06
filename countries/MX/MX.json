@@ -1,15 +1,15 @@
 [
   {
-    "ip": "160.34.208.144",
-    "port": 80,
+    "ip": "103.88.234.239",
+    "port": 40001,
     "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
+    "https": true,
+    "anonymity": "elite",
     "country_code": "MX",
     "country": "Mexico",
-    "response_ms": 666,
-    "uptime_pct": 94.6,
-    "checks": 523
+    "response_ms": 672,
+    "uptime_pct": 97.9,
+    "checks": 140
   },
   {
     "ip": "189.202.188.149",
@@ -21,7 +21,19 @@
     "country": "Mexico",
     "response_ms": 680,
     "uptime_pct": 100,
-    "checks": 1058
+    "checks": 1059
+  },
+  {
+    "ip": "160.34.208.144",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "MX",
+    "country": "Mexico",
+    "response_ms": 692,
+    "uptime_pct": 94.7,
+    "checks": 524
   },
   {
     "ip": "177.224.225.7",
@@ -31,20 +43,8 @@
     "anonymity": "transparent",
     "country_code": "MX",
     "country": "Mexico",
-    "response_ms": 1036,
+    "response_ms": 925,
     "uptime_pct": 100,
-    "checks": 28
-  },
-  {
-    "ip": "103.88.234.239",
-    "port": 40001,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "MX",
-    "country": "Mexico",
-    "response_ms": 1318,
-    "uptime_pct": 97.8,
-    "checks": 139
+    "checks": 29
   }
 ]
