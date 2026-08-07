@@ -1,15 +1,15 @@
 [
   {
-    "ip": "79.137.192.65",
-    "port": 30081,
+    "ip": "37.110.145.57",
+    "port": 8081,
     "protocol": "http",
-    "https": true,
-    "anonymity": "anonymous",
+    "https": false,
+    "anonymity": "transparent",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 247,
-    "uptime_pct": 84.8,
-    "checks": 171
+    "response_ms": 200,
+    "uptime_pct": 94.7,
+    "checks": 959
   },
   {
     "ip": "185.200.188.234",
@@ -19,9 +19,9 @@
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 247,
+    "response_ms": 255,
     "uptime_pct": 99.6,
-    "checks": 1098
+    "checks": 1099
   },
   {
     "ip": "46.47.197.210",
@@ -31,69 +31,9 @@
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 253,
-    "uptime_pct": 92.7,
-    "checks": 1375
-  },
-  {
-    "ip": "37.110.145.57",
-    "port": 8081,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
-    "country_code": "RU",
-    "country": "Russia",
     "response_ms": 277,
-    "uptime_pct": 94.7,
-    "checks": 958
-  },
-  {
-    "ip": "185.239.50.122",
-    "port": 10808,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "RU",
-    "country": "Russia",
-    "response_ms": 629,
-    "uptime_pct": 76.9,
-    "checks": 1375
-  },
-  {
-    "ip": "176.99.134.183",
-    "port": 8090,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "RU",
-    "country": "Russia",
-    "response_ms": 752,
-    "uptime_pct": 94.8,
-    "checks": 1387
-  },
-  {
-    "ip": "45.144.30.59",
-    "port": 808,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "RU",
-    "country": "Russia",
-    "response_ms": 829,
-    "uptime_pct": 63.9,
-    "checks": 72
-  },
-  {
-    "ip": "185.189.12.146",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "RU",
-    "country": "Russia",
-    "response_ms": 1045,
-    "uptime_pct": 69.1,
-    "checks": 408
+    "uptime_pct": 92.7,
+    "checks": 1376
   },
   {
     "ip": "85.172.55.85",
@@ -103,45 +43,33 @@
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 1123,
-    "uptime_pct": 37.5,
-    "checks": 16
+    "response_ms": 484,
+    "uptime_pct": 41.2,
+    "checks": 17
   },
   {
-    "ip": "195.19.217.200",
-    "port": 3128,
+    "ip": "176.120.28.106",
+    "port": 8080,
     "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "RU",
-    "country": "Russia",
-    "response_ms": 1282,
-    "uptime_pct": 90.4,
-    "checks": 924
-  },
-  {
-    "ip": "109.94.1.23",
-    "port": 4050,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "RU",
-    "country": "Russia",
-    "response_ms": 1960,
-    "uptime_pct": 83.9,
-    "checks": 1017
-  },
-  {
-    "ip": "91.210.151.184",
-    "port": 1080,
-    "protocol": "socks5",
     "https": true,
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 2587,
-    "uptime_pct": 40,
-    "checks": 5
+    "response_ms": 527,
+    "uptime_pct": 89.3,
+    "checks": 140
+  },
+  {
+    "ip": "176.99.134.183",
+    "port": 8090,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "RU",
+    "country": "Russia",
+    "response_ms": 1037,
+    "uptime_pct": 94.8,
+    "checks": 1388
   },
   {
     "ip": "144.31.222.106",
@@ -151,8 +79,92 @@
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 5307,
-    "uptime_pct": 72.4,
-    "checks": 900
+    "response_ms": 1204,
+    "uptime_pct": 72.5,
+    "checks": 901
+  },
+  {
+    "ip": "79.137.192.65",
+    "port": 30081,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "anonymous",
+    "country_code": "RU",
+    "country": "Russia",
+    "response_ms": 2604,
+    "uptime_pct": 84.9,
+    "checks": 172
+  },
+  {
+    "ip": "91.210.151.184",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "RU",
+    "country": "Russia",
+    "response_ms": 3849,
+    "uptime_pct": 50,
+    "checks": 6
+  },
+  {
+    "ip": "185.189.12.146",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "RU",
+    "country": "Russia",
+    "response_ms": 3884,
+    "uptime_pct": 69.2,
+    "checks": 409
+  },
+  {
+    "ip": "82.114.228.67",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "RU",
+    "country": "Russia",
+    "response_ms": 4450,
+    "uptime_pct": 44.7,
+    "checks": 374
+  },
+  {
+    "ip": "45.144.30.59",
+    "port": 808,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "RU",
+    "country": "Russia",
+    "response_ms": 4722,
+    "uptime_pct": 64.4,
+    "checks": 73
+  },
+  {
+    "ip": "185.239.50.122",
+    "port": 10808,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "RU",
+    "country": "Russia",
+    "response_ms": 5306,
+    "uptime_pct": 76.9,
+    "checks": 1376
+  },
+  {
+    "ip": "91.225.77.184",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "RU",
+    "country": "Russia",
+    "response_ms": 5649,
+    "uptime_pct": 33.3,
+    "checks": 6
   }
 ]
