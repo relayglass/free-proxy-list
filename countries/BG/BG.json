@@ -1,15 +1,15 @@
 [
   {
-    "ip": "89.167.124.218",
-    "port": 8888,
+    "ip": "93.123.16.14",
+    "port": 80,
     "protocol": "http",
-    "https": true,
+    "https": false,
     "anonymity": "transparent",
     "country_code": "BG",
     "country": "Bulgaria",
-    "response_ms": 373,
-    "uptime_pct": 92.8,
-    "checks": 1192
+    "response_ms": 89,
+    "uptime_pct": 83.1,
+    "checks": 491
   },
   {
     "ip": "93.123.16.38",
@@ -19,8 +19,32 @@
     "anonymity": "transparent",
     "country_code": "BG",
     "country": "Bulgaria",
-    "response_ms": 1132,
+    "response_ms": 89,
     "uptime_pct": 99,
-    "checks": 1176
+    "checks": 1177
+  },
+  {
+    "ip": "89.167.124.218",
+    "port": 8888,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "BG",
+    "country": "Bulgaria",
+    "response_ms": 373,
+    "uptime_pct": 92.8,
+    "checks": 1193
+  },
+  {
+    "ip": "31.13.239.4",
+    "port": 5678,
+    "protocol": "socks4",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "BG",
+    "country": "Bulgaria",
+    "response_ms": 3263,
+    "uptime_pct": 18.8,
+    "checks": 64
   }
 ]
