@@ -1,15 +1,27 @@
 [
   {
-    "ip": "103.156.17.12",
-    "port": 8818,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
+    "ip": "103.157.116.179",
+    "port": 10810,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
     "country_code": "ID",
     "country": "Indonesia",
-    "response_ms": 947,
-    "uptime_pct": 31.5,
-    "checks": 92
+    "response_ms": 907,
+    "uptime_pct": 34.2,
+    "checks": 155
+  },
+  {
+    "ip": "112.78.138.164",
+    "port": 5678,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "response_ms": 1788,
+    "uptime_pct": 29.6,
+    "checks": 108
   },
   {
     "ip": "43.133.128.153",
@@ -22,5 +34,17 @@
     "response_ms": 3358,
     "uptime_pct": 84.3,
     "checks": 991
+  },
+  {
+    "ip": "103.156.17.12",
+    "port": 8818,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "response_ms": 6478,
+    "uptime_pct": 32.3,
+    "checks": 93
   }
 ]
