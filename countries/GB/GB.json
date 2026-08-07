@@ -1,15 +1,15 @@
 [
   {
-    "ip": "130.49.187.61",
-    "port": 1082,
-    "protocol": "socks5",
-    "https": false,
-    "anonymity": "elite",
+    "ip": "20.108.84.75",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
     "country_code": "GB",
     "country": "United Kingdom",
-    "response_ms": 130,
-    "uptime_pct": 38.6,
-    "checks": 127
+    "response_ms": 144,
+    "uptime_pct": 70.9,
+    "checks": 189
   },
   {
     "ip": "194.102.38.65",
@@ -19,33 +19,9 @@
     "anonymity": "elite",
     "country_code": "GB",
     "country": "United Kingdom",
-    "response_ms": 169,
+    "response_ms": 155,
     "uptime_pct": 99.6,
-    "checks": 251
-  },
-  {
-    "ip": "20.108.84.75",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "GB",
-    "country": "United Kingdom",
-    "response_ms": 219,
-    "uptime_pct": 71.1,
-    "checks": 187
-  },
-  {
-    "ip": "192.252.210.233",
-    "port": 4145,
-    "protocol": "socks5",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "GB",
-    "country": "United Kingdom",
-    "response_ms": 978,
-    "uptime_pct": 99.6,
-    "checks": 1195
+    "checks": 252
   },
   {
     "ip": "212.58.132.5",
@@ -60,6 +36,18 @@
     "checks": 1210
   },
   {
+    "ip": "192.252.210.233",
+    "port": 4145,
+    "protocol": "socks5",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "response_ms": 1154,
+    "uptime_pct": 99.6,
+    "checks": 1196
+  },
+  {
     "ip": "212.58.132.5",
     "port": 1080,
     "protocol": "socks5",
@@ -67,8 +55,20 @@
     "anonymity": "elite",
     "country_code": "GB",
     "country": "United Kingdom",
-    "response_ms": 1551,
+    "response_ms": 1599,
     "uptime_pct": 97.1,
-    "checks": 1203
+    "checks": 1204
+  },
+  {
+    "ip": "130.49.187.61",
+    "port": 1082,
+    "protocol": "socks4",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "response_ms": 2194,
+    "uptime_pct": 39.1,
+    "checks": 128
   }
 ]
