@@ -12,16 +12,28 @@
     "checks": 1203
   },
   {
-    "ip": "185.119.121.58",
-    "port": 8080,
-    "protocol": "http",
+    "ip": "83.168.101.27",
+    "port": 5678,
+    "protocol": "socks4",
     "https": true,
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "country_code": "PL",
     "country": "Poland",
-    "response_ms": 603,
-    "uptime_pct": 65,
-    "checks": 20
+    "response_ms": 360,
+    "uptime_pct": 25,
+    "checks": 12
+  },
+  {
+    "ip": "135.181.14.149",
+    "port": 5080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "PL",
+    "country": "Poland",
+    "response_ms": 3200,
+    "uptime_pct": 48,
+    "checks": 25
   },
   {
     "ip": "46.170.42.38",
@@ -31,8 +43,8 @@
     "anonymity": "anonymous",
     "country_code": "PL",
     "country": "Poland",
-    "response_ms": 4725,
-    "uptime_pct": 92.9,
-    "checks": 14
+    "response_ms": 4431,
+    "uptime_pct": 93.3,
+    "checks": 15
   }
 ]
