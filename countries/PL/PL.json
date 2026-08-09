@@ -7,20 +7,32 @@
     "anonymity": "transparent",
     "country_code": "PL",
     "country": "Poland",
-    "response_ms": 64,
+    "response_ms": 66,
     "uptime_pct": 99.6,
-    "checks": 1802
+    "checks": 1803
   },
   {
-    "ip": "151.115.99.193",
-    "port": 10006,
-    "protocol": "http",
+    "ip": "185.32.4.110",
+    "port": 4153,
+    "protocol": "socks4",
     "https": true,
     "anonymity": "elite",
     "country_code": "PL",
     "country": "Poland",
-    "response_ms": 5821,
+    "response_ms": 127,
+    "uptime_pct": 31.5,
+    "checks": 124
+  },
+  {
+    "ip": "151.115.99.193",
+    "port": 10006,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "PL",
+    "country": "Poland",
+    "response_ms": 3438,
     "uptime_pct": 99.3,
-    "checks": 598
+    "checks": 599
   }
 ]
