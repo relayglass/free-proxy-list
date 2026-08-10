@@ -1,15 +1,15 @@
 [
   {
-    "ip": "82.115.60.66",
-    "port": 80,
+    "ip": "212.154.169.90",
+    "port": 3128,
     "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
+    "https": true,
+    "anonymity": "transparent",
     "country_code": "KZ",
     "country": "Kazakhstan",
-    "response_ms": 395,
-    "uptime_pct": 67.6,
-    "checks": 809
+    "response_ms": 397,
+    "uptime_pct": 100,
+    "checks": 374
   },
   {
     "ip": "82.115.60.51",
@@ -19,33 +19,9 @@
     "anonymity": "elite",
     "country_code": "KZ",
     "country": "Kazakhstan",
-    "response_ms": 404,
+    "response_ms": 406,
     "uptime_pct": 65.4,
-    "checks": 974
-  },
-  {
-    "ip": "212.154.169.90",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "KZ",
-    "country": "Kazakhstan",
-    "response_ms": 405,
-    "uptime_pct": 100,
-    "checks": 373
-  },
-  {
-    "ip": "80.87.108.142",
-    "port": 10808,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "KZ",
-    "country": "Kazakhstan",
-    "response_ms": 1586,
-    "uptime_pct": 68.7,
-    "checks": 67
+    "checks": 976
   },
   {
     "ip": "2.78.60.10",
@@ -55,8 +31,32 @@
     "anonymity": "transparent",
     "country_code": "KZ",
     "country": "Kazakhstan",
-    "response_ms": 5743,
+    "response_ms": 1384,
     "uptime_pct": 97,
-    "checks": 2128
+    "checks": 2129
+  },
+  {
+    "ip": "82.115.60.66",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "KZ",
+    "country": "Kazakhstan",
+    "response_ms": 4632,
+    "uptime_pct": 67.7,
+    "checks": 810
+  },
+  {
+    "ip": "80.87.108.142",
+    "port": 10808,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "KZ",
+    "country": "Kazakhstan",
+    "response_ms": 6561,
+    "uptime_pct": 69.1,
+    "checks": 68
   }
 ]
