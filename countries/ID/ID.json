@@ -1,15 +1,39 @@
 [
   {
     "ip": "8.215.25.3",
+    "port": 2081,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "response_ms": 691,
+    "uptime_pct": 73.1,
+    "checks": 1011
+  },
+  {
+    "ip": "8.215.25.3",
     "port": 2080,
     "protocol": "socks4",
     "https": true,
     "anonymity": "elite",
     "country_code": "ID",
     "country": "Indonesia",
-    "response_ms": 685,
+    "response_ms": 1011,
     "uptime_pct": 72.9,
-    "checks": 991
+    "checks": 992
+  },
+  {
+    "ip": "103.156.15.122",
+    "port": 8087,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "response_ms": 2147,
+    "uptime_pct": 14.5,
+    "checks": 69
   },
   {
     "ip": "103.65.237.92",
@@ -19,8 +43,20 @@
     "anonymity": "elite",
     "country_code": "ID",
     "country": "Indonesia",
-    "response_ms": 5282,
-    "uptime_pct": 66.7,
-    "checks": 718
+    "response_ms": 2636,
+    "uptime_pct": 66.8,
+    "checks": 719
+  },
+  {
+    "ip": "103.236.190.197",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "response_ms": 4304,
+    "uptime_pct": 19.7,
+    "checks": 71
   }
 ]
