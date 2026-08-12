@@ -1,17 +1,5 @@
 [
   {
-    "ip": "85.1.140.150",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "CH",
-    "country": "Switzerland",
-    "response_ms": 95,
-    "uptime_pct": 75,
-    "checks": 8
-  },
-  {
     "ip": "185.191.239.248",
     "port": 3128,
     "protocol": "http",
@@ -19,8 +7,32 @@
     "anonymity": "transparent",
     "country_code": "CH",
     "country": "Switzerland",
-    "response_ms": 621,
+    "response_ms": 270,
     "uptime_pct": 96.8,
-    "checks": 93
+    "checks": 94
+  },
+  {
+    "ip": "85.1.140.150",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "CH",
+    "country": "Switzerland",
+    "response_ms": 4315,
+    "uptime_pct": 77.8,
+    "checks": 9
+  },
+  {
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "CH",
+    "country": "Switzerland",
+    "response_ms": 5319,
+    "uptime_pct": 45.9,
+    "checks": 242
   }
 ]
