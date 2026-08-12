@@ -1,15 +1,15 @@
 [
   {
-    "ip": "8.219.97.248",
+    "ip": "143.42.66.91",
     "port": 80,
     "protocol": "http",
-    "https": true,
+    "https": false,
     "anonymity": "elite",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 982,
-    "uptime_pct": 82.2,
-    "checks": 2797
+    "response_ms": 838,
+    "uptime_pct": 95.1,
+    "checks": 2527
   },
   {
     "ip": "47.236.177.236",
@@ -19,9 +19,21 @@
     "anonymity": "elite",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 1003,
+    "response_ms": 951,
     "uptime_pct": 45.4,
-    "checks": 667
+    "checks": 669
+  },
+  {
+    "ip": "134.185.95.159",
+    "port": 666,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "SG",
+    "country": "Singapore",
+    "response_ms": 1012,
+    "uptime_pct": 98.7,
+    "checks": 154
   },
   {
     "ip": "152.42.167.241",
@@ -31,45 +43,9 @@
     "anonymity": "elite",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 1074,
+    "response_ms": 1026,
     "uptime_pct": 97.5,
-    "checks": 1966
-  },
-  {
-    "ip": "143.42.66.91",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "SG",
-    "country": "Singapore",
-    "response_ms": 1099,
-    "uptime_pct": 95.1,
-    "checks": 2526
-  },
-  {
-    "ip": "129.226.93.232",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
-    "country_code": "SG",
-    "country": "Singapore",
-    "response_ms": 1204,
-    "uptime_pct": 98.8,
-    "checks": 83
-  },
-  {
-    "ip": "178.128.82.131",
-    "port": 10808,
-    "protocol": "socks5",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "SG",
-    "country": "Singapore",
-    "response_ms": 1437,
-    "uptime_pct": 59.6,
-    "checks": 136
+    "checks": 1967
   },
   {
     "ip": "43.160.242.118",
@@ -79,9 +55,9 @@
     "anonymity": "elite",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 2075,
-    "uptime_pct": 88,
-    "checks": 25
+    "response_ms": 1196,
+    "uptime_pct": 88.5,
+    "checks": 26
   },
   {
     "ip": "43.134.58.45",
@@ -91,9 +67,21 @@
     "anonymity": "elite",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 2596,
+    "response_ms": 1516,
     "uptime_pct": 84.8,
-    "checks": 1448
+    "checks": 1449
+  },
+  {
+    "ip": "143.198.87.117",
+    "port": 8888,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "SG",
+    "country": "Singapore",
+    "response_ms": 2038,
+    "uptime_pct": 84.5,
+    "checks": 1145
   },
   {
     "ip": "101.5.200.193",
@@ -103,21 +91,21 @@
     "anonymity": "elite",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 3180,
-    "uptime_pct": 57.1,
-    "checks": 7
+    "response_ms": 2067,
+    "uptime_pct": 62.5,
+    "checks": 8
   },
   {
-    "ip": "140.245.53.190",
-    "port": 1088,
+    "ip": "43.156.84.41",
+    "port": 10808,
     "protocol": "socks5",
     "https": true,
     "anonymity": "elite",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 4642,
-    "uptime_pct": 77.8,
-    "checks": 2209
+    "response_ms": 2102,
+    "uptime_pct": 90.9,
+    "checks": 570
   },
   {
     "ip": "45.43.63.37",
@@ -127,9 +115,57 @@
     "anonymity": "elite",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 5105,
+    "response_ms": 2234,
     "uptime_pct": 90.3,
-    "checks": 2803
+    "checks": 2804
+  },
+  {
+    "ip": "8.219.97.248",
+    "port": 80,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "SG",
+    "country": "Singapore",
+    "response_ms": 2330,
+    "uptime_pct": 82.2,
+    "checks": 2798
+  },
+  {
+    "ip": "178.128.82.131",
+    "port": 10808,
+    "protocol": "socks5",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "SG",
+    "country": "Singapore",
+    "response_ms": 2734,
+    "uptime_pct": 59.9,
+    "checks": 137
+  },
+  {
+    "ip": "43.160.255.142",
+    "port": 7890,
+    "protocol": "socks4",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "SG",
+    "country": "Singapore",
+    "response_ms": 2818,
+    "uptime_pct": 62.9,
+    "checks": 1099
+  },
+  {
+    "ip": "129.226.93.232",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "SG",
+    "country": "Singapore",
+    "response_ms": 3055,
+    "uptime_pct": 98.8,
+    "checks": 84
   },
   {
     "ip": "43.156.201.214",
@@ -139,8 +175,8 @@
     "anonymity": "elite",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 6611,
-    "uptime_pct": 24.5,
-    "checks": 94
+    "response_ms": 7504,
+    "uptime_pct": 25,
+    "checks": 96
   }
 ]
