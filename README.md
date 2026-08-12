@@ -2,7 +2,7 @@
 
 ![Live proxies](https://img.shields.io/badge/live%20proxies-415-22c55e?style=flat-square)
 ![Countries](https://img.shields.io/badge/countries-51-3b82f6?style=flat-square)
-![Median speed](https://img.shields.io/badge/median%20speed-937%20ms-a855f7?style=flat-square)
+![Median speed](https://img.shields.io/badge/median%20speed-938%20ms-a855f7?style=flat-square)
 ![Updated](https://img.shields.io/badge/updated-12%20Aug%202026%2014%3A05%20UTC-64748b?style=flat-square)
 
 Most free proxy lists are full of dead addresses, and you only find out after your script
@@ -10,7 +10,7 @@ fails. This list is different. Every proxy here answered a real request through 
 server in the last few minutes, and the files update every 5 minutes.
 
 Right now you get **415 working proxies** in **51 countries**. Half of
-them answer in under **937 ms**.
+them answer in under **938 ms**.
 
 > Built and maintained by [Relayglass](https://relayglass.com).
 
