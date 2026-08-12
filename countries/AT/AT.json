@@ -7,20 +7,32 @@
     "anonymity": "transparent",
     "country_code": "AT",
     "country": "Austria",
-    "response_ms": 1083,
+    "response_ms": 1240,
     "uptime_pct": 89.2,
-    "checks": 1663
+    "checks": 1664
   },
   {
     "ip": "149.248.76.55",
-    "port": 10006,
-    "protocol": "socks5",
+    "port": 10012,
+    "protocol": "http",
     "https": true,
     "anonymity": "elite",
     "country_code": "AT",
     "country": "Austria",
-    "response_ms": 1710,
-    "uptime_pct": 67.6,
-    "checks": 68
+    "response_ms": 3720,
+    "uptime_pct": 80,
+    "checks": 120
+  },
+  {
+    "ip": "149.248.76.55",
+    "port": 10006,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "AT",
+    "country": "Austria",
+    "response_ms": 6775,
+    "uptime_pct": 68.1,
+    "checks": 69
   }
 ]
