@@ -1,17 +1,5 @@
 [
   {
-    "ip": "43.164.3.124",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "TH",
-    "country": "Thailand",
-    "response_ms": 1313,
-    "uptime_pct": 99.9,
-    "checks": 2991
-  },
-  {
     "ip": "202.28.194.139",
     "port": 31280,
     "protocol": "http",
@@ -19,9 +7,21 @@
     "anonymity": "elite",
     "country_code": "TH",
     "country": "Thailand",
-    "response_ms": 2117,
+    "response_ms": 940,
     "uptime_pct": 99.7,
-    "checks": 2998
+    "checks": 2999
+  },
+  {
+    "ip": "43.164.3.124",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "TH",
+    "country": "Thailand",
+    "response_ms": 1442,
+    "uptime_pct": 99.9,
+    "checks": 2992
   },
   {
     "ip": "38.76.215.92",
@@ -34,5 +34,17 @@
     "response_ms": 3337,
     "uptime_pct": 75.8,
     "checks": 2546
+  },
+  {
+    "ip": "125.25.214.150",
+    "port": 8080,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "TH",
+    "country": "Thailand",
+    "response_ms": 6450,
+    "uptime_pct": 13.6,
+    "checks": 22
   }
 ]
