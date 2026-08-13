@@ -1,17 +1,5 @@
 [
   {
-    "ip": "66.163.119.55",
-    "port": 10006,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "IT",
-    "country": "Italy",
-    "response_ms": 90,
-    "uptime_pct": 93.2,
-    "checks": 2765
-  },
-  {
     "ip": "77.242.177.57",
     "port": 3128,
     "protocol": "http",
@@ -19,8 +7,20 @@
     "anonymity": "anonymous",
     "country_code": "IT",
     "country": "Italy",
-    "response_ms": 2880,
+    "response_ms": 1959,
     "uptime_pct": 77.9,
-    "checks": 1052
+    "checks": 1053
+  },
+  {
+    "ip": "66.163.119.55",
+    "port": 10006,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "IT",
+    "country": "Italy",
+    "response_ms": 3237,
+    "uptime_pct": 93.2,
+    "checks": 2766
   }
 ]
