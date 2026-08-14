@@ -1,15 +1,15 @@
 [
   {
-    "ip": "152.53.20.190",
-    "port": 20000,
+    "ip": "47.91.65.23",
+    "port": 3128,
     "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
+    "https": false,
+    "anonymity": "transparent",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 15,
-    "uptime_pct": 86.1,
-    "checks": 3380
+    "response_ms": 20,
+    "uptime_pct": 96.5,
+    "checks": 3399
   },
   {
     "ip": "103.237.102.191",
@@ -19,9 +19,9 @@
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 21,
+    "response_ms": 22,
     "uptime_pct": 99.3,
-    "checks": 3425
+    "checks": 3426
   },
   {
     "ip": "151.243.224.12",
@@ -32,20 +32,8 @@
     "country_code": "DE",
     "country": "Germany",
     "response_ms": 33,
-    "uptime_pct": 68.7,
-    "checks": 444
-  },
-  {
-    "ip": "47.91.65.23",
-    "port": 3128,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
-    "country_code": "DE",
-    "country": "Germany",
-    "response_ms": 34,
-    "uptime_pct": 96.5,
-    "checks": 3398
+    "uptime_pct": 68.8,
+    "checks": 445
   },
   {
     "ip": "80.74.54.148",
@@ -55,9 +43,9 @@
     "anonymity": "anonymous",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 42,
+    "response_ms": 47,
     "uptime_pct": 86.6,
-    "checks": 2609
+    "checks": 2610
   },
   {
     "ip": "193.58.122.93",
@@ -81,7 +69,7 @@
     "country": "Germany",
     "response_ms": 60,
     "uptime_pct": 99.2,
-    "checks": 389
+    "checks": 390
   },
   {
     "ip": "95.211.64.139",
@@ -91,9 +79,9 @@
     "anonymity": "transparent",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 452,
+    "response_ms": 148,
     "uptime_pct": 94,
-    "checks": 600
+    "checks": 601
   },
   {
     "ip": "173.212.234.174",
@@ -108,16 +96,28 @@
     "checks": 2068
   },
   {
-    "ip": "159.195.49.27",
-    "port": 1080,
-    "protocol": "socks5",
+    "ip": "31.76.20.238",
+    "port": 7890,
+    "protocol": "http",
     "https": true,
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 1071,
-    "uptime_pct": 80.9,
-    "checks": 3563
+    "response_ms": 1869,
+    "uptime_pct": 100,
+    "checks": 3
+  },
+  {
+    "ip": "152.53.20.190",
+    "port": 20000,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 2110,
+    "uptime_pct": 86.1,
+    "checks": 3381
   },
   {
     "ip": "116.202.108.111",
@@ -127,21 +127,9 @@
     "anonymity": "transparent",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 2231,
+    "response_ms": 2118,
     "uptime_pct": 98.3,
-    "checks": 3354
-  },
-  {
-    "ip": "47.245.165.201",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "DE",
-    "country": "Germany",
-    "response_ms": 2535,
-    "uptime_pct": 77.2,
-    "checks": 2900
+    "checks": 3355
   },
   {
     "ip": "5.35.85.97",
@@ -151,9 +139,33 @@
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 3354,
+    "response_ms": 3706,
     "uptime_pct": 68.1,
-    "checks": 2564
+    "checks": 2565
+  },
+  {
+    "ip": "159.195.49.27",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 6375,
+    "uptime_pct": 80.9,
+    "checks": 3564
+  },
+  {
+    "ip": "47.245.165.201",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 7212,
+    "uptime_pct": 77.2,
+    "checks": 2901
   },
   {
     "ip": "159.195.49.27",
@@ -163,8 +175,8 @@
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 5244,
+    "response_ms": 7775,
     "uptime_pct": 82.2,
-    "checks": 3484
+    "checks": 3485
   }
 ]
