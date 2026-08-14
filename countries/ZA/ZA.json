@@ -1,17 +1,5 @@
 [
   {
-    "ip": "196.223.129.21",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "ZA",
-    "country": "South Africa",
-    "response_ms": 778,
-    "uptime_pct": 71.9,
-    "checks": 836
-  },
-  {
     "ip": "102.39.140.134",
     "port": 8080,
     "protocol": "http",
@@ -19,9 +7,21 @@
     "anonymity": "transparent",
     "country_code": "ZA",
     "country": "South Africa",
-    "response_ms": 1694,
-    "uptime_pct": 66.7,
-    "checks": 6
+    "response_ms": 846,
+    "uptime_pct": 71.4,
+    "checks": 7
+  },
+  {
+    "ip": "102.215.245.6",
+    "port": 4153,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "ZA",
+    "country": "South Africa",
+    "response_ms": 901,
+    "uptime_pct": 26.7,
+    "checks": 243
   },
   {
     "ip": "43.135.135.65",
@@ -31,8 +31,20 @@
     "anonymity": "elite",
     "country_code": "ZA",
     "country": "South Africa",
-    "response_ms": 5386,
+    "response_ms": 3083,
     "uptime_pct": 62.7,
-    "checks": 825
+    "checks": 826
+  },
+  {
+    "ip": "196.223.129.21",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "ZA",
+    "country": "South Africa",
+    "response_ms": 7876,
+    "uptime_pct": 71.9,
+    "checks": 837
   }
 ]
