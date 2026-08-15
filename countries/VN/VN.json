@@ -1,15 +1,27 @@
 [
   {
-    "ip": "38.54.15.87",
-    "port": 8888,
+    "ip": "42.96.18.62",
+    "port": 1311,
     "protocol": "http",
-    "https": false,
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "VN",
+    "country": "Vietnam",
+    "response_ms": 1159,
+    "uptime_pct": 92.1,
+    "checks": 2612
+  },
+  {
+    "ip": "103.6.235.13",
+    "port": 5555,
+    "protocol": "socks5",
+    "https": true,
     "anonymity": "elite",
     "country_code": "VN",
     "country": "Vietnam",
-    "response_ms": 1170,
-    "uptime_pct": 33.3,
-    "checks": 3
+    "response_ms": 1398,
+    "uptime_pct": 72.4,
+    "checks": 2602
   },
   {
     "ip": "103.82.20.76",
@@ -19,44 +31,32 @@
     "anonymity": "elite",
     "country_code": "VN",
     "country": "Vietnam",
-    "response_ms": 2339,
-    "uptime_pct": 48.2,
-    "checks": 680
+    "response_ms": 2742,
+    "uptime_pct": 48.3,
+    "checks": 681
   },
   {
-    "ip": "171.253.95.241",
-    "port": 2119,
+    "ip": "38.54.15.87",
+    "port": 8888,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "VN",
+    "country": "Vietnam",
+    "response_ms": 4107,
+    "uptime_pct": 50,
+    "checks": 4
+  },
+  {
+    "ip": "171.253.95.238",
+    "port": 2118,
     "protocol": "http",
     "https": true,
     "anonymity": "elite",
     "country_code": "VN",
     "country": "Vietnam",
-    "response_ms": 3368,
-    "uptime_pct": 47.8,
-    "checks": 46
-  },
-  {
-    "ip": "116.109.179.109",
-    "port": 1080,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "VN",
-    "country": "Vietnam",
-    "response_ms": 3426,
-    "uptime_pct": 22.5,
-    "checks": 80
-  },
-  {
-    "ip": "116.96.32.160",
-    "port": 1085,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "VN",
-    "country": "Vietnam",
-    "response_ms": 4147,
-    "uptime_pct": 54.4,
-    "checks": 90
+    "response_ms": 5357,
+    "uptime_pct": 54.5,
+    "checks": 202
   }
 ]
