@@ -1,15 +1,15 @@
 [
   {
-    "ip": "103.112.69.87",
-    "port": 3128,
-    "protocol": "http",
+    "ip": "77.110.102.252",
+    "port": 1080,
+    "protocol": "socks5",
     "https": true,
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 56,
-    "uptime_pct": 88.6,
-    "checks": 1514
+    "response_ms": 69,
+    "uptime_pct": 94.6,
+    "checks": 4011
   },
   {
     "ip": "204.76.203.9",
@@ -19,45 +19,9 @@
     "anonymity": "elite",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 66,
+    "response_ms": 69,
     "uptime_pct": 99.3,
-    "checks": 593
-  },
-  {
-    "ip": "185.125.200.80",
-    "port": 1090,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "NL",
-    "country": "The Netherlands",
-    "response_ms": 70,
-    "uptime_pct": 92.3,
-    "checks": 364
-  },
-  {
-    "ip": "77.110.102.252",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "NL",
-    "country": "The Netherlands",
-    "response_ms": 73,
-    "uptime_pct": 94.6,
-    "checks": 4010
-  },
-  {
-    "ip": "95.211.174.135",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "anonymous",
-    "country_code": "NL",
-    "country": "The Netherlands",
-    "response_ms": 78,
-    "uptime_pct": 77.5,
-    "checks": 2253
+    "checks": 594
   },
   {
     "ip": "204.76.203.9",
@@ -67,9 +31,21 @@
     "anonymity": "elite",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 78,
+    "response_ms": 72,
     "uptime_pct": 99.9,
-    "checks": 2714
+    "checks": 2715
+  },
+  {
+    "ip": "95.211.174.135",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "anonymous",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "response_ms": 80,
+    "uptime_pct": 77.5,
+    "checks": 2254
   },
   {
     "ip": "52.142.253.29",
@@ -79,45 +55,9 @@
     "anonymity": "anonymous",
     "country_code": "NL",
     "country": "Netherlands",
-    "response_ms": 170,
-    "uptime_pct": 66.7,
-    "checks": 33
-  },
-  {
-    "ip": "45.144.53.63",
-    "port": 6015,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "anonymous",
-    "country_code": "NL",
-    "country": "The Netherlands",
-    "response_ms": 176,
-    "uptime_pct": 77.1,
-    "checks": 188
-  },
-  {
-    "ip": "89.208.106.37",
-    "port": 32712,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "NL",
-    "country": "The Netherlands",
-    "response_ms": 206,
-    "uptime_pct": 92.6,
-    "checks": 1118
-  },
-  {
-    "ip": "95.211.64.139",
-    "port": 8888,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "NL",
-    "country": "The Netherlands",
-    "response_ms": 347,
-    "uptime_pct": 96.2,
-    "checks": 3854
+    "response_ms": 83,
+    "uptime_pct": 67.6,
+    "checks": 34
   },
   {
     "ip": "95.211.64.139",
@@ -127,21 +67,9 @@
     "anonymity": "transparent",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 348,
+    "response_ms": 111,
     "uptime_pct": 96,
-    "checks": 3818
-  },
-  {
-    "ip": "66.163.127.204",
-    "port": 10006,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "NL",
-    "country": "Netherlands",
-    "response_ms": 542,
-    "uptime_pct": 83.8,
-    "checks": 1725
+    "checks": 3819
   },
   {
     "ip": "95.211.64.139",
@@ -151,57 +79,69 @@
     "anonymity": "transparent",
     "country_code": "NL",
     "country": "Netherlands",
-    "response_ms": 1202,
+    "response_ms": 114,
     "uptime_pct": 95.7,
-    "checks": 1621
+    "checks": 1622
   },
   {
-    "ip": "144.124.227.88",
-    "port": 3129,
+    "ip": "66.163.127.204",
+    "port": 10006,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "NL",
+    "country": "Netherlands",
+    "response_ms": 192,
+    "uptime_pct": 83.8,
+    "checks": 1726
+  },
+  {
+    "ip": "95.211.64.139",
+    "port": 8888,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "response_ms": 192,
+    "uptime_pct": 96.2,
+    "checks": 3855
+  },
+  {
+    "ip": "89.208.106.37",
+    "port": 32712,
     "protocol": "socks5",
     "https": true,
     "anonymity": "elite",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 2639,
-    "uptime_pct": 52,
-    "checks": 1466
+    "response_ms": 220,
+    "uptime_pct": 92.6,
+    "checks": 1119
   },
   {
-    "ip": "144.124.232.204",
-    "port": 5222,
-    "protocol": "socks5",
+    "ip": "103.112.69.87",
+    "port": 3128,
+    "protocol": "http",
     "https": true,
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 2853,
-    "uptime_pct": 29.7,
-    "checks": 64
+    "response_ms": 235,
+    "uptime_pct": 88.6,
+    "checks": 1515
   },
   {
-    "ip": "45.133.210.241",
-    "port": 1080,
-    "protocol": "socks4",
+    "ip": "45.144.53.63",
+    "port": 6015,
+    "protocol": "http",
     "https": true,
-    "anonymity": "elite",
+    "anonymity": "anonymous",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 5689,
-    "uptime_pct": 73.1,
-    "checks": 670
-  },
-  {
-    "ip": "80.78.18.216",
-    "port": 16379,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "NL",
-    "country": "The Netherlands",
-    "response_ms": 6339,
-    "uptime_pct": 50.8,
-    "checks": 128
+    "response_ms": 318,
+    "uptime_pct": 76.8,
+    "checks": 190
   },
   {
     "ip": "5.255.117.127",
@@ -211,8 +151,68 @@
     "anonymity": "elite",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 6619,
+    "response_ms": 1060,
     "uptime_pct": 87.9,
-    "checks": 2444
+    "checks": 2445
+  },
+  {
+    "ip": "185.125.200.80",
+    "port": 1090,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "response_ms": 3277,
+    "uptime_pct": 92.3,
+    "checks": 365
+  },
+  {
+    "ip": "185.171.83.65",
+    "port": 49153,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "response_ms": 4301,
+    "uptime_pct": 54.4,
+    "checks": 1296
+  },
+  {
+    "ip": "193.26.122.186",
+    "port": 9050,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "response_ms": 4422,
+    "uptime_pct": 26.3,
+    "checks": 19
+  },
+  {
+    "ip": "45.133.210.241",
+    "port": 1080,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "response_ms": 6809,
+    "uptime_pct": 73.2,
+    "checks": 671
+  },
+  {
+    "ip": "95.163.220.107",
+    "port": 10808,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "response_ms": 7079,
+    "uptime_pct": 58.2,
+    "checks": 79
   }
 ]
