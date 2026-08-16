@@ -1,15 +1,15 @@
 [
   {
-    "ip": "15.235.21.254",
-    "port": 8080,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
+    "ip": "192.227.241.55",
+    "port": 10800,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
     "country_code": "CA",
     "country": "Canada",
-    "response_ms": 869,
-    "uptime_pct": 88.2,
-    "checks": 3732
+    "response_ms": 990,
+    "uptime_pct": 100,
+    "checks": 1
   },
   {
     "ip": "103.217.201.96",
@@ -19,8 +19,20 @@
     "anonymity": "elite",
     "country_code": "CA",
     "country": "Canada",
-    "response_ms": 7448,
-    "uptime_pct": 65.9,
-    "checks": 349
+    "response_ms": 2056,
+    "uptime_pct": 66,
+    "checks": 350
+  },
+  {
+    "ip": "15.235.21.254",
+    "port": 8080,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "CA",
+    "country": "Canada",
+    "response_ms": 3238,
+    "uptime_pct": 88.2,
+    "checks": 3733
   }
 ]
