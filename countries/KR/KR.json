@@ -1,15 +1,39 @@
 [
   {
     "ip": "183.110.216.128",
+    "port": 8090,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "KR",
+    "country": "South Korea",
+    "response_ms": 786,
+    "uptime_pct": 80.9,
+    "checks": 2580
+  },
+  {
+    "ip": "183.110.216.128",
     "port": 8091,
     "protocol": "http",
     "https": false,
     "anonymity": "anonymous",
     "country_code": "KR",
     "country": "South Korea",
-    "response_ms": 789,
+    "response_ms": 793,
     "uptime_pct": 78.3,
-    "checks": 2667
+    "checks": 2668
+  },
+  {
+    "ip": "183.110.216.159",
+    "port": 8091,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "KR",
+    "country": "South Korea",
+    "response_ms": 816,
+    "uptime_pct": 81,
+    "checks": 2454
   },
   {
     "ip": "124.61.132.233",
@@ -19,21 +43,9 @@
     "anonymity": "elite",
     "country_code": "KR",
     "country": "South Korea",
-    "response_ms": 816,
-    "uptime_pct": 63.6,
-    "checks": 195
-  },
-  {
-    "ip": "132.226.171.101",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "KR",
-    "country": "South Korea",
-    "response_ms": 1029,
-    "uptime_pct": 83.1,
-    "checks": 89
+    "response_ms": 884,
+    "uptime_pct": 63.8,
+    "checks": 196
   },
   {
     "ip": "8.213.151.128",
@@ -43,33 +55,21 @@
     "anonymity": "transparent",
     "country_code": "KR",
     "country": "South Korea",
-    "response_ms": 1032,
+    "response_ms": 1035,
     "uptime_pct": 97.3,
-    "checks": 3754
-  },
-  {
-    "ip": "1.231.81.166",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "KR",
-    "country": "South Korea",
-    "response_ms": 1154,
-    "uptime_pct": 97.1,
-    "checks": 3661
+    "checks": 3755
   },
   {
     "ip": "219.249.37.107",
-    "port": 8197,
+    "port": 8380,
     "protocol": "http",
     "https": false,
     "anonymity": "elite",
     "country_code": "KR",
     "country": "South Korea",
-    "response_ms": 1185,
-    "uptime_pct": 79.1,
-    "checks": 2790
+    "response_ms": 1187,
+    "uptime_pct": 78.8,
+    "checks": 2883
   },
   {
     "ip": "219.249.37.107",
@@ -79,21 +79,9 @@
     "anonymity": "elite",
     "country_code": "KR",
     "country": "South Korea",
-    "response_ms": 1195,
+    "response_ms": 1199,
     "uptime_pct": 79.2,
-    "checks": 2909
-  },
-  {
-    "ip": "183.110.216.128",
-    "port": 8090,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
-    "country_code": "KR",
-    "country": "South Korea",
-    "response_ms": 1834,
-    "uptime_pct": 80.8,
-    "checks": 2579
+    "checks": 2910
   },
   {
     "ip": "43.164.136.189",
@@ -103,8 +91,32 @@
     "anonymity": "elite",
     "country_code": "KR",
     "country": "South Korea",
-    "response_ms": 5279,
+    "response_ms": 1456,
     "uptime_pct": 97.6,
-    "checks": 3746
+    "checks": 3747
+  },
+  {
+    "ip": "132.226.171.101",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "KR",
+    "country": "South Korea",
+    "response_ms": 2608,
+    "uptime_pct": 83.3,
+    "checks": 90
+  },
+  {
+    "ip": "1.231.81.166",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "KR",
+    "country": "South Korea",
+    "response_ms": 6761,
+    "uptime_pct": 97.1,
+    "checks": 3662
   }
 ]
