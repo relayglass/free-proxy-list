@@ -1,5 +1,17 @@
 [
   {
+    "ip": "144.31.152.25",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "FI",
+    "country": "Finland",
+    "response_ms": 185,
+    "uptime_pct": 25,
+    "checks": 4
+  },
+  {
     "ip": "138.124.118.235",
     "port": 8080,
     "protocol": "http",
@@ -7,21 +19,9 @@
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 162,
+    "response_ms": 187,
     "uptime_pct": 88.7,
-    "checks": 2287
-  },
-  {
-    "ip": "31.76.31.221",
-    "port": 1080,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "FI",
-    "country": "Finland",
-    "response_ms": 177,
-    "uptime_pct": 53.3,
-    "checks": 289
+    "checks": 2288
   },
   {
     "ip": "195.26.230.202",
@@ -31,21 +31,9 @@
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 207,
+    "response_ms": 243,
     "uptime_pct": 99.7,
-    "checks": 3822
-  },
-  {
-    "ip": "83.147.216.208",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "FI",
-    "country": "Finland",
-    "response_ms": 268,
-    "uptime_pct": 90.7,
-    "checks": 3942
+    "checks": 3823
   },
   {
     "ip": "92.118.234.124",
@@ -55,8 +43,32 @@
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 1695,
+    "response_ms": 1100,
     "uptime_pct": 94.6,
-    "checks": 3755
+    "checks": 3756
+  },
+  {
+    "ip": "83.147.216.208",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FI",
+    "country": "Finland",
+    "response_ms": 2283,
+    "uptime_pct": 90.7,
+    "checks": 3943
+  },
+  {
+    "ip": "31.76.31.221",
+    "port": 1080,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FI",
+    "country": "Finland",
+    "response_ms": 2434,
+    "uptime_pct": 53.4,
+    "checks": 290
   }
 ]
