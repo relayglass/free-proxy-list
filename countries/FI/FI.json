@@ -1,17 +1,5 @@
 [
   {
-    "ip": "144.31.75.29",
-    "port": 1080,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "FI",
-    "country": "Finland",
-    "response_ms": 178,
-    "uptime_pct": 87,
-    "checks": 1186
-  },
-  {
     "ip": "138.124.118.235",
     "port": 8080,
     "protocol": "http",
@@ -19,9 +7,21 @@
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 192,
+    "response_ms": 183,
     "uptime_pct": 88.7,
-    "checks": 2548
+    "checks": 2549
+  },
+  {
+    "ip": "83.147.216.208",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FI",
+    "country": "Finland",
+    "response_ms": 218,
+    "uptime_pct": 90.9,
+    "checks": 4196
   },
   {
     "ip": "195.26.230.202",
@@ -31,9 +31,9 @@
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 226,
+    "response_ms": 231,
     "uptime_pct": 99.7,
-    "checks": 4070
+    "checks": 4071
   },
   {
     "ip": "31.76.80.215",
@@ -43,20 +43,32 @@
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 526,
+    "response_ms": 617,
     "uptime_pct": 57.1,
-    "checks": 2147
+    "checks": 2149
   },
   {
-    "ip": "92.118.234.124",
+    "ip": "144.31.75.29",
     "port": 1080,
-    "protocol": "socks5",
+    "protocol": "http",
     "https": true,
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 4366,
+    "response_ms": 1962,
+    "uptime_pct": 87,
+    "checks": 1187
+  },
+  {
+    "ip": "92.118.234.124",
+    "port": 1080,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FI",
+    "country": "Finland",
+    "response_ms": 5834,
     "uptime_pct": 94.5,
-    "checks": 4005
+    "checks": 4006
   }
 ]
