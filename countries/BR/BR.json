@@ -1,5 +1,17 @@
 [
   {
+    "ip": "170.245.120.179",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "BR",
+    "country": "Brazil",
+    "response_ms": 675,
+    "uptime_pct": 33.3,
+    "checks": 9
+  },
+  {
     "ip": "201.20.42.46",
     "port": 3127,
     "protocol": "http",
@@ -7,20 +19,32 @@
     "anonymity": "transparent",
     "country_code": "BR",
     "country": "Brazil",
-    "response_ms": 943,
-    "uptime_pct": 56.3,
-    "checks": 794
+    "response_ms": 965,
+    "uptime_pct": 56.4,
+    "checks": 795
   },
   {
-    "ip": "190.102.55.14",
-    "port": 8080,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
+    "ip": "201.131.214.1",
+    "port": 5678,
+    "protocol": "socks4",
+    "https": false,
+    "anonymity": "elite",
     "country_code": "BR",
     "country": "Brazil",
-    "response_ms": 1184,
+    "response_ms": 1001,
+    "uptime_pct": 26.8,
+    "checks": 183
+  },
+  {
+    "ip": "212.85.0.134",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "BR",
+    "country": "Brazil",
+    "response_ms": 1273,
     "uptime_pct": 58.3,
-    "checks": 36
+    "checks": 96
   }
 ]
