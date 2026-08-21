@@ -1,5 +1,17 @@
 [
   {
+    "ip": "183.110.216.159",
+    "port": 8090,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "KR",
+    "country": "South Korea",
+    "response_ms": 802,
+    "uptime_pct": 77.1,
+    "checks": 3170
+  },
+  {
     "ip": "183.110.216.128",
     "port": 8091,
     "protocol": "http",
@@ -7,21 +19,9 @@
     "anonymity": "anonymous",
     "country_code": "KR",
     "country": "South Korea",
-    "response_ms": 809,
+    "response_ms": 807,
     "uptime_pct": 76,
-    "checks": 3466
-  },
-  {
-    "ip": "183.110.216.159",
-    "port": 8091,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
-    "country_code": "KR",
-    "country": "South Korea",
-    "response_ms": 816,
-    "uptime_pct": 78.3,
-    "checks": 3315
+    "checks": 3467
   },
   {
     "ip": "1.231.81.166",
@@ -31,9 +31,9 @@
     "anonymity": "transparent",
     "country_code": "KR",
     "country": "South Korea",
-    "response_ms": 1147,
+    "response_ms": 1149,
     "uptime_pct": 97.1,
-    "checks": 5359
+    "checks": 5360
   },
   {
     "ip": "8.213.151.128",
@@ -43,9 +43,9 @@
     "anonymity": "transparent",
     "country_code": "KR",
     "country": "South Korea",
-    "response_ms": 1184,
+    "response_ms": 1199,
     "uptime_pct": 96.8,
-    "checks": 5450
+    "checks": 5451
   },
   {
     "ip": "43.164.136.189",
@@ -55,8 +55,32 @@
     "anonymity": "elite",
     "country_code": "KR",
     "country": "South Korea",
-    "response_ms": 1843,
+    "response_ms": 1495,
     "uptime_pct": 97.9,
-    "checks": 5153
+    "checks": 5154
+  },
+  {
+    "ip": "130.162.144.61",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "KR",
+    "country": "South Korea",
+    "response_ms": 1759,
+    "uptime_pct": 100,
+    "checks": 1
+  },
+  {
+    "ip": "183.110.216.159",
+    "port": 8091,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "KR",
+    "country": "South Korea",
+    "response_ms": 1833,
+    "uptime_pct": 78.3,
+    "checks": 3316
   }
 ]
