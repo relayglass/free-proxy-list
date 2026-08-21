@@ -1,15 +1,39 @@
 [
   {
-    "ip": "183.110.216.159",
-    "port": 8091,
+    "ip": "183.110.216.128",
+    "port": 8090,
     "protocol": "http",
     "https": false,
     "anonymity": "anonymous",
     "country_code": "KR",
     "country": "South Korea",
-    "response_ms": 794,
-    "uptime_pct": 78.5,
-    "checks": 3213
+    "response_ms": 828,
+    "uptime_pct": 78.3,
+    "checks": 3312
+  },
+  {
+    "ip": "101.79.29.143",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "anonymous",
+    "country_code": "KR",
+    "country": "South Korea",
+    "response_ms": 1079,
+    "uptime_pct": 60,
+    "checks": 80
+  },
+  {
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "KR",
+    "country": "South Korea",
+    "response_ms": 1099,
+    "uptime_pct": 96.8,
+    "checks": 5268
   },
   {
     "ip": "1.231.81.166",
@@ -19,45 +43,9 @@
     "anonymity": "transparent",
     "country_code": "KR",
     "country": "South Korea",
-    "response_ms": 1178,
+    "response_ms": 1157,
     "uptime_pct": 97,
-    "checks": 5179
-  },
-  {
-    "ip": "182.231.145.236",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "KR",
-    "country": "South Korea",
-    "response_ms": 1372,
-    "uptime_pct": 96.5,
-    "checks": 57
-  },
-  {
-    "ip": "121.169.46.116",
-    "port": 1090,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "KR",
-    "country": "South Korea",
-    "response_ms": 1380,
-    "uptime_pct": 78.8,
-    "checks": 4490
-  },
-  {
-    "ip": "43.164.136.189",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "KR",
-    "country": "South Korea",
-    "response_ms": 1664,
-    "uptime_pct": 97.9,
-    "checks": 4971
+    "checks": 5180
   },
   {
     "ip": "150.109.247.86",
@@ -67,8 +55,44 @@
     "anonymity": "elite",
     "country_code": "KR",
     "country": "South Korea",
-    "response_ms": 2071,
+    "response_ms": 1454,
     "uptime_pct": 100,
-    "checks": 1
+    "checks": 2
+  },
+  {
+    "ip": "43.164.136.189",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "KR",
+    "country": "South Korea",
+    "response_ms": 1545,
+    "uptime_pct": 97.9,
+    "checks": 4972
+  },
+  {
+    "ip": "182.231.145.236",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "KR",
+    "country": "South Korea",
+    "response_ms": 1729,
+    "uptime_pct": 96.6,
+    "checks": 58
+  },
+  {
+    "ip": "121.169.46.116",
+    "port": 1090,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "KR",
+    "country": "South Korea",
+    "response_ms": 3316,
+    "uptime_pct": 78.8,
+    "checks": 4492
   }
 ]
