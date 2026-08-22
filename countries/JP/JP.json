@@ -1,5 +1,17 @@
 [
   {
+    "ip": "45.146.163.31",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 930,
+    "uptime_pct": 99.9,
+    "checks": 5582
+  },
+  {
     "ip": "203.99.240.182",
     "port": 80,
     "protocol": "http",
@@ -7,9 +19,9 @@
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1002,
+    "response_ms": 1000,
     "uptime_pct": 99.9,
-    "checks": 5589
+    "checks": 5590
   },
   {
     "ip": "203.99.240.179",
@@ -21,31 +33,7 @@
     "country": "Japan",
     "response_ms": 1006,
     "uptime_pct": 99.8,
-    "checks": 5593
-  },
-  {
-    "ip": "152.32.145.146",
-    "port": 8888,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
-    "country_code": "JP",
-    "country": "Japan",
-    "response_ms": 1019,
-    "uptime_pct": 95.9,
-    "checks": 3886
-  },
-  {
-    "ip": "114.94.148.37",
-    "port": 18080,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "JP",
-    "country": "Japan",
-    "response_ms": 1044,
-    "uptime_pct": 98.6,
-    "checks": 5259
+    "checks": 5594
   },
   {
     "ip": "8.209.255.13",
@@ -55,9 +43,9 @@
     "anonymity": "transparent",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1060,
+    "response_ms": 1065,
     "uptime_pct": 95.4,
-    "checks": 5509
+    "checks": 5510
   },
   {
     "ip": "43.133.175.183",
@@ -67,9 +55,9 @@
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1092,
+    "response_ms": 1127,
     "uptime_pct": 98,
-    "checks": 2340
+    "checks": 2341
   },
   {
     "ip": "101.36.104.46",
@@ -79,33 +67,9 @@
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1594,
+    "response_ms": 1567,
     "uptime_pct": 90.7,
-    "checks": 5816
-  },
-  {
-    "ip": "45.146.163.31",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "JP",
-    "country": "Japan",
-    "response_ms": 1928,
-    "uptime_pct": 99.9,
-    "checks": 5581
-  },
-  {
-    "ip": "103.75.118.84",
-    "port": 1080,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "JP",
-    "country": "Japan",
-    "response_ms": 3263,
-    "uptime_pct": 93.1,
-    "checks": 2702
+    "checks": 5817
   },
   {
     "ip": "101.36.104.239",
@@ -115,20 +79,68 @@
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 4654,
+    "response_ms": 2462,
     "uptime_pct": 92.5,
-    "checks": 5751
+    "checks": 5752
   },
   {
-    "ip": "112.28.149.152",
-    "port": 8443,
+    "ip": "114.94.148.37",
+    "port": 18080,
     "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 2579,
+    "uptime_pct": 98.6,
+    "checks": 5260
+  },
+  {
+    "ip": "103.75.118.84",
+    "port": 1080,
+    "protocol": "socks4",
     "https": true,
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 7312,
+    "response_ms": 3010,
+    "uptime_pct": 93.1,
+    "checks": 2703
+  },
+  {
+    "ip": "112.28.149.152",
+    "port": 8443,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 4435,
     "uptime_pct": 91.1,
-    "checks": 5524
+    "checks": 5525
+  },
+  {
+    "ip": "34.84.162.206",
+    "port": 38081,
+    "protocol": "socks5",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 6093,
+    "uptime_pct": 32.8,
+    "checks": 67
+  },
+  {
+    "ip": "152.32.145.146",
+    "port": 8888,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 6468,
+    "uptime_pct": 95.9,
+    "checks": 3887
   }
 ]
