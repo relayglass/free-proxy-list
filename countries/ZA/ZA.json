@@ -1,17 +1,5 @@
 [
   {
-    "ip": "157.90.113.23",
-    "port": 9052,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "ZA",
-    "country": "South Africa",
-    "response_ms": 44,
-    "uptime_pct": 75.5,
-    "checks": 503
-  },
-  {
     "ip": "102.39.214.109",
     "port": 8080,
     "protocol": "http",
@@ -19,8 +7,20 @@
     "anonymity": "transparent",
     "country_code": "ZA",
     "country": "South Africa",
-    "response_ms": 985,
+    "response_ms": 992,
     "uptime_pct": 97.2,
-    "checks": 359
+    "checks": 360
+  },
+  {
+    "ip": "196.251.222.234",
+    "port": 8080,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "ZA",
+    "country": "South Africa",
+    "response_ms": 2150,
+    "uptime_pct": 50,
+    "checks": 2
   }
 ]
