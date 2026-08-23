@@ -1,16 +1,16 @@
 # Free Proxy List - Checked Every 5 Minutes
 
 ![Live proxies](https://img.shields.io/badge/live%20proxies-381-22c55e?style=flat-square)
-![Countries](https://img.shields.io/badge/countries-58-3b82f6?style=flat-square)
-![Median speed](https://img.shields.io/badge/median%20speed-945%20ms-a855f7?style=flat-square)
-![Updated](https://img.shields.io/badge/updated-23%20Aug%202026%2002%3A10%20UTC-64748b?style=flat-square)
+![Countries](https://img.shields.io/badge/countries-60-3b82f6?style=flat-square)
+![Median speed](https://img.shields.io/badge/median%20speed-956%20ms-a855f7?style=flat-square)
+![Updated](https://img.shields.io/badge/updated-23%20Aug%202026%2002%3A15%20UTC-64748b?style=flat-square)
 
 Most free proxy lists are full of dead addresses, and you only find out after your script
 fails. This list is different. Every proxy here answered a real request through our own test
 server in the last few minutes, and the files update every 5 minutes.
 
-Right now you get **381 working proxies** in **58 countries**. Half of
-them answer in under **945 ms**.
+Right now you get **381 working proxies** in **60 countries**. Half of
+them answer in under **956 ms**.
 
 > Built and maintained by [Relayglass](https://relayglass.com).
 
@@ -47,14 +47,14 @@ print(r.status_code)
 | [`all.txt`](all.txt) | 381 | You want everything, `ip:port` on each line |
 | [`all.csv`](all.csv) | 381 | You want to filter by country, speed, or uptime |
 | [`all.json`](all.json) | 381 | Your code would rather not parse CSV |
-| [`protocol/http/http.txt`](protocol/http/http.txt) | 218 | Your tool asks for an HTTP proxy. Start here |
-| [`protocol/socks5/socks5.txt`](protocol/socks5/socks5.txt) | 89 | You need SOCKS5, which also carries non-web traffic |
-| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 74 | Your tool only speaks the older SOCKS4 |
-| [`protocol/https/https.txt`](protocol/https/https.txt) | 167 | You need to load `https://` pages through the proxy |
-| [`anonymity/elite/`](anonymity/elite) | 274 | The site must not see that you use a proxy |
+| [`protocol/http/http.txt`](protocol/http/http.txt) | 226 | Your tool asks for an HTTP proxy. Start here |
+| [`protocol/socks5/socks5.txt`](protocol/socks5/socks5.txt) | 86 | You need SOCKS5, which also carries non-web traffic |
+| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 69 | Your tool only speaks the older SOCKS4 |
+| [`protocol/https/https.txt`](protocol/https/https.txt) | 168 | You need to load `https://` pages through the proxy |
+| [`anonymity/elite/`](anonymity/elite) | 267 | The site must not see that you use a proxy |
 
 A note on the HTTPS file. Many HTTP proxies can only forward plain `http://` pages. Loading an
-`https://` page needs a different trick, called CONNECT, and only 167 of our proxies
+`https://` page needs a different trick, called CONNECT, and only 168 of our proxies
 support it. If your requests to secure sites fail, use that file.
 
 ## 📂 Browse by protocol, country, or anonymity
@@ -73,7 +73,7 @@ protocol/
 countries/
   US/       US.txt     US.csv     US.json
   DE/       DE.txt     DE.csv     DE.json
-  ...one folder per country, 58 right now
+  ...one folder per country, 60 right now
 
 anonymity/
   elite/        http/  https/  socks4/  socks5/
@@ -125,11 +125,11 @@ converting anything:
 These are the five countries with the most working proxies right now:
 
 ```
-United States  ██████████████████████████████  137
-China          ██████  28
-France         ████  19
-Germany        ███  15
-Japan          ███  14
+United States  ██████████████████████████████  132
+China          ███████  29
+France         ████  17
+Japan          ███  15
+Germany        ███  14
 ```
 
 Country matters more than you might think. A proxy in the same country as the site you load
@@ -221,8 +221,8 @@ print(len(fast), fast[:5])
 Free proxies are not stable, and any list that promises uptime is lying to you. Here are our
 real numbers, measured across the whole list.
 
-The average proxy in this list has **85% uptime**. So if you load 100
-addresses from `all.txt` and try them all at once, expect about **85** to answer.
+The average proxy in this list has **84.5% uptime**. So if you load 100
+addresses from `all.txt` and try them all at once, expect about **84** to answer.
 The rest will have died since the last check, and that is normal.
 
 We re-test every working proxy every 5 minutes. If one fails, we test it less often, and
@@ -274,7 +274,7 @@ You get 381 working proxies, updated every 5 minutes. Check the `anonymity` colu
 before you trust a proxy to hide your address, sort by `uptime_pct` rather than speed, and
 never send anything private through a free proxy.
 
-**Last updated:** 2026-08-23 02:10 UTC. This page and every file are generated
+**Last updated:** 2026-08-23 02:15 UTC. This page and every file are generated
 automatically, so a pull request against them will be replaced by the next run.
 
 ## ⚖️ Disclaimer
