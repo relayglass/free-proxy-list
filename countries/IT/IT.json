@@ -1,15 +1,27 @@
 [
   {
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "protocol": "socks4",
+    "ip": "93.42.151.100",
+    "port": 4443,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "IT",
+    "country": "Italy",
+    "response_ms": 220,
+    "uptime_pct": 50,
+    "checks": 16
+  },
+  {
+    "ip": "109.73.181.237",
+    "port": 7080,
+    "protocol": "socks5",
     "https": true,
     "anonymity": "elite",
     "country_code": "IT",
     "country": "Italy",
-    "response_ms": 837,
-    "uptime_pct": 79.3,
-    "checks": 4692
+    "response_ms": 424,
+    "uptime_pct": 15,
+    "checks": 60
   },
   {
     "ip": "95.254.142.165",
@@ -19,20 +31,20 @@
     "anonymity": "anonymous",
     "country_code": "IT",
     "country": "Italy",
-    "response_ms": 1831,
+    "response_ms": 483,
     "uptime_pct": 84.9,
-    "checks": 476
+    "checks": 477
   },
   {
-    "ip": "93.42.151.100",
-    "port": 4443,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
     "country_code": "IT",
     "country": "Italy",
-    "response_ms": 3198,
-    "uptime_pct": 46.7,
-    "checks": 15
+    "response_ms": 1625,
+    "uptime_pct": 79.3,
+    "checks": 4693
   }
 ]
