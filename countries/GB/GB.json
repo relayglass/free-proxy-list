@@ -1,17 +1,5 @@
 [
   {
-    "ip": "82.102.11.164",
-    "port": 3460,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "GB",
-    "country": "United Kingdom",
-    "response_ms": 136,
-    "uptime_pct": 56.7,
-    "checks": 1702
-  },
-  {
     "ip": "159.69.45.217",
     "port": 1083,
     "protocol": "http",
@@ -19,9 +7,21 @@
     "anonymity": "transparent",
     "country_code": "GB",
     "country": "United Kingdom",
-    "response_ms": 322,
+    "response_ms": 196,
     "uptime_pct": 100,
-    "checks": 16
+    "checks": 17
+  },
+  {
+    "ip": "91.231.186.236",
+    "port": 8080,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "response_ms": 278,
+    "uptime_pct": 72.6,
+    "checks": 1888
   },
   {
     "ip": "192.252.210.233",
@@ -33,31 +33,7 @@
     "country": "United Kingdom",
     "response_ms": 924,
     "uptime_pct": 99.7,
-    "checks": 5918
-  },
-  {
-    "ip": "212.58.132.5",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "GB",
-    "country": "United Kingdom",
-    "response_ms": 1630,
-    "uptime_pct": 94.7,
-    "checks": 5982
-  },
-  {
-    "ip": "91.231.186.236",
-    "port": 8080,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "GB",
-    "country": "United Kingdom",
-    "response_ms": 5485,
-    "uptime_pct": 72.5,
-    "checks": 1887
+    "checks": 5919
   },
   {
     "ip": "212.58.132.5",
@@ -67,8 +43,20 @@
     "anonymity": "transparent",
     "country_code": "GB",
     "country": "United Kingdom",
-    "response_ms": 5557,
+    "response_ms": 1133,
     "uptime_pct": 90.6,
-    "checks": 5885
+    "checks": 5886
+  },
+  {
+    "ip": "212.58.132.5",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "response_ms": 1597,
+    "uptime_pct": 94.7,
+    "checks": 5983
   }
 ]
