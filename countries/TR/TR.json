@@ -1,17 +1,5 @@
 [
   {
-    "ip": "212.115.103.200",
-    "port": 8080,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "TR",
-    "country": "Turkey",
-    "response_ms": 214,
-    "uptime_pct": 48.4,
-    "checks": 31
-  },
-  {
     "ip": "95.3.69.222",
     "port": 8080,
     "protocol": "http",
@@ -19,21 +7,33 @@
     "anonymity": "transparent",
     "country_code": "TR",
     "country": "Turkey",
-    "response_ms": 297,
+    "response_ms": 290,
     "uptime_pct": 99.8,
-    "checks": 6291
+    "checks": 6292
   },
   {
-    "ip": "45.74.158.148",
-    "port": 443,
-    "protocol": "socks5",
+    "ip": "45.144.214.8",
+    "port": 1081,
+    "protocol": "socks4",
     "https": true,
     "anonymity": "elite",
     "country_code": "TR",
-    "country": "Turkey",
-    "response_ms": 1685,
-    "uptime_pct": 75,
-    "checks": 240
+    "country": "T\u00FCrkiye",
+    "response_ms": 546,
+    "uptime_pct": 59.3,
+    "checks": 410
+  },
+  {
+    "ip": "2.188.254.235",
+    "port": 1314,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "TR",
+    "country": "T\u00FCrkiye",
+    "response_ms": 2917,
+    "uptime_pct": 72.2,
+    "checks": 270
   },
   {
     "ip": "178.244.225.106",
@@ -43,8 +43,20 @@
     "anonymity": "elite",
     "country_code": "TR",
     "country": "Turkey",
-    "response_ms": 5960,
+    "response_ms": 2955,
     "uptime_pct": 100,
-    "checks": 2
+    "checks": 3
+  },
+  {
+    "ip": "45.74.158.148",
+    "port": 443,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "TR",
+    "country": "Turkey",
+    "response_ms": 6662,
+    "uptime_pct": 75.1,
+    "checks": 241
   }
 ]
