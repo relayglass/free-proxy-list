@@ -1,29 +1,5 @@
 [
   {
-    "ip": "109.199.119.160",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "FR",
-    "country": "France",
-    "response_ms": 38,
-    "uptime_pct": 99,
-    "checks": 6338
-  },
-  {
-    "ip": "62.210.215.36",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
-    "country_code": "FR",
-    "country": "France",
-    "response_ms": 62,
-    "uptime_pct": 84.5,
-    "checks": 3436
-  },
-  {
     "ip": "206.245.131.160",
     "port": 80,
     "protocol": "http",
@@ -31,9 +7,21 @@
     "anonymity": "elite",
     "country_code": "FR",
     "country": "France",
-    "response_ms": 73,
+    "response_ms": 55,
     "uptime_pct": 99.9,
-    "checks": 6320
+    "checks": 6321
+  },
+  {
+    "ip": "109.199.119.160",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "FR",
+    "country": "France",
+    "response_ms": 74,
+    "uptime_pct": 99,
+    "checks": 6339
   },
   {
     "ip": "37.187.74.125",
@@ -43,81 +31,21 @@
     "anonymity": "elite",
     "country_code": "FR",
     "country": "France",
-    "response_ms": 90,
+    "response_ms": 85,
     "uptime_pct": 92.9,
-    "checks": 6252
+    "checks": 6253
   },
   {
-    "ip": "185.185.80.58",
-    "port": 1088,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "FR",
-    "country": "France",
-    "response_ms": 694,
-    "uptime_pct": 89.2,
-    "checks": 6536
-  },
-  {
-    "ip": "90.221.4.86",
-    "port": 8080,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "FR",
-    "country": "France",
-    "response_ms": 1199,
-    "uptime_pct": 78,
-    "checks": 881
-  },
-  {
-    "ip": "152.228.237.108",
-    "port": 1080,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "FR",
-    "country": "France",
-    "response_ms": 3017,
-    "uptime_pct": 76.1,
-    "checks": 1806
-  },
-  {
-    "ip": "163.172.53.142",
+    "ip": "62.210.215.36",
     "port": 80,
     "protocol": "http",
     "https": false,
-    "anonymity": "elite",
+    "anonymity": "anonymous",
     "country_code": "FR",
     "country": "France",
-    "response_ms": 3078,
-    "uptime_pct": 65.1,
-    "checks": 3975
-  },
-  {
-    "ip": "213.136.92.91",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "FR",
-    "country": "France",
-    "response_ms": 4233,
-    "uptime_pct": 96.3,
-    "checks": 4949
-  },
-  {
-    "ip": "212.47.232.28",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "FR",
-    "country": "France",
-    "response_ms": 5569,
-    "uptime_pct": 80.6,
-    "checks": 4739
+    "response_ms": 88,
+    "uptime_pct": 84.5,
+    "checks": 3437
   },
   {
     "ip": "80.241.214.192",
@@ -127,9 +55,9 @@
     "anonymity": "transparent",
     "country_code": "FR",
     "country": "France",
-    "response_ms": 5698,
+    "response_ms": 603,
     "uptime_pct": 77.1,
-    "checks": 1616
+    "checks": 1617
   },
   {
     "ip": "144.91.121.61",
@@ -139,8 +67,104 @@
     "anonymity": "elite",
     "country_code": "FR",
     "country": "France",
-    "response_ms": 6207,
+    "response_ms": 685,
     "uptime_pct": 95.3,
-    "checks": 6231
+    "checks": 6232
+  },
+  {
+    "ip": "212.47.232.28",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "FR",
+    "country": "France",
+    "response_ms": 1048,
+    "uptime_pct": 80.7,
+    "checks": 4740
+  },
+  {
+    "ip": "163.172.53.142",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "FR",
+    "country": "France",
+    "response_ms": 1190,
+    "uptime_pct": 65.1,
+    "checks": 3976
+  },
+  {
+    "ip": "185.185.80.58",
+    "port": 1088,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FR",
+    "country": "France",
+    "response_ms": 1475,
+    "uptime_pct": 89.2,
+    "checks": 6537
+  },
+  {
+    "ip": "90.221.4.86",
+    "port": 8080,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "FR",
+    "country": "France",
+    "response_ms": 1687,
+    "uptime_pct": 78,
+    "checks": 882
+  },
+  {
+    "ip": "158.220.99.85",
+    "port": 4545,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FR",
+    "country": "France",
+    "response_ms": 1732,
+    "uptime_pct": 83.9,
+    "checks": 31
+  },
+  {
+    "ip": "213.136.92.91",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FR",
+    "country": "France",
+    "response_ms": 2189,
+    "uptime_pct": 96.3,
+    "checks": 4950
+  },
+  {
+    "ip": "152.228.134.176",
+    "port": 48080,
+    "protocol": "socks5",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "FR",
+    "country": "France",
+    "response_ms": 3220,
+    "uptime_pct": 26.6,
+    "checks": 128
+  },
+  {
+    "ip": "152.228.237.108",
+    "port": 1080,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FR",
+    "country": "France",
+    "response_ms": 6341,
+    "uptime_pct": 76.1,
+    "checks": 1807
   }
 ]
