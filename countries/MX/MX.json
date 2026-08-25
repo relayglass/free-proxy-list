@@ -1,17 +1,5 @@
 [
   {
-    "ip": "103.88.234.239",
-    "port": 40013,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "MX",
-    "country": "Mexico",
-    "response_ms": 647,
-    "uptime_pct": 88,
-    "checks": 216
-  },
-  {
     "ip": "189.202.188.149",
     "port": 80,
     "protocol": "http",
@@ -21,6 +9,30 @@
     "country": "Mexico",
     "response_ms": 684,
     "uptime_pct": 99.9,
-    "checks": 6509
+    "checks": 6510
+  },
+  {
+    "ip": "190.9.48.193",
+    "port": 999,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "MX",
+    "country": "Mexico",
+    "response_ms": 687,
+    "uptime_pct": 100,
+    "checks": 1
+  },
+  {
+    "ip": "103.88.234.239",
+    "port": 40013,
+    "protocol": "socks4",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "MX",
+    "country": "Mexico",
+    "response_ms": 1795,
+    "uptime_pct": 88,
+    "checks": 217
   }
 ]
