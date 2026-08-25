@@ -1,15 +1,15 @@
 [
   {
-    "ip": "20.204.43.57",
-    "port": 80,
+    "ip": "151.185.59.41",
+    "port": 8080,
     "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
+    "https": true,
+    "anonymity": "elite",
     "country_code": "IN",
     "country": "India",
-    "response_ms": 760,
-    "uptime_pct": 100,
-    "checks": 6486
+    "response_ms": 729,
+    "uptime_pct": 36,
+    "checks": 50
   },
   {
     "ip": "168.144.210.164",
@@ -19,9 +19,33 @@
     "anonymity": "elite",
     "country_code": "IN",
     "country": "India",
-    "response_ms": 906,
+    "response_ms": 770,
     "uptime_pct": 89.9,
-    "checks": 217
+    "checks": 218
+  },
+  {
+    "ip": "20.204.43.57",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "IN",
+    "country": "India",
+    "response_ms": 782,
+    "uptime_pct": 100,
+    "checks": 6487
+  },
+  {
+    "ip": "144.24.111.128",
+    "port": 1088,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "IN",
+    "country": "India",
+    "response_ms": 1156,
+    "uptime_pct": 98,
+    "checks": 6546
   },
   {
     "ip": "139.167.218.162",
@@ -36,6 +60,18 @@
     "checks": 242
   },
   {
+    "ip": "103.41.33.169",
+    "port": 51951,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "IN",
+    "country": "India",
+    "response_ms": 2113,
+    "uptime_pct": 19.8,
+    "checks": 91
+  },
+  {
     "ip": "152.67.22.144",
     "port": 1080,
     "protocol": "socks5",
@@ -43,20 +79,20 @@
     "anonymity": "elite",
     "country_code": "IN",
     "country": "India",
-    "response_ms": 1517,
+    "response_ms": 4712,
     "uptime_pct": 100,
-    "checks": 3
+    "checks": 4
   },
   {
-    "ip": "144.24.111.128",
-    "port": 1088,
-    "protocol": "socks5",
+    "ip": "14.139.235.82",
+    "port": 3128,
+    "protocol": "http",
     "https": true,
-    "anonymity": "elite",
+    "anonymity": "anonymous",
     "country_code": "IN",
     "country": "India",
-    "response_ms": 1883,
-    "uptime_pct": 98,
-    "checks": 6545
+    "response_ms": 7219,
+    "uptime_pct": 95.1,
+    "checks": 4813
   }
 ]
