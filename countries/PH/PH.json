@@ -1,14 +1,26 @@
 [
   {
-    "ip": "112.198.22.122",
-    "port": 80,
+    "ip": "180.191.235.172",
+    "port": 8080,
     "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
+    "https": true,
+    "anonymity": "transparent",
     "country_code": "PH",
     "country": "Philippines",
-    "response_ms": 7080,
-    "uptime_pct": 64.3,
-    "checks": 185
+    "response_ms": 1789,
+    "uptime_pct": 28.6,
+    "checks": 7
+  },
+  {
+    "ip": "180.191.140.96",
+    "port": 8081,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "PH",
+    "country": "Philippines",
+    "response_ms": 7662,
+    "uptime_pct": 25,
+    "checks": 8
   }
 ]
