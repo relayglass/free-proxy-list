@@ -1,14 +1,26 @@
 [
   {
-    "ip": "131.100.19.5",
-    "port": 4321,
-    "protocol": "http",
-    "https": false,
+    "ip": "177.152.106.74",
+    "port": 1080,
+    "protocol": "socks4",
+    "https": true,
     "anonymity": "elite",
     "country_code": "BR",
     "country": "Brazil",
-    "response_ms": 1337,
-    "uptime_pct": 100,
-    "checks": 2
+    "response_ms": 1547,
+    "uptime_pct": 50,
+    "checks": 4
+  },
+  {
+    "ip": "177.107.30.198",
+    "port": 61804,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "BR",
+    "country": "Brazil",
+    "response_ms": 3972,
+    "uptime_pct": 21.4,
+    "checks": 14
   }
 ]
