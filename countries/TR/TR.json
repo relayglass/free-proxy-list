@@ -1,17 +1,5 @@
 [
   {
-    "ip": "212.115.103.200",
-    "port": 8080,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "TR",
-    "country": "Turkey",
-    "response_ms": 204,
-    "uptime_pct": 40.4,
-    "checks": 99
-  },
-  {
     "ip": "95.3.69.222",
     "port": 8080,
     "protocol": "http",
@@ -19,8 +7,20 @@
     "anonymity": "transparent",
     "country_code": "TR",
     "country": "Turkey",
-    "response_ms": 326,
+    "response_ms": 301,
     "uptime_pct": 99.8,
-    "checks": 6829
+    "checks": 6830
+  },
+  {
+    "ip": "212.115.103.200",
+    "port": 8080,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "TR",
+    "country": "Turkey",
+    "response_ms": 1317,
+    "uptime_pct": 41,
+    "checks": 100
   }
 ]
