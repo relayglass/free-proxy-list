@@ -1,15 +1,15 @@
 [
   {
-    "ip": "18.101.109.236",
-    "port": 3128,
+    "ip": "195.114.209.50",
+    "port": 80,
     "protocol": "http",
-    "https": true,
-    "anonymity": "anonymous",
+    "https": false,
+    "anonymity": "elite",
     "country_code": "ES",
     "country": "Spain",
-    "response_ms": 202,
-    "uptime_pct": 100,
-    "checks": 12
+    "response_ms": 137,
+    "uptime_pct": 87.2,
+    "checks": 5428
   },
   {
     "ip": "18.101.226.168",
@@ -19,9 +19,21 @@
     "anonymity": "anonymous",
     "country_code": "ES",
     "country": "Spain",
-    "response_ms": 205,
+    "response_ms": 160,
     "uptime_pct": 100,
-    "checks": 12
+    "checks": 13
+  },
+  {
+    "ip": "18.101.109.236",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "anonymous",
+    "country_code": "ES",
+    "country": "Spain",
+    "response_ms": 216,
+    "uptime_pct": 100,
+    "checks": 13
   },
   {
     "ip": "161.35.90.93",
@@ -31,20 +43,8 @@
     "anonymity": "elite",
     "country_code": "ES",
     "country": "Spain",
-    "response_ms": 284,
+    "response_ms": 301,
     "uptime_pct": 59.2,
-    "checks": 2515
-  },
-  {
-    "ip": "195.114.209.50",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "ES",
-    "country": "Spain",
-    "response_ms": 5168,
-    "uptime_pct": 87.2,
-    "checks": 5427
+    "checks": 2516
   }
 ]
