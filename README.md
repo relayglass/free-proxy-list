@@ -3,7 +3,7 @@
 ![Live proxies](https://img.shields.io/badge/live%20proxies-414-22c55e?style=flat-square)
 ![Countries](https://img.shields.io/badge/countries-53-3b82f6?style=flat-square)
 ![Median speed](https://img.shields.io/badge/median%20speed-928%20ms-a855f7?style=flat-square)
-![Updated](https://img.shields.io/badge/updated-27%20Aug%202026%2020%3A15%20UTC-64748b?style=flat-square)
+![Updated](https://img.shields.io/badge/updated-27%20Aug%202026%2020%3A20%20UTC-64748b?style=flat-square)
 
 Most free proxy lists are full of dead addresses, and you only find out after your script
 fails. This list is different. Every proxy here answered a real request through our own test
@@ -47,11 +47,11 @@ print(r.status_code)
 | [`all.txt`](all.txt) | 414 | You want everything, `ip:port` on each line |
 | [`all.csv`](all.csv) | 414 | You want to filter by country, speed, or uptime |
 | [`all.json`](all.json) | 414 | Your code would rather not parse CSV |
-| [`protocol/http/http.txt`](protocol/http/http.txt) | 207 | Your tool asks for an HTTP proxy. Start here |
-| [`protocol/socks5/socks5.txt`](protocol/socks5/socks5.txt) | 114 | You need SOCKS5, which also carries non-web traffic |
-| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 93 | Your tool only speaks the older SOCKS4 |
+| [`protocol/http/http.txt`](protocol/http/http.txt) | 206 | Your tool asks for an HTTP proxy. Start here |
+| [`protocol/socks5/socks5.txt`](protocol/socks5/socks5.txt) | 116 | You need SOCKS5, which also carries non-web traffic |
+| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 92 | Your tool only speaks the older SOCKS4 |
 | [`protocol/https/https.txt`](protocol/https/https.txt) | 159 | You need to load `https://` pages through the proxy |
-| [`anonymity/elite/`](anonymity/elite) | 336 | The site must not see that you use a proxy |
+| [`anonymity/elite/`](anonymity/elite) | 335 | The site must not see that you use a proxy |
 
 A note on the HTTPS file. Many HTTP proxies can only forward plain `http://` pages. Loading an
 `https://` page needs a different trick, called CONNECT, and only 159 of our proxies
@@ -125,11 +125,11 @@ converting anything:
 These are the five countries with the most working proxies right now:
 
 ```
-United States  ██████████████████████████████  195
-China          ███████  43
-France         ██  16
-Hong Kong      ██  13
-Germany        ██  12
+United States  ██████████████████████████████  194
+China          ███████  44
+France         ██  15
+Hong Kong      ██  14
+Germany        ██  11
 ```
 
 Country matters more than you might think. A proxy in the same country as the site you load
@@ -221,7 +221,7 @@ print(len(fast), fast[:5])
 Free proxies are not stable, and any list that promises uptime is lying to you. Here are our
 real numbers, measured across the whole list.
 
-The average proxy in this list has **92.2% uptime**. So if you load 100
+The average proxy in this list has **91.9% uptime**. So if you load 100
 addresses from `all.txt` and try them all at once, expect about **92** to answer.
 The rest will have died since the last check, and that is normal.
 
@@ -274,7 +274,7 @@ You get 414 working proxies, updated every 5 minutes. Check the `anonymity` colu
 before you trust a proxy to hide your address, sort by `uptime_pct` rather than speed, and
 never send anything private through a free proxy.
 
-**Last updated:** 2026-08-27 20:15 UTC. This page and every file are generated
+**Last updated:** 2026-08-27 20:20 UTC. This page and every file are generated
 automatically, so a pull request against them will be replaced by the next run.
 
 ## ⚖️ Disclaimer
