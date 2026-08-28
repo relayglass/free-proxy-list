@@ -1,5 +1,29 @@
 [
   {
+    "ip": "45.146.163.31",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 921,
+    "uptime_pct": 99.9,
+    "checks": 7163
+  },
+  {
+    "ip": "112.28.149.152",
+    "port": 8443,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 985,
+    "uptime_pct": 91.1,
+    "checks": 7100
+  },
+  {
     "ip": "203.99.240.182",
     "port": 80,
     "protocol": "http",
@@ -9,7 +33,7 @@
     "country": "Japan",
     "response_ms": 995,
     "uptime_pct": 99.9,
-    "checks": 7170
+    "checks": 7171
   },
   {
     "ip": "203.99.240.179",
@@ -19,9 +43,9 @@
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1001,
+    "response_ms": 999,
     "uptime_pct": 99.8,
-    "checks": 7173
+    "checks": 7174
   },
   {
     "ip": "114.94.148.37",
@@ -36,16 +60,16 @@
     "checks": 6714
   },
   {
-    "ip": "45.146.163.31",
-    "port": 80,
+    "ip": "153.135.4.238",
+    "port": 8080,
     "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
+    "https": true,
+    "anonymity": "transparent",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1012,
-    "uptime_pct": 99.9,
-    "checks": 7162
+    "response_ms": 1063,
+    "uptime_pct": 90.6,
+    "checks": 639
   },
   {
     "ip": "43.133.175.183",
@@ -55,45 +79,21 @@
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1104,
+    "response_ms": 1096,
     "uptime_pct": 97.6,
-    "checks": 3931
+    "checks": 3932
   },
   {
-    "ip": "153.135.4.238",
+    "ip": "45.43.60.220",
     "port": 8080,
     "protocol": "http",
     "https": true,
-    "anonymity": "transparent",
-    "country_code": "JP",
-    "country": "Japan",
-    "response_ms": 1104,
-    "uptime_pct": 90.6,
-    "checks": 638
-  },
-  {
-    "ip": "5.75.133.113",
-    "port": 10811,
-    "protocol": "socks5",
-    "https": true,
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1469,
-    "uptime_pct": 77.6,
-    "checks": 589
-  },
-  {
-    "ip": "101.36.104.239",
-    "port": 10808,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "JP",
-    "country": "Japan",
-    "response_ms": 1571,
-    "uptime_pct": 91.3,
-    "checks": 7385
+    "response_ms": 1492,
+    "uptime_pct": 51.2,
+    "checks": 1301
   },
   {
     "ip": "101.36.104.46",
@@ -103,9 +103,21 @@
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1580,
+    "response_ms": 1530,
     "uptime_pct": 90.1,
-    "checks": 7400
+    "checks": 7401
+  },
+  {
+    "ip": "101.36.104.239",
+    "port": 10808,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "JP",
+    "country": "Japan",
+    "response_ms": 1541,
+    "uptime_pct": 91.3,
+    "checks": 7386
   },
   {
     "ip": "103.75.118.84",
@@ -115,9 +127,9 @@
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 1621,
+    "response_ms": 1605,
     "uptime_pct": 91.5,
-    "checks": 4245
+    "checks": 4246
   },
   {
     "ip": "112.28.149.154",
@@ -127,32 +139,8 @@
     "anonymity": "elite",
     "country_code": "JP",
     "country": "Japan",
-    "response_ms": 3153,
+    "response_ms": 5176,
     "uptime_pct": 91.2,
-    "checks": 1520
-  },
-  {
-    "ip": "112.28.149.152",
-    "port": 8443,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "JP",
-    "country": "Japan",
-    "response_ms": 4171,
-    "uptime_pct": 91.1,
-    "checks": 7099
-  },
-  {
-    "ip": "112.5.173.148",
-    "port": 63180,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "JP",
-    "country": "Japan",
-    "response_ms": 4804,
-    "uptime_pct": 71.3,
-    "checks": 94
+    "checks": 1521
   }
 ]
