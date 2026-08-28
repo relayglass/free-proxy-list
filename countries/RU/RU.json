@@ -1,15 +1,15 @@
 [
   {
-    "ip": "79.174.15.1",
+    "ip": "91.233.169.23",
     "port": 8081,
     "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
+    "https": false,
+    "anonymity": "transparent",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 191,
-    "uptime_pct": 94.3,
-    "checks": 87
+    "response_ms": 182,
+    "uptime_pct": 69.5,
+    "checks": 2471
   },
   {
     "ip": "144.31.222.106",
@@ -31,9 +31,9 @@
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 247,
+    "response_ms": 250,
     "uptime_pct": 99.6,
-    "checks": 7043
+    "checks": 7044
   },
   {
     "ip": "46.47.197.210",
@@ -43,9 +43,9 @@
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 315,
+    "response_ms": 361,
     "uptime_pct": 97.2,
-    "checks": 7321
+    "checks": 7322
   },
   {
     "ip": "45.12.18.106",
@@ -67,9 +67,21 @@
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 886,
+    "response_ms": 659,
     "uptime_pct": 89.5,
-    "checks": 7405
+    "checks": 7406
+  },
+  {
+    "ip": "213.110.227.154",
+    "port": 2080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "RU",
+    "country": "Russia",
+    "response_ms": 888,
+    "uptime_pct": 80,
+    "checks": 10
   },
   {
     "ip": "84.54.217.219",
@@ -79,20 +91,32 @@
     "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 1123,
-    "uptime_pct": 50.8,
-    "checks": 122
+    "response_ms": 1038,
+    "uptime_pct": 51.2,
+    "checks": 123
   },
   {
-    "ip": "91.233.169.23",
-    "port": 8081,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
+    "ip": "212.46.215.90",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
     "country_code": "RU",
     "country": "Russia",
-    "response_ms": 2275,
-    "uptime_pct": 69.5,
-    "checks": 2470
+    "response_ms": 6064,
+    "uptime_pct": 23.3,
+    "checks": 30
+  },
+  {
+    "ip": "79.174.15.1",
+    "port": 8081,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "RU",
+    "country": "Russia",
+    "response_ms": 7396,
+    "uptime_pct": 94.3,
+    "checks": 88
   }
 ]
