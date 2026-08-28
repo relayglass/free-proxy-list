@@ -1,17 +1,5 @@
 [
   {
-    "ip": "82.114.228.35",
-    "port": 1080,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "DK",
-    "country": "Denmark",
-    "response_ms": 370,
-    "uptime_pct": 61,
-    "checks": 164
-  },
-  {
     "ip": "194.150.110.134",
     "port": 80,
     "protocol": "http",
@@ -19,8 +7,20 @@
     "anonymity": "anonymous",
     "country_code": "DK",
     "country": "Denmark",
-    "response_ms": 448,
+    "response_ms": 88,
     "uptime_pct": 68.6,
-    "checks": 1591
+    "checks": 1592
+  },
+  {
+    "ip": "82.114.228.35",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "DK",
+    "country": "Denmark",
+    "response_ms": 414,
+    "uptime_pct": 61.2,
+    "checks": 165
   }
 ]
