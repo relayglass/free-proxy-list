@@ -1,15 +1,27 @@
 [
   {
-    "ip": "196.64.100.149",
+    "ip": "196.64.255.148",
+    "port": 5080,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "anonymous",
+    "country_code": "MA",
+    "country": "Morocco",
+    "response_ms": 312,
+    "uptime_pct": 100,
+    "checks": 2
+  },
+  {
+    "ip": "196.64.103.97",
     "port": 1081,
     "protocol": "http",
-    "https": false,
+    "https": true,
     "anonymity": "transparent",
     "country_code": "MA",
     "country": "Morocco",
     "response_ms": 432,
-    "uptime_pct": 88.2,
-    "checks": 17
+    "uptime_pct": 85.7,
+    "checks": 14
   },
   {
     "ip": "196.64.105.104",
@@ -24,54 +36,6 @@
     "checks": 10
   },
   {
-    "ip": "196.64.103.97",
-    "port": 1081,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "MA",
-    "country": "Morocco",
-    "response_ms": 443,
-    "uptime_pct": 84.6,
-    "checks": 13
-  },
-  {
-    "ip": "196.64.96.47",
-    "port": 1081,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
-    "country_code": "MA",
-    "country": "Morocco",
-    "response_ms": 448,
-    "uptime_pct": 95.9,
-    "checks": 49
-  },
-  {
-    "ip": "196.64.105.104",
-    "port": 1081,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "MA",
-    "country": "Morocco",
-    "response_ms": 455,
-    "uptime_pct": 100,
-    "checks": 71
-  },
-  {
-    "ip": "196.64.97.161",
-    "port": 1081,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
-    "country_code": "MA",
-    "country": "Morocco",
-    "response_ms": 461,
-    "uptime_pct": 100,
-    "checks": 9
-  },
-  {
     "ip": "196.64.97.9",
     "port": 1081,
     "protocol": "http",
@@ -79,9 +43,9 @@
     "anonymity": "transparent",
     "country_code": "MA",
     "country": "Morocco",
-    "response_ms": 475,
+    "response_ms": 439,
     "uptime_pct": 100,
-    "checks": 22
+    "checks": 23
   },
   {
     "ip": "196.64.102.187",
@@ -91,9 +55,33 @@
     "anonymity": "transparent",
     "country_code": "MA",
     "country": "Morocco",
-    "response_ms": 1038,
-    "uptime_pct": 93.3,
-    "checks": 15
+    "response_ms": 439,
+    "uptime_pct": 93.8,
+    "checks": 16
+  },
+  {
+    "ip": "196.64.97.161",
+    "port": 1081,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "MA",
+    "country": "Morocco",
+    "response_ms": 443,
+    "uptime_pct": 100,
+    "checks": 10
+  },
+  {
+    "ip": "196.64.100.149",
+    "port": 1081,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "MA",
+    "country": "Morocco",
+    "response_ms": 449,
+    "uptime_pct": 88.9,
+    "checks": 18
   },
   {
     "ip": "196.64.111.231",
@@ -103,9 +91,21 @@
     "anonymity": "transparent",
     "country_code": "MA",
     "country": "Morocco",
-    "response_ms": 1512,
+    "response_ms": 449,
     "uptime_pct": 100,
-    "checks": 4
+    "checks": 5
+  },
+  {
+    "ip": "196.64.96.47",
+    "port": 1081,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "MA",
+    "country": "Morocco",
+    "response_ms": 451,
+    "uptime_pct": 96,
+    "checks": 50
   },
   {
     "ip": "196.64.97.9",
@@ -115,20 +115,20 @@
     "anonymity": "transparent",
     "country_code": "MA",
     "country": "Morocco",
-    "response_ms": 2512,
+    "response_ms": 485,
     "uptime_pct": 100,
-    "checks": 1
+    "checks": 2
   },
   {
-    "ip": "196.64.255.148",
-    "port": 5080,
+    "ip": "196.64.105.104",
+    "port": 1081,
     "protocol": "http",
     "https": true,
-    "anonymity": "anonymous",
+    "anonymity": "transparent",
     "country_code": "MA",
     "country": "Morocco",
-    "response_ms": 4196,
+    "response_ms": 863,
     "uptime_pct": 100,
-    "checks": 1
+    "checks": 72
   }
 ]
