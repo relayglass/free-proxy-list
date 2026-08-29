@@ -1,161 +1,191 @@
 ip,port,protocol,https,anonymity,country_code,country,city,org,asn,response_ms,connect_ms,uptime_pct,checks,last_checked,last_alive
-130.61.112.125,443,http,yes,elite,DE,Germany,Frankfurt am Main,Oracle Cloud Infrastructure (eu-frankfurt-1),AS31898 Oracle Corporation,23,1031,94.4,337,2026-08-29T16:43:52.8009239Z,2026-08-29T16:43:52.8009239Z
-103.237.102.191,11111,http,yes,elite,DE,Germany,Frankfurt am Main,Franet,AS62610 Zenlayer Inc,34,4,98.8,7620,2026-08-29T16:45:08.1443829Z,2026-08-29T16:45:08.1443829Z
-204.76.203.9,3128,http,yes,elite,NL,The Netherlands,Eygelshoven,Intelligence Hosting LLC,AS51396 Pfcloud UG,70,12,99.8,6453,2026-08-29T16:42:12.1519001Z,2026-08-29T16:42:12.1519001Z
-213.165.38.49,1080,socks5,yes,elite,NL,The Netherlands,Amsterdam,Aeza International LTD,AS210644 AEZA GROUP LLC,79,10,93.6,1253,2026-08-29T16:42:22.8792747Z,2026-08-29T16:42:22.8792747Z
-204.76.203.9,8080,http,yes,elite,NL,The Netherlands,Eygelshoven,Intelligence Hosting LLC,AS51396 Pfcloud UG,101,13,99.8,4330,2026-08-29T16:43:51.8606173Z,2026-08-29T16:43:51.8606173Z
-81.19.210.10,80,http,yes,transparent,GB,United Kingdom,City of London,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,106,28,90.1,1243,2026-08-29T16:42:54.9184468Z,2026-08-29T16:42:54.9184468Z
-5.129.228.92,443,http,yes,elite,NL,The Netherlands,Amsterdam,Cloudflare WARP,"AS13335 Cloudflare, Inc.",116,11,86.2,2892,2026-08-29T16:43:13.5438321Z,2026-08-29T16:43:13.5438321Z
+130.61.112.125,443,http,yes,elite,DE,Germany,Frankfurt am Main,Oracle Cloud Infrastructure (eu-frankfurt-1),AS31898 Oracle Corporation,23,4,94.4,338,2026-08-29T16:48:58.0926293Z,2026-08-29T16:48:58.0926293Z
+204.76.203.9,8080,http,yes,elite,NL,The Netherlands,Eygelshoven,Intelligence Hosting LLC,AS51396 Pfcloud UG,68,13,99.8,4331,2026-08-29T16:48:52.5885631Z,2026-08-29T16:48:52.5885631Z
+204.76.203.9,3128,http,yes,elite,NL,The Netherlands,Eygelshoven,Intelligence Hosting LLC,AS51396 Pfcloud UG,69,13,99.8,6454,2026-08-29T16:47:19.0911055Z,2026-08-29T16:47:19.0911055Z
+213.165.38.49,1080,socks5,yes,elite,NL,The Netherlands,Amsterdam,Aeza International LTD,AS210644 AEZA GROUP LLC,70,9,93.6,1254,2026-08-29T16:47:24.7160051Z,2026-08-29T16:47:24.7160051Z
+51.146.240.4,8080,http,yes,elite,FR,France,Paris,Datacamp Limited,AS212238 Datacamp Limited,90,1074,85.7,919,2026-08-29T16:49:05.4568141Z,2026-08-29T16:49:05.4568141Z
+5.129.228.92,443,http,yes,elite,NL,The Netherlands,Amsterdam,Cloudflare WARP,"AS13335 Cloudflare, Inc.",100,10,86.2,2893,2026-08-29T16:48:18.3362264Z,2026-08-29T16:48:18.3362264Z
+81.19.210.10,80,http,yes,transparent,GB,United Kingdom,City of London,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,124,27,90.1,1244,2026-08-29T16:48:01.0972590Z,2026-08-29T16:48:01.0972590Z
+103.237.102.191,11111,http,yes,elite,DE,Germany,Frankfurt am Main,Franet,AS62610 Zenlayer Inc,126,4,98.8,7621,2026-08-29T16:50:09.1787188Z,2026-08-29T16:50:09.1787188Z
 152.53.136.178,10000,http,yes,elite,DE,Germany,Nuremberg,Cloudflare WARP,"AS13335 Cloudflare, Inc.",203,1,94.8,1174,2026-08-29T16:44:45.2588859Z,2026-08-29T16:44:45.2588859Z
-194.163.175.167,40000,http,yes,elite,FR,France,Lauterbourg,Contabo GmbH,AS51167 Contabo GmbH,219,40,97.5,281,2026-08-29T16:41:59.8375561Z,2026-08-29T16:41:59.8375561Z
-83.147.216.208,1080,socks5,yes,elite,FI,Finland,Helsinki,NetCrafters OU,AS203273 NetCrafters OU,263,37,92.7,7762,2026-08-29T16:40:18.5339585Z,2026-08-29T16:40:18.5339585Z
-95.3.69.222,8080,http,yes,transparent,TR,Turkey,Antakya,TurkTelekom,AS9121 Turk Telekomunikasyon Anonim Sirketi,273,49,99.8,7634,2026-08-29T16:44:02.6769577Z,2026-08-29T16:44:02.6769577Z
-185.200.188.234,10001,http,yes,elite,RU,Russia,Moscow,Gorizont LLC,AS209641 IHOR HOSTING LTD,290,52,99.6,7337,2026-08-29T16:42:54.6836281Z,2026-08-29T16:42:54.6836281Z
-196.217.90.39,30001,http,yes,transparent,MA,Morocco,El Kelaa des Srarhna,ADSL Maroc telecom,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,336,59,100,6,2026-08-29T16:43:34.5411193Z,2026-08-29T16:43:34.5411193Z
-176.111.37.216,39811,http,yes,transparent,UA,Ukraine,Dobropol'ye,Cogento Backbone Limited,AS214743 Cogento Backbone Limited,353,41,93.8,6769,2026-08-29T16:42:14.1613394Z,2026-08-29T16:42:14.1613394Z
-89.208.106.37,32712,socks5,yes,elite,NL,The Netherlands,Amsterdam,Aeza Group LLC,AS210644 AEZA GROUP LLC,371,26,92.4,4968,2026-08-29T16:43:52.1440550Z,2026-08-29T16:43:52.1440550Z
-5.200.72.62,3128,http,yes,transparent,IR,Iran,Tehran,RESPINA Networks,AS42337 Respina Networks & Beyond PJSC,377,82,83.7,5094,2026-08-29T16:39:32.0640229Z,2026-08-29T16:39:32.0640229Z
-5.200.72.61,3128,http,yes,transparent,IR,Iran,Tehran,RESPINA Networks,AS42337 Respina Networks & Beyond PJSC,384,77,81.9,1199,2026-08-29T16:31:48.7265051Z,2026-08-29T16:31:48.7265051Z
-130.110.103.245,3128,http,yes,transparent,SA,Saudi Arabia,Jeddah,Oracle Cloud Infrastructure (me-jeddah-1),AS31898 Oracle Corporation,384,66,95.9,5886,2026-08-29T16:43:19.1315920Z,2026-08-29T16:43:19.1315920Z
-64.112.184.210,3128,http,yes,elite,US,United States,Richmond,HOSTEDBACKBONE,AS14713 Hosted Backbone,393,114,98.2,7660,2026-08-29T16:40:24.3395416Z,2026-08-29T16:40:24.3395416Z
-85.193.65.88,8888,http,yes,elite,RU,Russia,Moscow,KTK rIP2,AS203451 K-telekom LLC,414,76,100,97,2026-08-29T16:40:11.8282395Z,2026-08-29T16:40:11.8282395Z
-199.7.149.96,3128,http,yes,elite,US,United States,Stratford,EXO BROADBAND,AS400859 EXO BROADBAND,414,103,99.9,2397,2026-08-29T16:40:54.2319211Z,2026-08-29T16:40:54.2319211Z
+83.147.216.208,1080,socks5,yes,elite,FI,Finland,Helsinki,NetCrafters OU,AS203273 NetCrafters OU,227,33,92.7,7763,2026-08-29T16:45:20.1093624Z,2026-08-29T16:45:20.1093624Z
+176.111.37.216,39811,http,yes,transparent,UA,Ukraine,Dobropol'ye,Cogento Backbone Limited,AS214743 Cogento Backbone Limited,231,1085,93.8,6770,2026-08-29T16:47:20.3251388Z,2026-08-29T16:47:20.3251388Z
+185.200.188.234,10001,http,yes,elite,RU,Russia,Moscow,Gorizont LLC,AS209641 IHOR HOSTING LTD,251,52,99.6,7338,2026-08-29T16:48:01.2490311Z,2026-08-29T16:48:01.2490311Z
+196.217.90.39,30001,http,yes,transparent,MA,Morocco,El Kelaa des Srarhna,ADSL Maroc telecom,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,280,64,100,7,2026-08-29T16:48:41.6615596Z,2026-08-29T16:48:41.6615596Z
+130.110.103.245,3128,http,yes,transparent,SA,Saudi Arabia,Jeddah,Oracle Cloud Infrastructure (me-jeddah-1),AS31898 Oracle Corporation,285,67,95.9,5887,2026-08-29T16:48:24.1862158Z,2026-08-29T16:48:24.1862158Z
+95.3.69.222,8080,http,yes,transparent,TR,Turkey,Antakya,TurkTelekom,AS9121 Turk Telekomunikasyon Anonim Sirketi,287,49,99.8,7635,2026-08-29T16:49:09.6880718Z,2026-08-29T16:49:09.6880718Z
+51.146.240.4,43,http,yes,elite,FR,France,Paris,Datacamp Limited,AS212238 Datacamp Limited,347,1076,83.6,697,2026-08-29T16:50:10.4725116Z,2026-08-29T16:50:10.4725116Z
+51.146.240.4,8181,http,yes,elite,FR,France,Paris,Datacamp Limited,AS212238 Datacamp Limited,347,67,85.2,919,2026-08-29T16:47:07.3320815Z,2026-08-29T16:47:07.3320815Z
+5.200.72.61,3128,http,yes,transparent,IR,Iran,Tehran,RESPINA Networks,AS42337 Respina Networks & Beyond PJSC,354,75,81.9,1200,2026-08-29T16:47:25.0661847Z,2026-08-29T16:47:25.0661847Z
+37.18.73.60,5566,socks4,yes,elite,NL,The Netherlands,Amsterdam,TOR Exit and More,AS215125 Church of Cyberology,384,43,79.5,7429,2026-08-29T16:48:24.2607533Z,2026-08-29T16:48:24.2607533Z
+64.112.184.210,3128,http,yes,elite,US,United States,Richmond,HOSTEDBACKBONE,AS14713 Hosted Backbone,391,95,98.2,7661,2026-08-29T16:45:30.3044795Z,2026-08-29T16:45:30.3044795Z
+196.74.219.253,1082,http,yes,transparent,MA,Morocco,Tangier,ADSL Maroc telecom,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,405,92,91.3,46,2026-08-29T16:48:13.3550633Z,2026-08-29T16:48:13.3550633Z
+5.200.72.62,3128,http,yes,transparent,IR,Iran,Tehran,RESPINA Networks,AS42337 Respina Networks & Beyond PJSC,411,80,83.7,5095,2026-08-29T16:45:42.0959546Z,2026-08-29T16:45:42.0959546Z
 5.200.72.59,3128,http,yes,transparent,IR,Iran,Tehran,RESPINA Networks,AS42337 Respina Networks & Beyond PJSC,416,83,81.8,1184,2026-08-29T16:40:01.1063605Z,2026-08-29T16:40:01.1063605Z
-196.74.219.253,1082,http,yes,transparent,MA,Morocco,Tangier,ADSL Maroc telecom,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,417,84,91.1,45,2026-08-29T16:42:33.6690770Z,2026-08-29T16:42:33.6690770Z
-199.7.149.90,3128,http,yes,elite,US,United States,Stratford,EXO BROADBAND,AS400859 EXO BROADBAND,423,102,100,2973,2026-08-29T16:43:07.1002859Z,2026-08-29T16:43:07.1002859Z
-184.75.221.82,3118,http,yes,anonymous,CA,Canada,Toronto,Amanah Tech Inc,AS32489 Amanah Tech Inc.,441,102,96.8,282,2026-08-29T16:43:57.8440322Z,2026-08-29T16:43:57.8440322Z
-194.87.35.27,8080,http,yes,elite,NL,Netherlands,Dronten,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,449,9,92.5,40,2026-08-29T16:42:28.3356137Z,2026-08-29T16:42:28.3356137Z
-212.154.169.90,3128,http,yes,transparent,KZ,Kazakhstan,Astana,LLC ?electronic Commerce Center,AS50482 JSC Kazakhtelecom,467,79,99.1,5528,2026-08-29T16:44:45.6018767Z,2026-08-29T16:44:45.6018767Z
-37.18.73.60,5566,socks4,yes,elite,NL,The Netherlands,Amsterdam,TOR Exit and More,AS215125 Church of Cyberology,483,49,79.5,7428,2026-08-29T16:43:21.9476813Z,2026-08-29T16:43:21.9476813Z
-71.26.9.161,3128,http,yes,anonymous,US,United States,Washington,"Comcast Cable Communications, LLC","AS7922 Comcast Cable Communications, LLC",502,114,98.8,86,2026-08-29T16:43:01.6268754Z,2026-08-29T16:43:01.6268754Z
-181.78.74.252,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,533,161,99.1,4055,2026-08-29T16:41:06.2701512Z,2026-08-29T16:41:06.2701512Z
-131.153.163.236,38278,http,yes,elite,US,United States,Kansas City,Google Fiber,AS16591 Google Fiber Inc.,545,100,100,3,2026-08-29T16:43:26.1786113Z,2026-08-29T16:43:26.1786113Z
-34.166.25.120,8080,http,yes,elite,SA,Saudi Arabia,Dammam,Google Cloud,AS396982 Google LLC,563,85,100,4167,2026-08-29T16:41:36.2217800Z,2026-08-29T16:41:36.2217800Z
-117.236.124.166,3128,http,yes,elite,IN,India,Gandhinagar,BSNL Internet,AS9829 National Internet Backbone,593,142,96,6530,2026-08-29T16:44:57.0643045Z,2026-08-29T16:44:57.0643045Z
-82.209.210.213,3128,http,yes,transparent,BY,Belarus,Minsk,PPPoE USERS GRODNO,AS6697 Republican Unitary Telecommunication Enterprise Beltelecom,625,67,67.7,2143,2026-08-29T16:42:34.0241503Z,2026-08-29T16:42:34.0241503Z
-43.98.172.166,3128,http,yes,transparent,SG,Singapore,Singapore,Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",651,163,94.1,1386,2026-08-29T16:43:34.9600137Z,2026-08-29T16:43:34.9600137Z
-8.215.112.214,7777,http,yes,elite,ID,Indonesia,Jakarta,Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",695,175,76.2,3102,2026-08-29T16:43:41.2079504Z,2026-08-29T16:43:41.2079504Z
-131.153.163.130,37096,http,yes,elite,US,United States,Lumberton,Spectrum,AS11426 Charter Communications Inc,726,99,100,3,2026-08-29T16:43:26.3584390Z,2026-08-29T16:43:26.3584390Z
-174.138.162.36,8080,http,yes,transparent,DE,Germany,Todtnau,Deutsche Telekom AG,AS3320 Deutsche Telekom AG,735,165,94.4,18,2026-08-29T16:41:55.1945262Z,2026-08-29T16:41:55.1945262Z
-131.153.163.130,8254,http,yes,elite,KN,Saint Kitts and Nevis,Basseterre,The Cable of St. Kitts,AS36290 The Cable of St. Kitts,757,102,69.6,23,2026-08-29T16:41:06.4353581Z,2026-08-29T16:41:06.4353581Z
-144.24.111.128,1088,socks5,yes,elite,IN,India,Mumbai,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation,779,119,97.8,7687,2026-08-29T16:43:07.4722112Z,2026-08-29T16:43:07.4722112Z
-174.138.162.34,8254,http,yes,transparent,DE,Germany,Rüsselsheim,Deutsche Telekom AG,AS3320 Deutsche Telekom AG,787,165,100,6,2026-08-29T16:43:35.0976665Z,2026-08-29T16:43:35.0976665Z
-174.138.162.196,33186,http,yes,elite,US,United States,Hollywood,"Comcast Cable Communications, Inc.","AS7922 Comcast Cable Communications, LLC",792,165,100,3,2026-08-29T16:43:26.4904439Z,2026-08-29T16:43:26.4904439Z
-174.138.162.197,8254,http,yes,transparent,PR,Puerto Rico,Cabo Rojo,Aguadilla Site - Choice Cable TV,AS14638 Liberty Communications of Puerto Rico LLC,793,164,64.7,17,2026-08-29T16:41:17.3296135Z,2026-08-29T16:41:17.3296135Z
-45.59.100.205,3128,http,yes,transparent,US,United States,New York,Impact Host LLC,AS203380 DA International Group Ltd.,797,166,98.9,359,2026-08-29T16:43:08.3882706Z,2026-08-29T16:43:08.3882706Z
-181.78.74.253,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,803,157,99.1,4054,2026-08-29T16:41:00.9057837Z,2026-08-29T16:41:00.9057837Z
-144.91.121.61,1088,socks5,yes,elite,FR,France,Lauterbourg,Contabo GmbH,AS51167 Contabo GmbH,809,124,94.5,7599,2026-08-29T16:43:08.3588307Z,2026-08-29T16:43:08.3588307Z
-58.254.153.146,17981,http,yes,elite,CN,China,Guangzhou,Shanghaiwangsukejifazhanyouxian,AS4134 CHINANET BACKBONE,822,181,96.7,7426,2026-08-29T16:43:14.4197898Z,2026-08-29T16:43:14.4197898Z
-181.78.23.187,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,830,178,98.9,1048,2026-08-29T16:41:00.9522432Z,2026-08-29T16:41:00.9522432Z
-195.158.22.212,3128,http,yes,elite,UZ,Uzbekistan,Qarshi,Uztelecom,AS8193 Uzbektelekom Joint Stock Company,831,99,97.5,279,2026-08-29T16:40:30.6687837Z,2026-08-29T16:40:30.6687837Z
-38.172.184.150,999,http,yes,transparent,VE,Venezuela,Barquisimeto,"RED SERVITEL, CA",AS273848,838,186,15.4,13,2026-08-29T16:44:51.5260028Z,2026-08-29T16:44:51.5260028Z
-181.39.25.196,8118,http,yes,elite,EC,Ecuador,Quito,Clientes Quito,AS27947 Telconet S.A,838,177,99.8,7584,2026-08-29T16:40:30.7527912Z,2026-08-29T16:40:30.7527912Z
+199.7.149.90,3128,http,yes,elite,US,United States,Stratford,EXO BROADBAND,AS400859 EXO BROADBAND,419,98,100,2974,2026-08-29T16:48:13.3732791Z,2026-08-29T16:48:13.3732791Z
+199.7.149.96,3128,http,yes,elite,US,United States,Stratford,EXO BROADBAND,AS400859 EXO BROADBAND,425,102,99.9,2398,2026-08-29T16:45:58.4998606Z,2026-08-29T16:45:58.4998606Z
+213.199.47.140,1080,socks5,yes,elite,FR,France,Lauterbourg,Contabo GmbH,AS51167 Contabo GmbH,429,43,89.8,650,2026-08-29T16:47:54.8681845Z,2026-08-29T16:47:54.8681845Z
+184.75.221.82,3118,http,yes,anonymous,CA,Canada,Toronto,Amanah Tech Inc,AS32489 Amanah Tech Inc.,445,109,96.8,283,2026-08-29T16:49:03.8802462Z,2026-08-29T16:49:03.8802462Z
+212.154.169.90,3128,http,yes,transparent,KZ,Kazakhstan,Astana,LLC ?electronic Commerce Center,AS50482 JSC Kazakhtelecom,449,68,99.1,5529,2026-08-29T16:49:51.7069467Z,2026-08-29T16:49:51.7069467Z
+71.26.9.161,3128,http,yes,anonymous,US,United States,Washington,"Comcast Cable Communications, LLC","AS7922 Comcast Cable Communications, LLC",516,108,98.9,87,2026-08-29T16:48:07.8303123Z,2026-08-29T16:48:07.8303123Z
+85.209.156.148,1080,http,yes,elite,US,United States,Los Angeles,Beafort Limited,AS51765 Oy Creanova Hosting Solutions Ltd.,567,38,90.6,1334,2026-08-29T16:47:31.5231548Z,2026-08-29T16:47:31.5231548Z
+181.78.74.252,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,583,161,99.1,4056,2026-08-29T16:46:12.0113350Z,2026-08-29T16:46:12.0113350Z
+117.236.124.166,3128,http,yes,elite,IN,India,Gandhinagar,BSNL Internet,AS9829 National Internet Backbone,586,137,96,6531,2026-08-29T16:50:04.2259769Z,2026-08-29T16:50:04.2259769Z
+45.12.18.106,1080,socks5,yes,elite,RU,Russia,St Petersburg,Beget,AS198610 Beget LLC,609,1114,90.1,801,2026-08-29T16:48:08.9287032Z,2026-08-29T16:48:08.9287032Z
+131.153.163.130,36979,http,yes,elite,US,United States,Philadelphia,"Comcast IP Services, L.L.C.","AS7922 Comcast Cable Communications, LLC",618,103,50,4,2026-08-29T16:45:58.6944515Z,2026-08-29T16:45:58.6944515Z
+131.153.163.26,30026,http,yes,elite,US,United States,Newark,Verizon Business,AS701 Verizon Business,621,109,40,5,2026-08-29T16:45:30.6002192Z,2026-08-29T16:45:30.6002192Z
+47.84.104.42,3128,http,yes,transparent,SG,Singapore,Singapore,"Delta Centric LLC, Zenlayer Inc","AS45102 Alibaba (US) Technology Co., Ltd.",629,156,100,1,2026-08-29T16:48:13.6493222Z,2026-08-29T16:48:13.6493222Z
+43.98.172.166,3128,http,yes,transparent,SG,Singapore,Singapore,Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",633,164,94.1,1387,2026-08-29T16:48:42.1142232Z,2026-08-29T16:48:42.1142232Z
+131.153.163.130,33207,http,yes,elite,US,United States,Tobyhanna,PenTeleData House Account,AS3737 PenTeleData Inc.,635,102,60,5,2026-08-29T16:47:44.5812615Z,2026-08-29T16:47:44.5812615Z
+8.219.97.248,80,http,yes,elite,SG,Singapore,Singapore,Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",637,158,82.9,8019,2026-08-29T16:45:20.6438846Z,2026-08-29T16:45:20.6438846Z
+34.166.25.120,8080,http,yes,elite,SA,Saudi Arabia,Dammam,Google Cloud,AS396982 Google LLC,664,86,100,4168,2026-08-29T16:46:39.4779913Z,2026-08-29T16:46:39.4779913Z
+194.163.175.167,40000,http,yes,elite,FR,France,Lauterbourg,Contabo GmbH,AS51167 Contabo GmbH,668,278,97.5,282,2026-08-29T16:47:02.8540545Z,2026-08-29T16:47:02.8540545Z
+131.153.163.130,8649,http,yes,transparent,US,United States,Clearwater,Spectrum,"AS33363 Charter Communications, Inc",690,104,55.6,9,2026-08-29T16:46:28.8356132Z,2026-08-29T16:46:28.8356132Z
+144.91.121.61,1088,socks5,yes,elite,FR,France,Lauterbourg,Contabo GmbH,AS51167 Contabo GmbH,697,93,94.5,7600,2026-08-29T16:48:13.6481972Z,2026-08-29T16:48:13.6481972Z
+131.153.163.163,34710,http,yes,elite,US,United States,Frederick,"Comcast Cable Communications, Inc.","AS7922 Comcast Cable Communications, LLC",699,103,100,1,2026-08-29T16:48:21.6667034Z,2026-08-29T16:48:21.6667034Z
+82.209.210.213,3128,http,yes,transparent,BY,Belarus,Minsk,PPPoE USERS GRODNO,AS6697 Republican Unitary Telecommunication Enterprise Beltelecom,723,38,67.7,2144,2026-08-29T16:47:37.2832477Z,2026-08-29T16:47:37.2832477Z
+131.153.163.26,8754,http,yes,elite,US,United States,Virginia Beach,Cox Communications,AS22773 Cox Communications Inc.,727,103,100,1,2026-08-29T16:48:21.6940051Z,2026-08-29T16:48:21.6940051Z
+174.138.162.195,55100,http,yes,elite,US,United States,Cincinnati,Fuse Internet Access - BRAS Florence Region,AS6181 Cincinnati Bell Telephone Company LLC,727,164,33.3,6,2026-08-29T16:46:39.6180208Z,2026-08-29T16:46:39.6180208Z
+45.59.100.205,3128,http,yes,transparent,US,United States,New York,Impact Host LLC,AS203380 DA International Group Ltd.,739,165,98.9,360,2026-08-29T16:48:13.7605750Z,2026-08-29T16:48:13.7605750Z
+131.153.163.234,34633,http,yes,elite,US,United States,Queens,Spectrum,AS12271 Charter Communications Inc,743,103,100,1,2026-08-29T16:48:21.7095585Z,2026-08-29T16:48:21.7095585Z
+114.236.137.41,21000,http,yes,transparent,CN,China,Nanjing,Chinanet JS,AS4134 CHINANET BACKBONE,746,180,87.6,7933,2026-08-29T16:46:57.1939230Z,2026-08-29T16:46:57.1939230Z
+131.153.163.28,8001,http,yes,elite,US,United States,Elgin,"Comcast Cable Communications, LLC","AS7922 Comcast Cable Communications, LLC",750,101,75,4,2026-08-29T16:45:53.8146250Z,2026-08-29T16:45:53.8146250Z
+131.153.163.163,54295,http,yes,elite,US,United States,Wheeling,Comcast Cable Communications,"AS7922 Comcast Cable Communications, LLC",756,102,100,1,2026-08-29T16:48:21.7184238Z,2026-08-29T16:48:21.7184238Z
+165.154.162.73,8888,http,yes,elite,US,United States,Los Angeles,Ucloud Information Technology,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,760,169,89.7,6181,2026-08-29T16:46:33.9936644Z,2026-08-29T16:46:33.9936644Z
+189.51.168.164,999,http,yes,transparent,MX,Mexico,Mérida,Comunicación por Fibra SA de CV,AS270111 Comunicación por Fibra SA de CV,768,169,81.9,265,2026-08-29T16:49:52.1282655Z,2026-08-29T16:49:52.1282655Z
+195.158.22.212,3128,http,yes,elite,UZ,Uzbekistan,Qarshi,Uztelecom,AS8193 Uzbektelekom Joint Stock Company,777,100,97.5,280,2026-08-29T16:45:36.9242233Z,2026-08-29T16:45:36.9242233Z
+181.78.74.253,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,784,157,99.1,4055,2026-08-29T16:46:05.9795018Z,2026-08-29T16:46:05.9795018Z
+131.153.163.238,8250,http,yes,elite,US,United States,Cleveland,Verizon Business,AS6167 Verizon Business,791,103,66.7,21,2026-08-29T16:46:23.4024120Z,2026-08-29T16:46:23.4024120Z
+144.24.111.128,1088,socks5,yes,elite,IN,India,Mumbai,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation,794,115,97.8,7688,2026-08-29T16:48:13.7648501Z,2026-08-29T16:48:13.7648501Z
+181.78.23.187,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,803,161,98.9,1049,2026-08-29T16:46:06.0011350Z,2026-08-29T16:46:06.0011350Z
+181.39.25.196,8118,http,yes,elite,EC,Ecuador,Quito,Clientes Quito,AS27947 Telconet S.A,807,182,99.8,7585,2026-08-29T16:45:37.0372716Z,2026-08-29T16:45:37.0372716Z
+131.153.163.236,31396,http,yes,elite,US,United States,Kissimmee,"Comcast Cable Communications, LLC","AS7922 Comcast Cable Communications, LLC",842,98,100,1,2026-08-29T16:48:21.8005752Z,2026-08-29T16:48:21.8005752Z
+202.28.194.139,31280,http,yes,elite,TH,Thailand,Chiang Mai,Office of Info.Tech. Admin. Educational Development,AS4621 UNINET-TH,866,205,99.7,7601,2026-08-29T16:47:20.0803106Z,2026-08-29T16:47:20.0803106Z
 131.153.163.130,8184,http,yes,elite,KN,Saint Kitts and Nevis,Basseterre,The Cable of St. Kitts,AS36290 The Cable of St. Kitts,867,103,86.4,22,2026-08-29T16:45:09.0767717Z,2026-08-29T16:45:09.0767717Z
-85.209.156.148,1080,http,yes,elite,US,United States,Los Angeles,Beafort Limited,AS51765 Oy Creanova Hosting Solutions Ltd.,874,49,90.5,1333,2026-08-29T16:42:26.1128101Z,2026-08-29T16:42:26.1128101Z
-114.236.137.41,21000,http,yes,transparent,CN,China,Nanjing,Chinanet JS,AS4134 CHINANET BACKBONE,877,188,87.6,7932,2026-08-29T16:41:55.3608941Z,2026-08-29T16:41:55.3608941Z
-79.105.153.208,10808,socks5,yes,elite,DE,Germany,Frankfurt am Main,MHost LLC,AS200823 MHost LLC,894,132,75,28,2026-08-29T16:43:35.1716613Z,2026-08-29T16:43:35.1716613Z
-131.153.163.238,8250,http,yes,elite,US,United States,Cleveland,Verizon Business,AS6167 Verizon Business,930,103,65,20,2026-08-29T16:41:17.4068063Z,2026-08-29T16:41:17.4068063Z
-122.246.4.6,17981,http,yes,elite,CN,China,Ningbo,China Telecom,"AS136188 NINGBO, ZHEJIANG Province, P.R.China.",980,203,82.7,4871,2026-08-29T16:41:42.9435203Z,2026-08-29T16:41:42.9435203Z
-179.41.11.138,8080,http,yes,elite,AR,Argentina,Buenos Aires,Telefonica de Argentina,AS22927 Telefonica de Argentina,993,224,97.2,1400,2026-08-29T16:42:34.3850243Z,2026-08-29T16:42:34.3850243Z
-160.153.172.106,3193,http,yes,transparent,US,United States,Tempe,"GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",999,190,82.6,109,2026-08-29T16:44:40.5892368Z,2026-08-29T16:44:40.5892368Z
-210.211.113.36,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,1044,265,85.3,1440,2026-08-29T16:44:46.3652049Z,2026-08-29T16:44:46.3652049Z
-174.138.162.194,8178,http,yes,elite,PR,Puerto Rico,Aguadilla,Aguadilla Site - Choice Cable TV,AS14638 Liberty Communications of Puerto Rico LLC,1071,164,89.5,19,2026-08-29T16:44:09.2709280Z,2026-08-29T16:44:09.2709280Z
-213.199.47.140,1080,socks5,yes,elite,FR,France,Lauterbourg,Contabo GmbH,AS51167 Contabo GmbH,1094,257,89.8,649,2026-08-29T16:42:48.7477547Z,2026-08-29T16:42:48.7477547Z
-153.135.4.238,8080,http,yes,transparent,JP,Japan,Nakamurachō,Open Computer Network,"AS4713 NTT DOCOMO BUSINESS,Inc.",1103,276,92.9,1076,2026-08-29T16:43:20.0593930Z,2026-08-29T16:43:20.0593930Z
-122.246.3.12,17981,http,yes,elite,CN,China,Ningbo,China Telecom,"AS136188 NINGBO, ZHEJIANG Province, P.R.China.",1104,233,89.8,7897,2026-08-29T16:43:24.7467602Z,2026-08-29T16:43:24.7467602Z
+174.138.163.50,8202,http,yes,transparent,ES,Spain,Castelló de la Plana,Jazztel mobile services,AS12479 Orange Espagne SA,884,165,76.5,17,2026-08-29T16:46:31.7537228Z,2026-08-29T16:46:31.7537228Z
+79.105.153.208,10808,socks5,yes,elite,DE,Germany,Frankfurt am Main,MHost LLC,AS200823 MHost LLC,904,136,75.9,29,2026-08-29T16:48:42.3568210Z,2026-08-29T16:48:42.3568210Z
+122.246.4.6,17981,http,yes,elite,CN,China,Ningbo,China Telecom,"AS136188 NINGBO, ZHEJIANG Province, P.R.China.",920,198,82.7,4872,2026-08-29T16:46:46.0769024Z,2026-08-29T16:46:46.0769024Z
+174.138.162.196,33186,http,yes,elite,US,United States,Hollywood,"Comcast Cable Communications, Inc.","AS7922 Comcast Cable Communications, LLC",938,165,100,4,2026-08-29T16:48:31.1657401Z,2026-08-29T16:48:31.1657401Z
+174.138.162.35,8080,http,yes,transparent,DE,Germany,Hamburg,Telefonica Germany GmbH & Co.,AS6805 Telefonica Germany GmbH & Co.OHG,951,164,85.7,7,2026-08-29T16:46:12.3828799Z,2026-08-29T16:46:12.3828799Z
+194.87.35.27,8080,http,yes,elite,NL,Netherlands,Dronten,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,951,9,92.7,41,2026-08-29T16:47:31.8775440Z,2026-08-29T16:47:31.8775440Z
+58.254.153.146,17981,http,yes,elite,CN,China,Guangzhou,Shanghaiwangsukejifazhanyouxian,AS4134 CHINANET BACKBONE,996,229,96.7,7427,2026-08-29T16:48:19.4511913Z,2026-08-29T16:48:19.4511913Z
+103.149.75.82,1080,socks4,yes,elite,BD,Bangladesh,Dhaka,Amader,AS63969 Race Online Limited,1006,1244,86.4,7185,2026-08-29T16:48:37.3709515Z,2026-08-29T16:48:37.3709515Z
+179.41.11.138,8080,http,yes,elite,AR,Argentina,Buenos Aires,Telefonica de Argentina,AS22927 Telefonica de Argentina,1008,229,97.2,1401,2026-08-29T16:47:37.7607707Z,2026-08-29T16:47:37.7607707Z
+5.45.119.70,1080,socks5,yes,elite,EE,Estonia,Jõhvi,Hosting Services,AS198068 P.A.G.M. OU,1036,1092,70.2,2332,2026-08-29T16:47:33.0457854Z,2026-08-29T16:47:33.0457854Z
+174.138.162.195,8001,http,yes,transparent,PR,Puerto Rico,Río Lajas,NeptunoMedia Inc,"AS30526 Neptuno Media, Inc.",1041,165,76.9,26,2026-08-29T16:45:54.1679496Z,2026-08-29T16:45:54.1679496Z
+174.138.162.196,8254,http,yes,elite,GB,United Kingdom,City of London,TELUS Communications Inc.,AS40676 Psychz Networks,1055,1199,55,20,2026-08-29T16:49:41.5786460Z,2026-08-29T16:49:41.5786460Z
+160.153.172.106,3193,http,yes,transparent,US,United States,Tempe,"GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",1060,205,82.7,110,2026-08-29T16:49:46.7767704Z,2026-08-29T16:49:46.7767704Z
+174.138.163.53,8254,http,yes,transparent,ES,Spain,Las Palmas de Gran Canaria,Digi Spain Telecom S.A,AS57269 DIGI SPAIN TELECOM S.A,1103,161,75,4,2026-08-29T16:45:54.2270536Z,2026-08-29T16:45:54.2270536Z
 43.164.3.124,1080,socks5,yes,elite,TH,Thailand,Bangkok,"Tencent Cloud Computing (Beijing) Co., Ltd","AS132203 Tencent Building, Kejizhongyi Avenue",1105,180,99.7,7307,2026-08-29T16:45:09.3914968Z,2026-08-29T16:45:09.3914968Z
-193.25.215.182,22222,socks5,yes,elite,US,United States,Los Angeles,Readydedis,"AS397966 ReadyDedis, LLC",1105,189,80.4,7004,2026-08-29T16:41:36.8678441Z,2026-08-29T16:41:36.8678441Z
-174.138.162.195,8001,http,yes,elite,PR,Puerto Rico,Río Lajas,NeptunoMedia Inc,"AS30526 Neptuno Media, Inc.",1174,164,76,25,2026-08-29T16:40:49.4240842Z,2026-08-29T16:40:49.4240842Z
-120.232.115.170,17981,http,yes,elite,CN,China,Guangzhou,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd.",1175,1193,87.8,7819,2026-08-29T16:42:25.1579184Z,2026-08-29T16:42:25.1579184Z
-1.231.81.166,3128,http,yes,transparent,KR,South Korea,Jongno-gu,broadNnet,AS9318 SK Broadband Co Ltd,1197,304,97.2,7545,2026-08-29T16:43:07.7937608Z,2026-08-29T16:43:07.7937608Z
-116.196.150.180,17981,http,yes,elite,CN,China,Hangzhou,"Jinhua Weian InfoTech Co., Ltd","AS131516 Jinhua Weian InfoTech Co., Ltd",1205,146,97.7,7447,2026-08-29T16:41:12.6343474Z,2026-08-29T16:41:12.6343474Z
-121.169.46.116,1090,socks5,yes,elite,KR,South Korea,Suwon,Sudogwongangnambonbujang,AS4766 Korea Telecom,1217,192,75.7,5938,2026-08-29T16:45:03.9698323Z,2026-08-29T16:45:03.9698323Z
-14.251.13.20,8080,http,yes,elite,VN,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,AS45899 VNPT Corp,1220,1299,96.6,1395,2026-08-29T16:43:21.1989518Z,2026-08-29T16:43:21.1989518Z
-43.99.100.108,3128,http,yes,elite,HK,Hong Kong,Hong Kong,Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",1227,243,92.9,4675,2026-08-29T16:43:58.7712907Z,2026-08-29T16:43:58.7712907Z
-131.153.163.26,8001,http,yes,elite,US,United States,Brockton,"Comcast Cable Communications, LLC","AS7922 Comcast Cable Communications, LLC",1234,126,100,3,2026-08-29T16:43:29.8319520Z,2026-08-29T16:43:29.8319520Z
-37.59.125.131,8888,http,yes,transparent,FR,France,Saint-Jean-sur-Veyle,ProXad network / Free SA,AS12322 Free SAS,1285,13,92,7275,2026-08-29T16:44:28.4068726Z,2026-08-29T16:44:28.4068726Z
-118.145.128.100,44094,socks5,yes,elite,CN,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","AS137718 Beijing Volcano Engine Technology Co., Ltd.",1330,1260,61.8,55,2026-08-29T16:42:57.3743505Z,2026-08-29T16:42:57.3743505Z
-103.75.118.84,1080,socks4,yes,elite,JP,Japan,Tokyo,Oneprovider.com,"AS136258 BrainStorm Network, Inc",1348,1309,91.7,4670,2026-08-29T16:41:56.9521999Z,2026-08-29T16:41:56.9521999Z
-51.146.240.4,8080,http,yes,elite,FR,France,Paris,Datacamp Limited,AS212238 Datacamp Limited,1375,83,85.7,918,2026-08-29T16:43:58.7588682Z,2026-08-29T16:43:58.7588682Z
-118.145.128.100,44154,socks5,yes,elite,CN,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","AS137718 Beijing Volcano Engine Technology Co., Ltd.",1415,250,72,282,2026-08-29T16:43:36.7229374Z,2026-08-29T16:43:36.7229374Z
-174.138.163.52,8001,http,yes,transparent,ES,Spain,Chiclana de la Frontera,YIF Network,AS12479 Orange Espagne SA,1449,164,57.1,14,2026-08-29T16:44:14.9423290Z,2026-08-29T16:44:14.9423290Z
+174.138.163.52,8001,http,yes,elite,ES,Spain,Chiclana de la Frontera,YIF Network,AS12479 Orange Espagne SA,1113,165,60,15,2026-08-29T16:49:22.2021626Z,2026-08-29T16:49:22.2021626Z
+210.211.113.34,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,1129,263,86.5,1378,2026-08-29T16:49:23.6749209Z,2026-08-29T16:49:23.6749209Z
+153.135.4.238,8080,http,yes,transparent,JP,Japan,Nakamurachō,Open Computer Network,"AS4713 NTT DOCOMO BUSINESS,Inc.",1137,1272,92.9,1077,2026-08-29T16:48:26.2424452Z,2026-08-29T16:48:26.2424452Z
+118.145.128.100,44122,socks5,yes,elite,,,,,,1161,198,28.6,7,2026-08-29T16:48:31.4222159Z,2026-08-29T16:48:31.4222159Z
+174.138.162.197,8254,http,yes,elite,PR,Puerto Rico,Carolina,Liberty Communications of Puerto Rico LLC,AS14638 Liberty Communications of Puerto Rico LLC,1165,165,66.7,18,2026-08-29T16:46:23.8379282Z,2026-08-29T16:46:23.8379282Z
+121.169.46.116,1090,socks5,yes,elite,KR,South Korea,Suwon,Sudogwongangnambonbujang,AS4766 Korea Telecom,1179,193,75.8,5939,2026-08-29T16:50:10.4201446Z,2026-08-29T16:50:10.4201446Z
+1.231.81.166,3128,http,yes,transparent,KR,South Korea,Jongno-gu,broadNnet,AS9318 SK Broadband Co Ltd,1190,293,97.2,7546,2026-08-29T16:48:14.3386868Z,2026-08-29T16:48:14.3386868Z
+116.196.150.180,17981,http,yes,elite,CN,China,Hangzhou,"Jinhua Weian InfoTech Co., Ltd","AS131516 Jinhua Weian InfoTech Co., Ltd",1219,184,97.7,7448,2026-08-29T16:46:18.2382297Z,2026-08-29T16:46:18.2382297Z
+131.153.163.130,37096,http,yes,elite,US,United States,Lumberton,Spectrum,AS11426 Charter Communications Inc,1247,103,100,4,2026-08-29T16:48:31.4137480Z,2026-08-29T16:48:31.4137480Z
+118.145.128.100,44221,socks5,yes,elite,CN,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","AS137718 Beijing Volcano Engine Technology Co., Ltd.",1286,193,65.2,138,2026-08-29T16:48:37.0884993Z,2026-08-29T16:48:37.0884993Z
+59.152.97.233,1080,socks5,yes,elite,BD,Bangladesh,Narayanpur,Mohammad Ajhar Mahmood,AS147006 Star IT,1292,197,60.3,3559,2026-08-29T16:46:10.1909372Z,2026-08-29T16:46:10.1909372Z
+113.249.111.67,1080,socks5,yes,elite,CN,China,Chongqing,Chinanet CQ,AS134420 Chongqing Telecom,1294,1286,99.6,830,2026-08-29T16:48:03.5268117Z,2026-08-29T16:48:03.5268117Z
+103.75.118.84,1080,socks4,yes,elite,JP,Japan,Tokyo,Oneprovider.com,"AS136258 BrainStorm Network, Inc",1336,1276,91.7,4671,2026-08-29T16:47:04.5197374Z,2026-08-29T16:47:04.5197374Z
+131.153.163.30,8254,http,yes,elite,NZ,New Zealand,Auckland,DataCamp Limited,AS212238 Datacamp Limited,1394,103,50,4,2026-08-29T16:46:18.3332149Z,2026-08-29T16:46:18.3332149Z
+51.146.240.4,3128,http,yes,elite,FR,France,Paris,Datacamp Limited,AS212238 Datacamp Limited,1409,70,87.5,1003,2026-08-29T16:45:54.0397795Z,2026-08-29T16:45:54.0397795Z
+120.232.115.170,17981,http,yes,elite,CN,China,Guangzhou,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd.",1418,190,87.8,7820,2026-08-29T16:47:32.5265842Z,2026-08-29T16:47:32.5265842Z
+158.220.99.85,4545,socks4,yes,elite,FR,France,Lauterbourg,Contabo GmbH,AS51167 Contabo GmbH,1433,30,80.1,988,2026-08-29T16:45:37.5099214Z,2026-08-29T16:45:37.5099214Z
+118.145.128.100,44137,socks5,yes,elite,,,,,,1443,215,62.5,8,2026-08-29T16:48:42.9728739Z,2026-08-29T16:48:42.9728739Z
+8.215.112.214,7777,http,yes,elite,ID,Indonesia,Jakarta,Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",1447,174,76.2,3103,2026-08-29T16:48:48.5693221Z,2026-08-29T16:48:48.5693221Z
+185.118.143.141,1080,socks5,yes,elite,TR,Türkiye,Magnesia ad Sipylum,BuyukHosting Internet ve Bili?im Hizmetleri,AS57844 SPDNet Telekomunikasyon Hizmetleri Bilgi Teknolojileri Taahhut Sanayi Ve Ticaret A.S.,1454,2123,36.2,116,2026-08-29T16:48:04.5231370Z,2026-08-29T16:48:04.5231370Z
+123.58.219.171,10808,socks5,yes,elite,HK,Hong Kong,Hong Kong,Ucloud Information Technology (hk) Limited,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1461,264,82.4,7245,2026-08-29T16:46:25.2012252Z,2026-08-29T16:46:25.2012252Z
 45.194.33.12,30001,socks5,yes,elite,HK,Hong Kong,Hong Kong,Antbox Network Limited,AS138995 Antbox Networks Limited,1465,238,85.4,8277,2026-08-29T16:45:09.8086708Z,2026-08-29T16:45:09.8086708Z
-45.194.33.12,30002,socks5,yes,elite,HK,Hong Kong,Hong Kong,Antbox Network Limited,AS138995 Antbox Networks Limited,1467,246,93.8,1752,2026-08-29T16:44:28.8215503Z,2026-08-29T16:44:28.8215503Z
-62.148.236.156,10808,socks5,yes,elite,RU,Russia,Chelyabinsk,Chelyabinsk Network Informational Center,AS12389 PJSC Rostelecom,1496,115,66.7,3,2026-08-29T16:40:31.3499019Z,2026-08-29T16:40:31.3499019Z
-158.220.99.85,4545,socks4,yes,elite,FR,France,Lauterbourg,Contabo GmbH,AS51167 Contabo GmbH,1498,72,80,987,2026-08-29T16:40:31.6021765Z,2026-08-29T16:40:31.6021765Z
-47.250.211.53,1080,socks5,yes,elite,MY,Malaysia,Kuala Lumpur,Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",1514,237,90.2,4543,2026-08-29T16:42:29.6290897Z,2026-08-29T16:42:29.6290897Z
-131.153.163.130,36755,http,yes,elite,US,United States,Elkins Park,"Comcast Cable Communications, Inc.","AS7922 Comcast Cable Communications, LLC",1532,102,33.3,3,2026-08-29T16:40:55.3487822Z,2026-08-29T16:40:55.3487822Z
-174.138.162.196,8001,http,yes,elite,PR,Puerto Rico,Adjuntas,Puerto Rico Telephone Company,"AS10396 DATACOM CARIBE, INC.",1536,164,71.4,14,2026-08-29T16:44:16.5569656Z,2026-08-29T16:44:16.5569656Z
-113.249.111.67,1080,socks5,yes,elite,CN,China,Chongqing,Chinanet CQ,AS134420 Chongqing Telecom,1544,249,99.6,829,2026-08-29T16:42:56.1339486Z,2026-08-29T16:42:56.1339486Z
-123.58.219.171,10808,socks5,yes,elite,HK,Hong Kong,Hong Kong,Ucloud Information Technology (hk) Limited,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1555,265,82.4,7244,2026-08-29T16:41:18.1929052Z,2026-08-29T16:41:18.1929052Z
-101.36.104.46,10808,socks5,yes,elite,JP,Japan,Tokyo,Ucloud Information Technology,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1566,244,90.1,7853,2026-08-29T16:43:09.2361214Z,2026-08-29T16:43:09.2361214Z
-118.145.128.100,44215,socks5,yes,elite,CN,China,Shijiazhuang,China Mobile,AS24547 Hebei Mobile Communication Company Limited,1604,206,73.7,186,2026-08-29T16:43:09.2367315Z,2026-08-29T16:43:09.2367315Z
-89.169.135.131,80,http,yes,elite,DE,Germany,Frankfurt am Main,Aeza International LTD,AS210644 AEZA GROUP LLC,1664,44,96,100,2026-08-29T16:43:47.0684489Z,2026-08-29T16:43:47.0684489Z
-165.154.162.73,8888,http,yes,elite,US,United States,Los Angeles,Ucloud Information Technology,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1678,1190,89.7,6180,2026-08-29T16:40:56.5829895Z,2026-08-29T16:40:56.5829895Z
-181.215.18.40,8181,http,yes,elite,HK,Hong Kong,Hong Kong,Datacamp Limited,AS212238 Datacamp Limited,1736,265,83.5,811,2026-08-29T16:42:05.0295858Z,2026-08-29T16:42:05.0295858Z
-43.164.136.189,1080,socks5,yes,elite,KR,South Korea,Seoul,"Tencent Cloud Computing (Beijing) Co., Ltd","AS132203 Tencent Building, Kejizhongyi Avenue",1755,288,98.1,7348,2026-08-29T16:43:42.3829008Z,2026-08-29T16:43:42.3829008Z
-190.97.236.128,999,http,yes,transparent,VE,Venezuela,Maporal,Viginet C.A,AS263703 VIGINET C.A,1771,1211,99.4,3922,2026-08-29T16:44:59.3106168Z,2026-08-29T16:44:59.3106168Z
-115.136.121.54,9050,socks5,yes,elite,NL,The Netherlands,Amsterdam,TOR Exit and More,AS215125 Church of Cyberology,1834,210,71,1795,2026-08-29T16:40:50.4743441Z,2026-08-29T16:40:50.4743441Z
-190.97.236.129,999,http,yes,transparent,VE,Venezuela,Maporal,Viginet C.A,AS263703 VIGINET C.A,1878,1244,99.4,3914,2026-08-29T16:41:08.6978533Z,2026-08-29T16:41:08.6978533Z
-27.185.218.213,17981,http,yes,elite,CN,China,Shijiazhuang,Chinanet HE,"AS134760 Shijiazhuang IDC network, CHINANET Hebei province",1905,191,99.3,7556,2026-08-29T16:41:24.6129242Z,2026-08-29T16:41:24.6129242Z
+45.194.33.12,30002,socks5,yes,elite,HK,Hong Kong,Hong Kong,Antbox Network Limited,AS138995 Antbox Networks Limited,1468,272,93.8,1753,2026-08-29T16:49:34.8353459Z,2026-08-29T16:49:34.8353459Z
+131.153.163.26,50863,http,yes,elite,US,United States,Fort Mill,Spectrum,AS11426 Charter Communications Inc,1493,104,100,1,2026-08-29T16:48:14.4564986Z,2026-08-29T16:48:14.4564986Z
+101.36.104.46,10808,socks5,yes,elite,JP,Japan,Tokyo,Ucloud Information Technology,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1502,2313,90.1,7854,2026-08-29T16:48:16.6731499Z,2026-08-29T16:48:16.6731499Z
+47.250.211.53,1080,socks5,yes,elite,MY,Malaysia,Kuala Lumpur,Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",1515,253,90.2,4544,2026-08-29T16:47:32.6865175Z,2026-08-29T16:47:32.6865175Z
+31.76.80.215,1080,socks5,yes,elite,FI,Finland,Helsinki,Play2go Customers Network,AS215439 PLAY2GO INTERNATIONAL LIMITED,1534,47,54.9,3163,2026-08-29T16:46:40.3082771Z,2026-08-29T16:46:40.3082771Z
+101.36.104.239,10808,socks5,yes,elite,JP,Japan,Tokyo,Ucloud Information Technology,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1575,259,91.2,7834,2026-08-29T16:47:20.8437570Z,2026-08-29T16:47:20.8437570Z
+118.145.128.100,44104,socks5,yes,elite,CN,China,Guangzhou,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd.",1652,252,72.9,292,2026-08-29T16:48:48.8526972Z,2026-08-29T16:48:48.8526972Z
+118.145.128.100,45150,http,yes,elite,CN,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","AS137718 Beijing Volcano Engine Technology Co., Ltd.",1672,231,66.2,65,2026-08-29T16:49:34.9981360Z,2026-08-29T16:49:34.9981360Z
+190.97.236.129,999,http,yes,transparent,VE,Venezuela,Maporal,Viginet C.A,AS263703 VIGINET C.A,1693,1212,99.4,3915,2026-08-29T16:46:14.1729121Z,2026-08-29T16:46:14.1729121Z
+174.138.162.36,8080,http,yes,elite,DE,Germany,Essen,ARCOR-IP,AS3209 Vodafone GmbH,1711,165,90,20,2026-08-29T16:49:29.1809066Z,2026-08-29T16:49:29.1809066Z
+118.145.128.100,45034,http,yes,elite,CN,China,Tianjin,China Mobile,AS38019 tianjin Mobile Communication Company Limited,1725,247,64.4,59,2026-08-29T16:49:35.0666874Z,2026-08-29T16:49:35.0666874Z
+36.147.78.166,443,http,yes,elite,CN,China,Guangzhou,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd.",1728,273,85.2,5021,2026-08-29T16:47:45.8469959Z,2026-08-29T16:47:45.8469959Z
+84.54.217.219,1080,socks5,yes,elite,RU,Russia,Stavropol,OJSC Rostelecom Macroregional Branch South,AS12683 PJSC Rostelecom,1764,1100,47.5,160,2026-08-29T16:49:42.1875647Z,2026-08-29T16:49:42.1875647Z
+190.97.236.128,999,http,yes,transparent,VE,Venezuela,Maporal,Viginet C.A,AS263703 VIGINET C.A,1783,1241,99.4,3923,2026-08-29T16:50:07.5434388Z,2026-08-29T16:50:07.5434388Z
+115.136.121.54,9050,socks4,yes,elite,NL,The Netherlands,Amsterdam,TOR Exit and More,AS215125 Church of Cyberology,1812,202,71,1796,2026-08-29T16:46:02.9781527Z,2026-08-29T16:46:02.9781527Z
+62.148.236.156,10808,socks5,yes,elite,RU,Russia,Chelyabinsk,Chelyabinsk Network Informational Center,AS12389 PJSC Rostelecom,1813,102,75,4,2026-08-29T16:45:37.9634183Z,2026-08-29T16:45:37.9634183Z
+89.169.135.131,80,http,yes,elite,DE,Germany,Frankfurt am Main,Aeza International LTD,AS210644 AEZA GROUP LLC,1824,44,96,101,2026-08-29T16:48:54.3762063Z,2026-08-29T16:48:54.3762063Z
+137.66.42.196,1080,socks5,yes,elite,DE,Germany,Frankfurt am Main,DEFT.COM,AS30081 CacheFly,1829,4,55,720,2026-08-29T16:48:37.4421034Z,2026-08-29T16:48:37.4421034Z
+43.160.242.118,3128,http,yes,elite,SG,Singapore,Singapore,"Tencent Cloud Computing (Beijing) Co., Ltd","AS132203 Tencent Building, Kejizhongyi Avenue",1852,2300,84.6,4499,2026-08-29T16:46:12.8537618Z,2026-08-29T16:46:12.8537618Z
+131.153.163.236,33261,http,yes,elite,US,United States,Simpsonville,Spectrum,AS20115 Charter Communications LLC,1884,100,40,5,2026-08-29T16:46:25.4601178Z,2026-08-29T16:46:25.4601178Z
 103.43.191.71,8888,http,yes,elite,HK,Hong Kong,Kwai Chung,Zhongya PTE LTD,AS139021 West263 International Limited,1909,1222,68.7,5881,2026-08-29T16:44:59.4588847Z,2026-08-29T16:44:59.4588847Z
-181.215.18.40,8080,http,yes,elite,HK,Hong Kong,Hong Kong,Datacamp Limited,AS212238 Datacamp Limited,1937,261,82.1,800,2026-08-29T16:44:10.2338357Z,2026-08-29T16:44:10.2338357Z
-202.28.194.139,31280,http,yes,elite,TH,Thailand,Chiang Mai,Office of Info.Tech. Admin. Educational Development,AS4621 UNINET-TH,1955,204,99.7,7600,2026-08-29T16:42:15.9268330Z,2026-08-29T16:42:15.9268330Z
-154.27.196.230,999,http,yes,transparent,MX,Mexico,Colima,Jose De Jesus Vazquez Ponce,AS270207 MULTICARRIER JE S. DE R.L. DE C.V.,1961,1197,57.1,7,2026-08-29T16:43:04.1685926Z,2026-08-29T16:43:04.1685926Z
-119.93.128.161,8082,http,yes,transparent,,,,,,1982,218,13.3,15,2026-08-29T16:44:47.2564356Z,2026-08-29T16:44:47.2564356Z
-5.45.119.70,1080,socks5,yes,elite,EE,Estonia,Jõhvi,Hosting Services,AS198068 P.A.G.M. OU,2227,34,70.2,2331,2026-08-29T16:42:30.1395457Z,2026-08-29T16:42:30.1395457Z
-118.145.128.100,44058,socks5,yes,elite,CN,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","AS137718 Beijing Volcano Engine Technology Co., Ltd.",2242,219,80.4,465,2026-08-29T16:43:09.8867294Z,2026-08-29T16:43:09.8867294Z
-101.36.104.239,10808,socks5,yes,elite,JP,Japan,Tokyo,Ucloud Information Technology,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,2290,240,91.2,7833,2026-08-29T16:42:14.6001546Z,2026-08-29T16:42:14.6001546Z
-65.21.252.66,10811,socks5,yes,elite,JP,Japan,Tokyo,Cdnext TYO,AS212238 Datacamp Limited,2339,28,75.3,1610,2026-08-29T16:39:45.4733137Z,2026-08-29T16:39:45.4733137Z
-84.8.102.52,1080,socks5,yes,elite,SA,Saudi Arabia,Riyadh,Oracle Corporation,AS31898 Oracle Corporation,2342,83,98.7,615,2026-08-29T16:43:59.7249636Z,2026-08-29T16:43:59.7249636Z
-189.51.168.164,999,http,yes,transparent,MX,Mexico,Mérida,Comunicación por Fibra SA de CV,AS270111 Comunicación por Fibra SA de CV,2377,167,81.8,264,2026-08-29T16:44:47.5999236Z,2026-08-29T16:44:47.5999236Z
-117.50.194.130,7890,http,yes,elite,CN,China,Yangpu,Shanghai UCloud Information Technology Company Limited,"AS23724 IDC, China Telecommunications Corporation",2483,172,94.5,7266,2026-08-29T16:41:08.2308302Z,2026-08-29T16:41:08.2308302Z
-46.17.43.219,7890,socks4,yes,elite,DE,Germany,Frankfurt am Main,Tokala Communications Inc.,AS401783 TOKALA COMMUNICATIONS INC.,2549,82,38.3,107,2026-08-29T16:43:09.2035051Z,2026-08-29T16:43:09.2035051Z
-14.139.235.82,3128,http,yes,anonymous,IN,India,Priol,NIB,AS9829 National Internet Backbone,2658,183,94.8,5960,2026-08-29T16:43:26.2507827Z,2026-08-29T16:43:26.2507827Z
-47.84.84.1,3128,http,yes,elite,CN,China,Shanghai,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",2661,166,97.7,6463,2026-08-29T16:41:35.8519148Z,2026-08-29T16:41:35.8519148Z
-103.210.161.8,1080,socks5,yes,elite,CN,China,Guangzhou,Guangdong LITONG Network Technology Limited,AS136958 China Unicom Guangdong IP network,2763,250,80,1562,2026-08-29T16:44:11.0497361Z,2026-08-29T16:44:11.0497361Z
-131.153.163.236,54749,http,yes,elite,US,United States,Edgewood,Fuse Internet Access - BRAS Norwood Region,AS6181 Cincinnati Bell Telephone Company LLC,2778,2138,33.3,12,2026-08-29T16:43:05.9269630Z,2026-08-29T16:43:05.9269630Z
-131.153.163.130,37158,http,yes,elite,US,United States,Akron,Spectrum,AS10796 Charter Communications Inc,2814,1105,33.3,9,2026-08-29T16:43:29.4523663Z,2026-08-29T16:43:29.4523663Z
-118.145.128.100,45034,http,yes,elite,CN,China,Tianjin,China Mobile,AS38019 tianjin Mobile Communication Company Limited,2870,1272,64.9,57,2026-08-29T16:42:23.4869433Z,2026-08-29T16:42:23.4869433Z
-45.61.188.134,44499,socks4,yes,elite,US,United States,Miami,FranTech Solutions,AS53667 FranTech Solutions,2923,113,78.9,725,2026-08-29T16:42:30.9136807Z,2026-08-29T16:42:30.9136807Z
-59.36.210.211,13552,http,yes,elite,CN,China,Shanghai,Chinanet GD,AS4134 CHINANET BACKBONE,2929,1318,84.1,7039,2026-08-29T16:44:31.3557723Z,2026-08-29T16:44:31.3557723Z
-210.211.113.37,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,2985,266,83.1,1459,2026-08-29T16:42:06.2796955Z,2026-08-29T16:42:06.2796955Z
-103.149.75.82,1080,socks4,yes,elite,BD,Bangladesh,Dhaka,Amader,AS63969 Race Online Limited,3043,2238,86.4,7184,2026-08-29T16:43:28.6906509Z,2026-08-29T16:43:28.6906509Z
-131.153.163.162,30998,http,yes,elite,,,,,,3043,98,50,4,2026-08-29T16:42:36.4738866Z,2026-08-29T16:42:36.4738866Z
-118.145.128.100,44137,socks5,yes,elite,,,,,,3104,2307,57.1,7,2026-08-29T16:43:39.5562608Z,2026-08-29T16:43:39.5562608Z
-193.233.232.49,3131,http,yes,transparent,AT,Austria,Vienna,Aeza Group LLC,AS210644 AEZA GROUP LLC,3106,9,89.3,121,2026-08-29T16:44:16.4447031Z,2026-08-29T16:44:16.4447031Z
-59.152.97.233,1080,socks5,yes,elite,BD,Bangladesh,Narayanpur,Mohammad Ajhar Mahmood,AS147006 Star IT,3323,1252,60.3,3558,2026-08-29T16:41:04.5211623Z,2026-08-29T16:41:04.5211623Z
-141.98.235.27,3128,http,yes,transparent,NL,The Netherlands,Amsterdam,"JSC ""TIMEWEB""","AS210976 Timeweb, LLP",3373,10,100,3,2026-08-29T16:43:34.4798881Z,2026-08-29T16:43:34.4798881Z
-131.153.163.130,33207,http,yes,elite,US,United States,Tobyhanna,PenTeleData House Account,AS3737 PenTeleData Inc.,3393,103,66.7,3,2026-08-29T16:40:33.2362819Z,2026-08-29T16:40:33.2362819Z
-45.12.18.106,1080,socks5,yes,elite,RU,Russia,St Petersburg,Beget,AS198610 Beget LLC,3404,55,90.2,799,2026-08-29T16:40:57.1750543Z,2026-08-29T16:40:57.1750543Z
-43.160.242.118,3128,http,yes,elite,SG,Singapore,Singapore,"Tencent Cloud Computing (Beijing) Co., Ltd","AS132203 Tencent Building, Kejizhongyi Avenue",3568,158,84.6,4498,2026-08-29T16:41:03.6726559Z,2026-08-29T16:41:03.6726559Z
-43.128.63.68,7890,socks4,yes,elite,HK,Hong Kong,Hong Kong,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",3612,184,39.5,1391,2026-08-29T16:41:24.0652716Z,2026-08-29T16:41:24.0652716Z
-36.147.78.166,443,http,yes,elite,CN,China,Guangzhou,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd.",3682,288,85.2,5020,2026-08-29T16:42:39.3153984Z,2026-08-29T16:42:39.3153984Z
-118.145.128.100,45150,http,yes,elite,CN,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","AS137718 Beijing Volcano Engine Technology Co., Ltd.",3960,1255,66.7,63,2026-08-29T16:42:18.9821394Z,2026-08-29T16:42:18.9821394Z
-176.111.37.5,39811,http,yes,transparent,UA,Ukraine,Dobropol'ye,Cogento Backbone Limited,AS214743 Cogento Backbone Limited,3976,36,96.7,6471,2026-08-29T16:43:10.3037969Z,2026-08-29T16:43:10.3037969Z
-174.138.162.196,31610,http,yes,elite,US,United States,North Las Vegas,"CenturyLink, Inc","AS209 CenturyLink Communications, LLC",4046,1171,100,3,2026-08-29T16:43:33.6898951Z,2026-08-29T16:43:33.6898951Z
-186.5.94.206,999,http,yes,transparent,EC,Ecuador,Manta,MINTEL,AS27947 Telconet S.A,4330,1248,70.8,5746,2026-08-29T16:44:13.6148692Z,2026-08-29T16:44:13.6148692Z
-210.211.113.34,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,4404,263,86.5,1377,2026-08-29T16:44:19.5242426Z,2026-08-29T16:44:19.5242426Z
+118.145.128.100,44154,socks5,yes,elite,CN,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","AS137718 Beijing Volcano Engine Technology Co., Ltd.",1970,225,72.1,283,2026-08-29T16:48:43.5102660Z,2026-08-29T16:48:43.5102660Z
+118.145.128.100,44091,socks5,yes,elite,CN,China,Beijing,"Lily Group Co., Ltd.",AS4134 CHINANET BACKBONE,2008,207,54.2,24,2026-08-29T16:48:37.8235231Z,2026-08-29T16:48:37.8235231Z
+181.215.18.40,8181,http,yes,elite,HK,Hong Kong,Hong Kong,Datacamp Limited,AS212238 Datacamp Limited,2009,282,83.5,812,2026-08-29T16:47:09.2098495Z,2026-08-29T16:47:09.2098495Z
+59.36.210.211,13552,http,yes,elite,CN,China,Shanghai,Chinanet GD,AS4134 CHINANET BACKBONE,2078,254,84.1,7040,2026-08-29T16:49:35.4259296Z,2026-08-29T16:49:35.4259296Z
+14.251.13.20,8080,http,yes,elite,VN,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,AS45899 VNPT Corp,2089,1291,96.6,1396,2026-08-29T16:48:27.2129712Z,2026-08-29T16:48:27.2129712Z
+174.138.162.198,8001,http,yes,elite,US,United States,Covina,Verizon Business,"AS5650 Frontier Communications of America, Inc.",2148,164,61.9,21,2026-08-29T16:47:33.2297189Z,2026-08-29T16:47:33.2297189Z
+193.25.215.182,22222,socks5,yes,elite,US,United States,Los Angeles,Readydedis,"AS397966 ReadyDedis, LLC",2171,172,80.4,7005,2026-08-29T16:46:41.0706791Z,2026-08-29T16:46:41.0706791Z
+131.153.163.236,38278,http,yes,elite,US,United States,Kansas City,Google Fiber,AS16591 Google Fiber Inc.,2200,104,100,4,2026-08-29T16:48:32.3661349Z,2026-08-29T16:48:32.3661349Z
+118.145.128.100,44076,socks5,yes,elite,CN,China,Guangzhou,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd.",2221,198,71.4,168,2026-08-29T16:49:41.7426441Z,2026-08-29T16:49:41.7426441Z
+131.153.163.130,33459,http,yes,elite,US,United States,The Bronx,Optimum Online (Cablevision Systems),AS6128 Cablevision Systems Corp.,2240,102,60.9,23,2026-08-29T16:45:16.1210434Z,2026-08-29T16:45:16.1210434Z
+93.123.30.53,3128,http,yes,elite,FI,Finland,Helsinki,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,2247,1051,22.9,48,2026-08-29T16:49:30.6034433Z,2026-08-29T16:49:30.6034433Z
+45.61.188.134,44499,socks4,yes,elite,US,United States,Miami,FranTech Solutions,AS53667 FranTech Solutions,2260,113,78.9,726,2026-08-29T16:47:38.8952988Z,2026-08-29T16:47:38.8952988Z
+117.50.194.130,7890,http,yes,elite,CN,China,Yangpu,Shanghai UCloud Information Technology Company Limited,"AS23724 IDC, China Telecommunications Corporation",2290,189,94.5,7267,2026-08-29T16:46:13.7467994Z,2026-08-29T16:46:13.7467994Z
+174.138.162.196,8001,http,yes,elite,PR,Puerto Rico,Adjuntas,Puerto Rico Telephone Company,"AS10396 DATACOM CARIBE, INC.",2333,164,73.3,15,2026-08-29T16:49:24.7797767Z,2026-08-29T16:49:24.7797767Z
+43.164.136.189,1080,socks5,yes,elite,KR,South Korea,Seoul,"Tencent Cloud Computing (Beijing) Co., Ltd","AS132203 Tencent Building, Kejizhongyi Avenue",2390,239,98.1,7349,2026-08-29T16:48:49.5771545Z,2026-08-29T16:48:49.5771545Z
+27.185.218.213,17981,http,yes,elite,CN,China,Shijiazhuang,Chinanet HE,"AS134760 Shijiazhuang IDC network, CHINANET Hebei province",2402,199,99.3,7557,2026-08-29T16:46:33.3055073Z,2026-08-29T16:46:33.3055073Z
+118.145.128.100,44040,socks5,yes,elite,CN,China,Wuhan,China Unicom Hubei Province Network,AS4837 CHINA UNICOM China169 Backbone,2488,238,78,569,2026-08-29T16:49:06.0535388Z,2026-08-29T16:49:06.0535388Z
+125.122.35.253,8087,http,yes,elite,,,,,,2531,221,83.3,120,2026-08-29T16:45:16.5921216Z,2026-08-29T16:45:16.5921216Z
+154.59.56.73,999,http,yes,transparent,VE,Venezuela,Santa Cruz de Mora,"TODONET TELECOMUNICACIONES, C.A",AS264778 TotalCom Venezuela C.A.,2751,1238,48.6,422,2026-08-29T16:48:34.0515060Z,2026-08-29T16:48:34.0515060Z
+131.153.163.130,31548,http,yes,elite,US,United States,Brooklyn,Optimum Online (Cablevision Systems),AS6128 Cablevision Systems Corp.,2771,1143,40,10,2026-08-29T16:49:13.8567610Z,2026-08-29T16:49:13.8567610Z
+131.153.163.26,8001,http,yes,elite,US,United States,Atlanta,"Comcast IP Services, L.L.C.","AS7922 Comcast Cable Communications, LLC",2832,104,100,4,2026-08-29T16:48:38.0565614Z,2026-08-29T16:48:38.0565614Z
+14.139.235.82,3128,http,yes,anonymous,IN,India,Priol,NIB,AS9829 National Internet Backbone,2951,221,94.8,5961,2026-08-29T16:48:33.2343147Z,2026-08-29T16:48:33.2343147Z
+38.172.160.16,999,http,yes,transparent,VE,Venezuela,Barquisimeto,"RED SERVITEL, CA","AS270026 RED SERVITEL, CA",2995,191,39,177,2026-08-29T16:46:01.1602372Z,2026-08-29T16:46:01.1602372Z
+118.145.128.100,44220,socks5,yes,elite,CN,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","AS137718 Beijing Volcano Engine Technology Co., Ltd.",3036,2319,49.3,67,2026-08-29T16:47:49.2015670Z,2026-08-29T16:47:49.2015670Z
+174.138.162.194,8178,http,yes,elite,PR,Puerto Rico,Aguadilla,Aguadilla Site - Choice Cable TV,AS14638 Liberty Communications of Puerto Rico LLC,3049,165,90,20,2026-08-29T16:49:18.2438725Z,2026-08-29T16:49:18.2438725Z
+174.138.162.194,38406,http,yes,elite,US,United States,Las Vegas,Cox Communications,AS22773 Cox Communications Inc.,3193,165,30,10,2026-08-29T16:46:48.3169911Z,2026-08-29T16:46:48.3169911Z
+118.145.128.100,44183,socks5,yes,elite,CN,China,Zhuhai,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd.",3232,201,57.1,21,2026-08-29T16:49:54.6242272Z,2026-08-29T16:49:54.6242272Z
+118.145.128.100,44225,socks5,yes,elite,,,,,,3232,196,68.8,144,2026-08-29T16:49:48.9416274Z,2026-08-29T16:49:48.9416274Z
+84.8.102.52,1080,socks5,yes,elite,SA,Saudi Arabia,Riyadh,Oracle Corporation,AS31898 Oracle Corporation,3316,82,98.7,616,2026-08-29T16:49:07.6903224Z,2026-08-29T16:49:07.6903224Z
+46.17.43.219,7890,socks4,yes,elite,DE,Germany,Frankfurt am Main,Tokala Communications Inc.,AS401783 TOKALA COMMUNICATIONS INC.,3404,143,38.9,108,2026-08-29T16:48:16.4049838Z,2026-08-29T16:48:16.4049838Z
+51.222.104.72,1080,socks5,yes,elite,MY,Malaysia,Kuala Lumpur,TM Technology Services,AS4788 TM TECHNOLOGY SERVICES SDN. BHD.,3487,95,56.3,3419,2026-08-29T16:48:16.4416706Z,2026-08-29T16:48:16.4416706Z
+150.241.91.238,7777,socks5,yes,elite,FR,France,Paris,xorek.cloud International LTD,AS210644 AEZA INTERNATIONAL LTD,3623,15,83.5,556,2026-08-29T16:48:33.7007560Z,2026-08-29T16:48:33.7007560Z
+181.215.18.40,8080,http,yes,elite,HK,Hong Kong,Hong Kong,Datacamp Limited,AS212238 Datacamp Limited,3696,305,82.1,801,2026-08-29T16:49:19.0297792Z,2026-08-29T16:49:19.0297792Z
+131.153.163.234,34959,http,yes,elite,US,United States,Shelton,"Comcast Cable Communications Holdings, Inc","AS7922 Comcast Cable Communications, LLC",3795,100,100,1,2026-08-29T16:48:16.7571486Z,2026-08-29T16:48:16.7571486Z
+193.233.232.49,3131,http,yes,transparent,AT,Austria,Vienna,Aeza Group LLC,AS210644 AEZA GROUP LLC,4010,2086,89.3,122,2026-08-29T16:49:28.3792104Z,2026-08-29T16:49:28.3792104Z
+210.211.113.37,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,4104,262,83.1,1461,2026-08-29T16:49:31.8734958Z,2026-08-29T16:49:31.8734958Z
+141.98.235.27,3128,http,yes,transparent,NL,The Netherlands,Amsterdam,"JSC ""TIMEWEB""","AS210976 Timeweb, LLP",4146,11,100,4,2026-08-29T16:48:45.4738558Z,2026-08-29T16:48:45.4738558Z
+122.246.3.12,17981,http,yes,elite,CN,China,Ningbo,China Telecom,"AS136188 NINGBO, ZHEJIANG Province, P.R.China.",4239,215,89.8,7898,2026-08-29T16:48:34.5170169Z,2026-08-29T16:48:34.5170169Z
+37.59.125.131,8888,http,yes,transparent,FR,France,Saint-Jean-sur-Veyle,ProXad network / Free SA,AS12322 Free SAS,4417,18,92,7276,2026-08-29T16:49:37.5296586Z,2026-08-29T16:49:37.5296586Z
+131.153.163.130,35828,http,yes,elite,US,United States,Buffalo,Spectrum,AS11351 Charter Communications Inc,4480,104,40,5,2026-08-29T16:48:11.7894011Z,2026-08-29T16:48:11.7894011Z
 112.28.149.152,8443,socks5,yes,elite,JP,Japan,Tokyo,Akari Networks Limited,AS38136 Akari Networks,4482,251,90.7,7492,2026-08-29T16:45:06.5379572Z,2026-08-29T16:45:06.5379572Z
-51.146.240.4,43,http,yes,elite,FR,France,Paris,Datacamp Limited,AS212238 Datacamp Limited,4525,77,83.6,696,2026-08-29T16:45:07.1629877Z,2026-08-29T16:45:07.1629877Z
-118.145.128.100,44091,socks5,yes,elite,CN,China,Beijing,"Lily Group Co., Ltd.",AS4134 CHINANET BACKBONE,4589,245,52.2,23,2026-08-29T16:43:30.3665915Z,2026-08-29T16:43:30.3665915Z
-171.25.158.95,1080,socks5,yes,elite,SE,Sweden,Vaxjo,Kronnet,AS35100 Patrik Lagerman,4816,32,85.2,723,2026-08-29T16:43:42.6886633Z,2026-08-29T16:43:42.6886633Z
-131.153.163.130,8880,http,yes,elite,US,United States,Albertville,Spectrum,AS20115 Charter Communications LLC,5051,98,33.3,12,2026-08-29T16:41:10.7245643Z,2026-08-29T16:41:10.7245643Z
-77.37.134.235,10808,socks5,yes,elite,DE,Germany,Frankfurt am Main,HostBrr,AS214902 Philip Fjaera trading as PFWeb Solutions,5072,46,83.3,72,2026-08-29T16:40:53.5476251Z,2026-08-29T16:40:53.5476251Z
-103.117.121.56,1080,socks5,yes,elite,HK,Hong Kong,Hang Hau,Freezing Network Limited,AS154321 CORENET CLOUD SDN. BHD.,5140,269,79.9,174,2026-08-29T16:43:11.9833424Z,2026-08-29T16:43:11.9833424Z
-131.153.163.130,8649,http,yes,transparent,US,United States,Clearwater,Spectrum,"AS33363 Charter Communications, Inc",5229,1115,50,8,2026-08-29T16:41:22.7150416Z,2026-08-29T16:41:22.7150416Z
-118.145.128.100,44221,socks5,yes,elite,CN,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","AS137718 Beijing Volcano Engine Technology Co., Ltd.",5254,237,65,137,2026-08-29T16:43:33.9633995Z,2026-08-29T16:43:33.9633995Z
-118.145.128.100,44104,socks5,yes,elite,CN,China,Guangzhou,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd.",5372,212,72.9,291,2026-08-29T16:43:40.6407232Z,2026-08-29T16:43:40.6407232Z
-131.153.163.130,53637,http,yes,elite,US,United States,Atlanta,"Comcast IP Services, L.L.C.","AS7922 Comcast Cable Communications, LLC",5455,99,33.3,9,2026-08-29T16:44:18.8830852Z,2026-08-29T16:44:18.8830852Z
-185.118.143.141,1080,socks5,yes,elite,TR,Türkiye,Magnesia ad Sipylum,BuyukHosting Internet ve Bili?im Hizmetleri,AS57844 SPDNet Telekomunikasyon Hizmetleri Bilgi Teknolojileri Taahhut Sanayi Ve Ticaret A.S.,5529,54,35.7,115,2026-08-29T16:42:54.7479977Z,2026-08-29T16:42:54.7479977Z
-45.144.54.40,1080,socks5,yes,elite,DE,Germany,Frankfurt am Main,Aeza International LTD,AS210644 AEZA GROUP LLC,5806,15,85,3705,2026-08-29T16:42:54.9861900Z,2026-08-29T16:42:54.9861900Z
-131.153.163.130,36728,http,yes,elite,,,,,,5939,2138,66.7,3,2026-08-29T16:41:01.7930731Z,2026-08-29T16:41:01.7930731Z
-51.146.240.4,3128,http,yes,elite,FR,France,Paris,Datacamp Limited,AS212238 Datacamp Limited,5951,61,87.5,1002,2026-08-29T16:40:46.8125828Z,2026-08-29T16:40:46.8125828Z
-174.138.162.35,9371,http,yes,elite,US,United States,Los Angeles,Netprotect,AS62240 Clouvider,6037,2229,66.7,3,2026-08-29T16:40:44.8629907Z,2026-08-29T16:40:44.8629907Z
-84.54.217.219,1080,socks5,yes,elite,RU,Russia,Stavropol,OJSC Rostelecom Macroregional Branch South,AS12683 PJSC Rostelecom,6129,2152,47.2,159,2026-08-29T16:44:35.3912598Z,2026-08-29T16:44:35.3912598Z
-125.122.35.253,8087,http,yes,elite,,,,,,6492,1251,83.2,119,2026-08-29T16:40:13.4380263Z,2026-08-29T16:40:13.4380263Z
+131.153.163.130,37411,http,yes,elite,US,United States,Jersey City,"MCI Communications Services, Inc. d/b/a Verizon Business",AS701 Verizon Business,4494,101,75,4,2026-08-29T16:45:51.8733566Z,2026-08-29T16:45:51.8733566Z
+118.145.128.100,44097,socks5,yes,elite,CN,China,Zhongxing,Chinanet JS,AS4134 CHINANET BACKBONE,4539,221,63.5,63,2026-08-29T16:47:52.9231147Z,2026-08-29T16:47:52.9231147Z
+174.138.163.54,38346,http,yes,elite,US,United States,Louisville,Spectrum,AS10796 Charter Communications Inc,4636,165,100,1,2026-08-29T16:48:25.6616640Z,2026-08-29T16:48:25.6616640Z
+190.9.48.193,999,http,yes,transparent,MX,Mexico,Mexicali,"IP Matrix, S.A. de C.V",AS32098 Transtelco Inc,4815,2193,33.3,6,2026-08-29T16:47:48.5406211Z,2026-08-29T16:47:48.5406211Z
+103.211.103.170,3128,http,yes,transparent,HK,Hong Kong,Kwun Tong,Superhub Limited,AS141718 haoxiangyun,4843,10,94.6,1216,2026-08-29T16:49:56.0437612Z,2026-08-29T16:49:56.0437612Z
+77.37.134.235,10808,socks5,yes,elite,DE,Germany,Frankfurt am Main,HostBrr,AS214902 Philip Fjaera trading as PFWeb Solutions,5062,54,83.6,73,2026-08-29T16:46:03.0885977Z,2026-08-29T16:46:03.0885977Z
+103.168.149.74,8181,http,yes,transparent,ID,Indonesia,Pematangsiantar,TORSADAnet,AS142315 TORSADA,5190,170,51.5,33,2026-08-29T16:46:44.0872839Z,2026-08-29T16:46:44.0872839Z
+131.153.163.130,33275,http,yes,elite,US,United States,High Point,Spectrum,AS11426 Charter Communications Inc,5350,101,40,10,2026-08-29T16:45:41.4992456Z,2026-08-29T16:45:41.4992456Z
+131.153.163.236,54749,http,yes,elite,US,United States,Edgewood,Fuse Internet Access - BRAS Norwood Region,AS6181 Cincinnati Bell Telephone Company LLC,5620,1171,38.5,13,2026-08-29T16:48:13.9971696Z,2026-08-29T16:48:13.9971696Z
+118.145.128.100,44094,socks5,yes,elite,CN,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","AS137718 Beijing Volcano Engine Technology Co., Ltd.",5674,227,62.5,56,2026-08-29T16:48:06.8482199Z,2026-08-29T16:48:06.8482199Z
+118.145.128.100,44017,socks5,yes,elite,CN,China,Hangzhou,China Mobile,AS56041 China Mobile communications corporation,5853,192,56.1,82,2026-08-29T16:46:39.1092800Z,2026-08-29T16:46:39.1092800Z
+131.153.163.236,54270,http,yes,elite,US,United States,Chicago,"Comcast Cable Communications, Inc.","AS7922 Comcast Cable Communications, LLC",5937,1148,40,5,2026-08-29T16:46:37.7897373Z,2026-08-29T16:46:37.7897373Z
+118.145.128.100,44214,socks5,yes,elite,CN,China,Chengdu,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd.",6267,236,64.6,195,2026-08-29T16:49:28.7863783Z,2026-08-29T16:49:28.7863783Z
+85.193.65.88,8888,http,yes,elite,RU,Russia,Moscow,KTK rIP2,AS203451 K-telekom LLC,6291,1594,100,98,2026-08-29T16:45:21.6628261Z,2026-08-29T16:45:21.6628261Z
 31.57.219.168,6002,http,yes,elite,AZ,Azerbaijan,Baku,Baku Telephone Communication LLC,AS28787 Aztelekom LLC,6530,2742,71,31,2026-08-29T15:29:12.3920020Z,2026-08-29T15:29:12.3920020Z
-5.255.103.55,1080,socks5,yes,elite,NL,The Netherlands,Dronten,TIG,AS60404 The Infrastructure Group B.V.,6654,106,51.5,1098,2026-08-29T16:42:42.1052093Z,2026-08-29T16:42:42.1052093Z
-174.138.162.198,31708,http,yes,elite,US,United States,Concord,"Comcast Cable Communications, Inc","AS7922 Comcast Cable Communications, LLC",6790,165,33.3,12,2026-08-29T16:42:50.5442649Z,2026-08-29T16:42:50.5442649Z
-131.153.163.130,56284,http,yes,elite,US,United States,Franklin,Verizon Business,AS6167 Verizon Business,6908,1143,50,4,2026-08-29T16:43:14.3448432Z,2026-08-29T16:43:14.3448432Z
-154.59.56.73,999,http,yes,transparent,VE,Venezuela,Santa Cruz de Mora,"TODONET TELECOMUNICACIONES, C.A",AS264778 TotalCom Venezuela C.A.,6940,189,48.6,420,2026-08-29T16:41:19.3973497Z,2026-08-29T16:41:19.3973497Z
+131.153.163.130,36755,http,yes,elite,US,United States,Elkins Park,"Comcast Cable Communications, Inc.","AS7922 Comcast Cable Communications, LLC",6563,2135,50,4,2026-08-29T16:46:06.6719396Z,2026-08-29T16:46:06.6719396Z
+174.138.162.198,31708,http,yes,elite,US,United States,Concord,"Comcast Cable Communications, Inc","AS7922 Comcast Cable Communications, LLC",6680,161,38.5,13,2026-08-29T16:48:01.2367029Z,2026-08-29T16:48:01.2367029Z
+131.153.163.130,31753,http,yes,elite,US,United States,Waldorf,"MCI Communications Services, Inc. d/b/a Verizon Business",AS701 Verizon Business,6689,103,75,4,2026-08-29T16:45:36.6629149Z,2026-08-29T16:45:36.6629149Z
+176.111.37.5,39811,http,yes,transparent,UA,Ukraine,Dobropol'ye,Cogento Backbone Limited,AS214743 Cogento Backbone Limited,6753,24,96.7,6472,2026-08-29T16:48:19.6360830Z,2026-08-29T16:48:19.6360830Z
+144.31.185.67,8080,http,yes,elite,SG,Singapore,Singapore,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",6758,31,79.6,851,2026-08-29T16:47:03.0570159Z,2026-08-29T16:47:03.0570159Z
+118.145.128.100,44032,socks5,yes,elite,CN,China,Hangzhou,CNC Group CHINA169 Zhejiang Province Network,AS4837 CHINA UNICOM China169 Backbone,6999,244,51.7,89,2026-08-29T16:50:11.7626135Z,2026-08-29T16:50:11.7626135Z
+118.145.128.100,44244,socks5,yes,elite,CN,China,Beijing,Chinanet BJ,AS4847 China Networks Inter-Exchange,7079,238,68.3,82,2026-08-29T16:50:10.8205564Z,2026-08-29T16:50:10.8205564Z
+131.153.163.234,56134,http,yes,elite,,,,,,7113,1136,100,1,2026-08-29T16:48:29.1120754Z,2026-08-29T16:48:29.1120754Z
+131.153.163.236,9443,http,yes,elite,,,,,,7257,101,100,1,2026-08-29T16:48:20.2215508Z,2026-08-29T16:48:20.2215508Z
+223.75.121.218,12120,socks4,yes,elite,CN,China,Guangzhou,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd.",7335,422,81.4,3202,2026-08-29T16:50:06.7967330Z,2026-08-29T16:50:06.7967330Z
+174.138.162.35,9371,http,yes,elite,US,United States,Los Angeles,Netprotect,AS62240 Clouvider,7630,165,75,4,2026-08-29T16:45:55.0722967Z,2026-08-29T16:45:55.0722967Z
+47.84.84.1,3128,http,yes,elite,CN,China,Shanghai,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",7689,159,97.7,6464,2026-08-29T16:46:46.5753272Z,2026-08-29T16:46:46.5753272Z
+45.144.54.40,1080,socks5,yes,elite,DE,Germany,Frankfurt am Main,Aeza International LTD,AS210644 AEZA GROUP LLC,7935,4,85.1,3706,2026-08-29T16:48:08.8852280Z,2026-08-29T16:48:08.8852280Z
