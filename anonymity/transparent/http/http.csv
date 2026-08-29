@@ -1,86 +1,72 @@
 ip,port,protocol,https,anonymity,country_code,country,city,org,asn,response_ms,connect_ms,uptime_pct,checks,last_checked,last_alive
-116.202.108.111,3128,http,no,transparent,DE,Germany,Falkenstein,Hetzner Online GmbH,AS24940 Hetzner Online GmbH,22,3,99,7408,2026-08-29T03:05:51.2913205Z,2026-08-29T03:05:51.2913205Z
-47.91.65.23,3128,http,no,transparent,DE,Germany,Frankfurt am Main,ALICLOUD-GM,"AS45102 Alibaba (US) Technology Co., Ltd.",39,4,95.8,7470,2026-08-29T03:09:40.1416729Z,2026-08-29T03:09:40.1416729Z
-178.212.144.7,80,http,no,transparent,PL,Poland,Sokółka,,,66,34,99.6,7470,2026-08-29T03:08:13.2626144Z,2026-08-29T03:08:13.2626144Z
-93.123.16.38,80,http,no,transparent,BG,保加利亚,索菲亞,Ohost LLC,,75,37,97.5,629,2026-08-29T03:06:19.1806865Z,2026-08-29T03:06:19.1806865Z
-93.123.16.14,80,http,no,transparent,BG,保加利亚,索菲亞,Ohost LLC,,76,37,95.9,752,2026-08-29T03:09:17.8776624Z,2026-08-29T03:09:17.8776624Z
-103.211.103.170,3128,http,yes,transparent,HK,Hong Kong,Kwun Tong,Superhub Limited,AS141718 haoxiangyun,77,10,95.4,1162,2026-08-29T03:05:28.8497508Z,2026-08-29T03:05:28.8497508Z
-94.78.67.171,80,http,no,transparent,CY,Cyprus,Kyrenia,Netonline Bilisim Sirketi LTD,AS44558 Netonline Bilisim Sirketi LTD,113,55,99.9,7475,2026-08-29T03:08:13.3302512Z,2026-08-29T03:08:13.3302512Z
-81.19.210.10,80,http,yes,transparent,GB,United Kingdom,City of London,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,119,25,89.9,1093,2026-08-29T03:06:19.2120734Z,2026-08-29T03:06:19.2120734Z
-176.111.37.5,39811,http,yes,transparent,UA,Ukraine,Dobropol'ye,Cogento Backbone Limited,AS214743 Cogento Backbone Limited,131,24,96.7,6322,2026-08-29T03:06:44.2753385Z,2026-08-29T03:06:44.2753385Z
-185.135.69.34,80,http,no,transparent,IQ,Iraq,Baghdad,Giganet Telecom,AS205889 Giga Nineveh for internet services Ltd,137,68,99,7199,2026-08-29T03:06:44.3257364Z,2026-08-29T03:06:44.3257364Z
-176.111.37.216,39811,http,yes,transparent,UA,Ukraine,Dobropol'ye,Cogento Backbone Limited,AS214743 Cogento Backbone Limited,142,24,93.8,6606,2026-08-29T03:06:49.9301606Z,2026-08-29T03:06:49.9301606Z
-95.3.69.222,8080,http,yes,transparent,TR,Turkey,Antakya,TurkTelekom,AS9121 Turk Telekomunikasyon Anonim Sirketi,285,49,99.8,7473,2026-08-29T03:06:50.0978570Z,2026-08-29T03:06:50.0978570Z
-185.235.16.12,80,http,no,transparent,SY,Syria,Damascus,Bitakat Company LTD,AS29256 STE PDN Internal AS,334,69,99.1,7379,2026-08-29T03:05:14.0087563Z,2026-08-29T03:05:14.0087563Z
-130.110.103.245,3128,http,yes,transparent,SA,Saudi Arabia,Jeddah,Oracle Cloud Infrastructure (me-jeddah-1),AS31898 Oracle Corporation,348,67,95.9,5726,2026-08-29T03:06:50.1790712Z,2026-08-29T03:06:50.1790712Z
-212.154.169.90,3128,http,yes,transparent,KZ,Kazakhstan,Astana,LLC ?electronic Commerce Center,AS50482 JSC Kazakhtelecom,359,75,99.1,5367,2026-08-29T03:06:50.1978559Z,2026-08-29T03:06:50.1978559Z
-159.65.230.46,8888,http,no,transparent,US,United States,North Bergen,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",360,82,91.5,6834,2026-08-29T03:06:04.1811886Z,2026-08-29T03:06:04.1811886Z
-5.200.72.59,3128,http,yes,transparent,IR,Iran,Tehran,RESPINA Networks,AS42337 Respina Networks & Beyond PJSC,373,78,82.4,1105,2026-08-29T03:06:26.1501807Z,2026-08-29T03:06:26.1501807Z
-142.93.202.130,3128,http,no,transparent,US,United States,North Bergen,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",379,82,98.6,7518,2026-08-29T03:08:56.2145116Z,2026-08-29T03:08:56.2145116Z
-47.89.184.18,3128,http,no,transparent,US,United States,Henrico,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd.",381,88,96.2,7531,2026-08-29T03:09:24.6207458Z,2026-08-29T03:09:24.6207458Z
-193.104.179.115,3128,http,yes,transparent,UZ,Uzbekistan,Tashkent,Uztelecom,AS8193 Uzbektelekom Joint Stock Company,407,71,90.5,221,2026-08-29T03:07:41.0713245Z,2026-08-29T03:07:41.0713245Z
+116.202.108.111,3128,http,no,transparent,DE,Germany,Falkenstein,Hetzner Online GmbH,AS24940 Hetzner Online GmbH,22,2,99,7409,2026-08-29T03:10:54.6244375Z,2026-08-29T03:10:54.6244375Z
+47.91.65.23,3128,http,no,transparent,DE,Germany,Frankfurt am Main,ALICLOUD-GM,"AS45102 Alibaba (US) Technology Co., Ltd.",29,4,95.8,7471,2026-08-29T03:14:43.3317971Z,2026-08-29T03:14:43.3317971Z
+103.211.103.170,3128,http,yes,transparent,HK,Hong Kong,Kwun Tong,Superhub Limited,AS141718 haoxiangyun,62,10,95.4,1163,2026-08-29T03:10:33.7751904Z,2026-08-29T03:10:33.7751904Z
+178.212.144.7,80,http,no,transparent,PL,Poland,Sokółka,,,66,34,99.6,7471,2026-08-29T03:13:16.6366467Z,2026-08-29T03:13:16.6366467Z
+93.123.16.38,80,http,no,transparent,BG,保加利亚,索菲亞,Ohost LLC,,75,39,97.5,630,2026-08-29T03:11:23.2734917Z,2026-08-29T03:11:23.2734917Z
+94.78.67.171,80,http,no,transparent,CY,Cyprus,Kyrenia,Netonline Bilisim Sirketi LTD,AS44558 Netonline Bilisim Sirketi LTD,110,56,99.9,7476,2026-08-29T03:13:16.7027558Z,2026-08-29T03:13:16.7027558Z
+81.19.210.10,80,http,yes,transparent,GB,United Kingdom,City of London,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,113,27,89.9,1094,2026-08-29T03:11:23.2995316Z,2026-08-29T03:11:23.2995316Z
+176.111.37.5,39811,http,yes,transparent,UA,Ukraine,Dobropol'ye,Cogento Backbone Limited,AS214743 Cogento Backbone Limited,134,24,96.7,6323,2026-08-29T03:11:49.7007552Z,2026-08-29T03:11:49.7007552Z
+176.111.37.216,39811,http,yes,transparent,UA,Ukraine,Dobropol'ye,Cogento Backbone Limited,AS214743 Cogento Backbone Limited,137,24,93.8,6607,2026-08-29T03:11:52.4729843Z,2026-08-29T03:11:52.4729843Z
+185.135.69.34,80,http,no,transparent,IQ,Iraq,Baghdad,Giganet Telecom,AS205889 Giga Nineveh for internet services Ltd,139,77,99,7200,2026-08-29T03:11:49.7587744Z,2026-08-29T03:11:49.7587744Z
+95.3.69.222,8080,http,yes,transparent,TR,Turkey,Antakya,TurkTelekom,AS9121 Turk Telekomunikasyon Anonim Sirketi,295,49,99.8,7474,2026-08-29T03:11:52.6568084Z,2026-08-29T03:11:52.6568084Z
+130.110.103.245,3128,http,yes,transparent,SA,Saudi Arabia,Jeddah,Oracle Cloud Infrastructure (me-jeddah-1),AS31898 Oracle Corporation,326,66,95.9,5727,2026-08-29T03:11:52.7047992Z,2026-08-29T03:11:52.7047992Z
+185.235.16.12,80,http,no,transparent,SY,Syria,Damascus,Bitakat Company LTD,AS29256 STE PDN Internal AS,335,62,99.1,7380,2026-08-29T03:10:17.2452864Z,2026-08-29T03:10:17.2452864Z
+159.65.230.46,8888,http,no,transparent,US,United States,North Bergen,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",339,82,91.5,6835,2026-08-29T03:11:11.0306495Z,2026-08-29T03:11:11.0306495Z
+142.93.202.130,3128,http,no,transparent,US,United States,North Bergen,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",361,86,98.6,7519,2026-08-29T03:14:00.4380845Z,2026-08-29T03:14:00.4380845Z
+212.154.169.90,3128,http,yes,transparent,KZ,Kazakhstan,Astana,LLC ?electronic Commerce Center,AS50482 JSC Kazakhtelecom,404,75,99.1,5368,2026-08-29T03:11:52.7922778Z,2026-08-29T03:11:52.7922778Z
+38.29.32.240,3128,http,no,transparent,CA,Canada,Caledonia,Metro Loop,AS32100 Xplore Inc.,409,96,79.7,2782,2026-08-29T03:15:11.8280367Z,2026-08-29T03:15:11.8280367Z
+185.28.155.163,1433,http,yes,transparent,IL,Israel,Petach Tikva,Cloudwebmanage IL PT,AS44709 O.M.C. COMPUTERS & COMMUNICATIONS LTD,413,54,85.2,687,2026-08-29T03:12:36.9378778Z,2026-08-29T03:12:36.9378778Z
 196.64.96.47,1081,http,no,transparent,MA,Morocco,Rabat,MarocTelecomASDL,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,415,80,100,21,2026-08-29T03:10:11.2609831Z,2026-08-29T03:10:11.2609831Z
-196.64.100.211,1081,http,yes,transparent,MA,Morocco,Rabat,MarocTelecomASDL,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,418,80,100,18,2026-08-29T03:06:33.4051985Z,2026-08-29T03:06:33.4051985Z
-196.64.107.89,1081,http,no,transparent,MA,Morocco,Rabat,MarocTelecomASDL,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,427,83,100,30,2026-08-29T03:07:09.7721529Z,2026-08-29T03:07:09.7721529Z
-196.64.105.104,1081,http,yes,transparent,MA,Morocco,Rabat,MarocTelecomASDL,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,430,93,100,44,2026-08-29T03:02:45.6180483Z,2026-08-29T03:02:45.6180483Z
-196.204.3.22,1981,http,no,transparent,EG,Egypt,Cairo,HiNet,AS24835 Vodafone Data,430,72,67.9,28,2026-08-29T03:09:59.3804472Z,2026-08-29T03:09:59.3804472Z
-38.29.32.240,3128,http,no,transparent,CA,Canada,Caledonia,Metro Loop,AS32100 Xplore Inc.,435,100,79.7,2781,2026-08-29T03:10:06.8468905Z,2026-08-29T03:10:06.8468905Z
-137.66.1.45,80,http,no,transparent,US,United States,Elk Grove Village,GTT Americas,AS30081 CacheFly,530,4,98.1,7516,2026-08-29T03:05:39.9382405Z,2026-08-29T03:05:39.9382405Z
-96.18.6.140,8080,http,yes,transparent,US,United States,Nowata,Sparklight,"AS11492 CABLE ONE, INC.",559,125,98.4,64,2026-08-29T03:05:14.2897799Z,2026-08-29T03:05:14.2897799Z
-190.97.236.128,999,http,yes,transparent,VE,Venezuela,Maporal,Viginet C.A,AS263703 VIGINET C.A,560,185,99.4,3761,2026-08-29T03:08:23.2641205Z,2026-08-29T03:08:23.2641205Z
-52.226.76.91,80,http,no,transparent,,,,,,578,93,80.8,1339,2026-08-29T03:09:50.4461278Z,2026-08-29T03:09:50.4461278Z
-43.98.172.166,3128,http,yes,transparent,SG,Singapore,Singapore,Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",657,156,94,1221,2026-08-29T03:07:16.6207837Z,2026-08-29T03:07:16.6207837Z
-45.59.100.205,3128,http,yes,transparent,US,United States,New York,Impact Host LLC,AS203380 DA International Group Ltd.,702,167,99.5,197,2026-08-29T03:06:17.4382680Z,2026-08-29T03:06:17.4382680Z
-196.64.100.211,1088,http,yes,transparent,MA,Morocco,Beni Mellal,MarocTelecomASDL,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,713,1103,100,28,2026-08-29T03:06:14.2228608Z,2026-08-29T03:06:14.2228608Z
+196.64.100.211,1081,http,yes,transparent,MA,Morocco,Rabat,MarocTelecomASDL,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,415,79,100,19,2026-08-29T03:11:35.4155390Z,2026-08-29T03:11:35.4155390Z
+196.64.105.104,1081,http,yes,transparent,MA,Morocco,Rabat,MarocTelecomASDL,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,446,90,100,45,2026-08-29T03:10:53.1181924Z,2026-08-29T03:10:53.1181924Z
+196.64.100.211,1011,http,no,transparent,MA,Morocco,Rabat,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,473,77,94.9,99,2026-08-29T03:14:35.3616789Z,2026-08-29T03:14:35.3616789Z
+193.104.179.115,3128,http,yes,transparent,UZ,Uzbekistan,Tashkent,Uztelecom,AS8193 Uzbektelekom Joint Stock Company,484,74,90.5,222,2026-08-29T03:12:47.0941907Z,2026-08-29T03:12:47.0941907Z
+47.89.184.18,3128,http,no,transparent,US,United States,Henrico,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd.",506,91,96.2,7532,2026-08-29T03:14:29.8353506Z,2026-08-29T03:14:29.8353506Z
+96.18.6.140,8080,http,yes,transparent,US,United States,Nowata,Sparklight,"AS11492 CABLE ONE, INC.",551,125,98.5,65,2026-08-29T03:10:17.5255037Z,2026-08-29T03:10:17.5255037Z
+52.226.76.91,80,http,no,transparent,,,,,,580,92,80.8,1340,2026-08-29T03:14:54.1464239Z,2026-08-29T03:14:54.1464239Z
+137.66.1.45,80,http,no,transparent,US,United States,Elk Grove Village,GTT Americas,AS30081 CacheFly,582,4,98.1,7517,2026-08-29T03:10:46.5354345Z,2026-08-29T03:10:46.5354345Z
+43.98.172.166,3128,http,yes,transparent,SG,Singapore,Singapore,Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",649,158,94,1222,2026-08-29T03:12:23.0995839Z,2026-08-29T03:12:23.0995839Z
+196.64.107.89,1081,http,no,transparent,MA,Morocco,Rabat,MarocTelecomASDL,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,670,100,100,31,2026-08-29T03:12:47.3069820Z,2026-08-29T03:12:47.3069820Z
+185.191.239.248,3128,http,yes,transparent,CH,Switzerland,Wetzikon,Fidel Ernesto Geronimo Ramirez trading as Geronimo Ramirez Computer Network,AS264617 GRUPO PANAGLOBAL 15 S.A,708,14,92.6,2844,2026-08-29T03:12:53.4756401Z,2026-08-29T03:12:53.4756401Z
+138.59.11.65,999,http,no,transparent,VE,Venezuela,Valencia,Fonet,AS269788 DISTRIBUIDORA OFIC TECH DE VENEZUELA C.A.,710,165,16.7,6,2026-08-29T03:10:23.3460333Z,2026-08-29T03:10:23.3460333Z
+45.59.100.205,3128,http,yes,transparent,US,United States,New York,Impact Host LLC,AS203380 DA International Group Ltd.,715,167,99.5,198,2026-08-29T03:11:23.3133887Z,2026-08-29T03:11:23.3133887Z
 5.200.72.58,3128,http,no,transparent,IR,Iran,Tehran,RESPINA Networks,AS42337 Respina Networks & Beyond PJSC,723,84,81.9,1058,2026-08-29T03:06:32.1407377Z,2026-08-29T03:06:32.1407377Z
-185.28.155.163,1433,http,yes,transparent,IL,Israel,Petach Tikva,Cloudwebmanage IL PT,AS44709 O.M.C. COMPUTERS & COMMUNICATIONS LTD,723,1160,85.1,686,2026-08-29T03:07:31.6421245Z,2026-08-29T03:07:31.6421245Z
-46.39.252.111,8080,http,no,transparent,US,United States,New York,"TRAVCHIS, LLC","AS400909 TRAVCHIS, LLC",730,34,51,958,2026-08-29T03:08:42.8761847Z,2026-08-29T03:08:42.8761847Z
-9.154.224.203,8080,http,no,transparent,,,,,,746,1198,12.5,8,2026-08-29T03:09:35.3874895Z,2026-08-29T03:09:35.3874895Z
-34.138.182.73,3128,http,yes,transparent,US,United States,North Charleston,Google Cloud (us-east1),AS396982 Google LLC,755,260,12.5,8,2026-08-29T03:09:34.4586830Z,2026-08-29T03:09:34.4586830Z
-189.51.168.164,999,http,yes,transparent,MX,Mexico,Mérida,Comunicación por Fibra SA de CV,AS270111 Comunicación por Fibra SA de CV,756,164,84.8,125,2026-08-29T03:09:50.6957367Z,2026-08-29T03:09:50.6957367Z
-20.204.43.57,80,http,no,transparent,IN,India,Pune,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation,762,123,100,7446,2026-08-29T03:06:50.6489545Z,2026-08-29T03:06:50.6489545Z
-103.80.214.243,1111,http,yes,transparent,,,,,,763,181,12.5,8,2026-08-29T03:09:13.0672820Z,2026-08-29T03:09:13.0672820Z
-114.236.137.41,21000,http,yes,transparent,CN,China,Nanjing,Chinanet JS,AS4134 CHINANET BACKBONE,763,186,87.7,7757,2026-08-29T03:06:10.2693772Z,2026-08-29T03:06:10.2693772Z
-181.78.74.252,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,792,161,99.1,3895,2026-08-29T03:06:50.7164159Z,2026-08-29T03:06:50.7164159Z
-181.78.74.253,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,793,161,99,3894,2026-08-29T03:06:50.7178167Z,2026-08-29T03:06:50.7178167Z
-181.78.23.187,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,797,166,98.6,888,2026-08-29T03:06:50.7273679Z,2026-08-29T03:06:50.7273679Z
-190.97.236.129,999,http,yes,transparent,VE,Venezuela,Maporal,Viginet C.A,AS263703 VIGINET C.A,838,184,99.4,3755,2026-08-29T03:08:14.1846926Z,2026-08-29T03:08:14.1846926Z
-129.226.93.232,80,http,no,transparent,SG,Singapore,Singapore,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",914,252,99,4790,2026-08-29T03:05:35.5309116Z,2026-08-29T03:05:35.5309116Z
-185.191.239.248,3128,http,yes,transparent,CH,Switzerland,Wetzikon,Fidel Ernesto Geronimo Ramirez trading as Geronimo Ramirez Computer Network,AS264617 GRUPO PANAGLOBAL 15 S.A,952,22,92.6,2843,2026-08-29T03:07:46.0248391Z,2026-08-29T03:07:46.0248391Z
-42.96.18.62,1311,http,yes,transparent,VN,Vietnam,Quận Một,Long Van System Solution,AS131423 Branch of Long Van System Solution JSC - Hanoi,954,224,91.7,5998,2026-08-29T03:09:53.1532928Z,2026-08-29T03:09:53.1532928Z
-159.194.228.40,8888,http,yes,transparent,US,United States,Houston,CDN77 Houston,AS60068 Datacamp Limited,971,56,53.3,199,2026-08-29T03:05:46.0662628Z,2026-08-29T03:05:46.0662628Z
-47.57.69.227,3128,http,yes,transparent,HK,Hong Kong,Hong Kong,Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",1073,270,90.6,1245,2026-08-29T03:06:58.9494992Z,2026-08-29T03:06:58.9494992Z
-8.209.255.13,3128,http,no,transparent,JP,Japan,Tokyo,Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",1080,289,95.2,7341,2026-08-29T03:09:10.9331434Z,2026-08-29T03:09:10.9331434Z
-103.177.118.145,8118,http,yes,transparent,BD,Bangladesh,Tangail,Link3 Technologies Ltd,AS23688 Link3 Technologies Ltd.,1111,1268,84.3,2322,2026-08-29T03:07:47.4375150Z,2026-08-29T03:07:47.4375150Z
-210.211.113.37,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,1115,1278,84.1,1286,2026-08-29T03:09:00.6186100Z,2026-08-29T03:09:00.6186100Z
-210.211.113.36,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,1130,269,86.5,1264,2026-08-29T03:10:07.7123253Z,2026-08-29T03:10:07.7123253Z
-210.211.113.35,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,1133,1286,77.6,1052,2026-08-29T03:07:32.5296412Z,2026-08-29T03:07:32.5296412Z
-47.243.92.199,3128,http,no,transparent,HK,Hong Kong,Hong Kong,Alibaba Cloud - HK,"AS45102 Alibaba (US) Technology Co., Ltd.",1135,275,98.8,7460,2026-08-29T03:06:01.6115382Z,2026-08-29T03:06:01.6115382Z
-153.135.4.238,8080,http,yes,transparent,JP,Japan,Nakamurachō,Open Computer Network,"AS4713 NTT DOCOMO BUSINESS,Inc.",1167,277,92.2,914,2026-08-29T03:09:41.5399241Z,2026-08-29T03:09:41.5399241Z
-103.213.97.78,80,http,no,transparent,CN,China,Changzhou,Wznt,AS56046 China Mobile communications corporation,1190,243,98.6,3042,2026-08-29T03:06:34.3404209Z,2026-08-29T03:06:34.3404209Z
-8.213.151.128,3128,http,no,transparent,KR,South Korea,Seoul,Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",1240,304,96.9,7497,2026-08-29T03:06:59.1507473Z,2026-08-29T03:06:59.1507473Z
-1.231.81.166,3128,http,yes,transparent,KR,South Korea,Jongno-gu,broadNnet,AS9318 SK Broadband Co Ltd,1281,315,97.2,7382,2026-08-29T03:09:45.8198318Z,2026-08-29T03:09:45.8198318Z
-196.64.100.211,1011,http,no,transparent,MA,Morocco,Rabat,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,1480,84,94.9,98,2026-08-29T03:08:53.1562310Z,2026-08-29T03:08:53.1562310Z
-219.142.66.245,9090,http,yes,transparent,CN,China,Beijing,SMS Demag Technology Corporation,AS4847 China Networks Inter-Exchange,1670,1245,98.2,2128,2026-08-29T03:06:08.6686003Z,2026-08-29T03:06:08.6686003Z
-210.211.113.34,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,1777,1293,87.1,1216,2026-08-29T03:06:00.5661212Z,2026-08-29T03:06:00.5661212Z
-190.7.59.10,8080,http,yes,transparent,AR,Argentina,Corrientes,Municipalidad de la Ciudad de Corrientes,AS20207 Gigared S.A.,2032,249,40,30,2026-08-29T03:07:25.7444926Z,2026-08-29T03:07:25.7444926Z
-206.135.12.153,999,http,yes,transparent,MX,Mexico,Lagos de Moreno,Ientc S De RL De CV,AS28458 IENTC S DE RL DE CV,2144,155,60,5,2026-08-29T03:05:15.9054908Z,2026-08-29T03:05:15.9054908Z
-37.59.125.131,8888,http,yes,transparent,FR,France,Saint-Jean-sur-Veyle,ProXad network / Free SA,AS12322 Free SAS,2253,13,92.1,7125,2026-08-29T03:09:15.1980690Z,2026-08-29T03:09:15.1980690Z
-2.59.43.253,22222,http,yes,transparent,RU,Russia,St Petersburg,TimeWeb Ltd,AS9123 JSC TIMEWEB,2338,41,47.8,138,2026-08-29T03:06:52.1431941Z,2026-08-29T03:06:52.1431941Z
-23.228.86.236,8081,http,no,transparent,US,United States,Los Angeles,T3 Web Hosting,AS17252 Colocation America Corporation,2601,171,99.7,7431,2026-08-29T03:07:00.3776333Z,2026-08-29T03:07:00.3776333Z
-82.209.210.213,3128,http,yes,transparent,BY,Belarus,Minsk,PPPoE USERS GRODNO,AS6697 Republican Unitary Telecommunication Enterprise Beltelecom,2774,37,67.9,2134,2026-08-29T03:07:47.8692267Z,2026-08-29T03:07:47.8692267Z
-154.59.56.76,999,http,yes,transparent,VE,Venezuela,Santa Cruz de Mora,"TODONET TELECOMUNICACIONES, C.A",AS264778 TotalCom Venezuela C.A.,3138,2218,66.7,12,2026-08-29T03:06:25.4165179Z,2026-08-29T03:06:25.4165179Z
+189.51.168.164,999,http,yes,transparent,MX,Mexico,Mérida,Comunicación por Fibra SA de CV,AS270111 Comunicación por Fibra SA de CV,735,168,84.9,126,2026-08-29T03:14:54.3776686Z,2026-08-29T03:14:54.3776686Z
+67.203.23.79,8081,http,no,transparent,US,United States,Los Angeles,T3 Web Hosting,AS17252 Colocation America Corporation,738,171,99.7,7433,2026-08-29T03:14:53.3297259Z,2026-08-29T03:14:53.3297259Z
+67.203.23.88,8081,http,no,transparent,US,United States,Los Angeles,T3 Web Hosting,AS17252 Colocation America Corporation,745,171,99.6,6850,2026-08-29T03:12:48.0577506Z,2026-08-29T03:12:48.0577506Z
+196.64.100.211,1088,http,yes,transparent,MA,Morocco,Beni Mellal,MarocTelecomASDL,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,776,86,100,29,2026-08-29T03:11:18.0303242Z,2026-08-29T03:11:18.0303242Z
+181.78.74.253,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,783,161,99.1,3895,2026-08-29T03:11:53.2565290Z,2026-08-29T03:11:53.2565290Z
+181.78.23.187,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,815,166,98.7,889,2026-08-29T03:11:53.2929462Z,2026-08-29T03:11:53.2929462Z
+181.78.74.252,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,820,160,99.1,3896,2026-08-29T03:11:53.2928618Z,2026-08-29T03:11:53.2928618Z
+190.97.236.129,999,http,yes,transparent,VE,Venezuela,Maporal,Viginet C.A,AS263703 VIGINET C.A,827,181,99.4,3756,2026-08-29T03:13:21.4950662Z,2026-08-29T03:13:21.4950662Z
+20.204.43.57,80,http,no,transparent,IN,India,Pune,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation,897,123,100,7447,2026-08-29T03:11:53.3328927Z,2026-08-29T03:11:53.3328927Z
+159.194.228.40,8888,http,yes,transparent,US,United States,Houston,CDN77 Houston,AS60068 Datacamp Limited,911,55,53.5,200,2026-08-29T03:10:53.1491404Z,2026-08-29T03:10:53.1491404Z
+103.213.97.78,80,http,no,transparent,CN,China,Changzhou,Wznt,AS56046 China Mobile communications corporation,955,200,98.6,3043,2026-08-29T03:11:41.4499273Z,2026-08-29T03:11:41.4499273Z
+196.204.3.22,1981,http,no,transparent,EG,Egypt,Cairo,HiNet,AS24835 Vodafone Data,999,72,69,29,2026-08-29T03:15:05.7330728Z,2026-08-29T03:15:05.7330728Z
+8.209.255.13,3128,http,no,transparent,JP,Japan,Tokyo,Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",1088,254,95.2,7342,2026-08-29T03:14:18.3032619Z,2026-08-29T03:14:18.3032619Z
+47.57.69.227,3128,http,yes,transparent,HK,Hong Kong,Hong Kong,Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",1090,266,90.6,1246,2026-08-29T03:12:06.0242306Z,2026-08-29T03:12:06.0242306Z
+210.211.113.36,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,1096,273,86.5,1265,2026-08-29T03:15:12.6920698Z,2026-08-29T03:15:12.6920698Z
+153.135.4.238,8080,http,yes,transparent,JP,Japan,Nakamurachō,Open Computer Network,"AS4713 NTT DOCOMO BUSINESS,Inc.",1118,263,92.2,915,2026-08-29T03:14:48.1901266Z,2026-08-29T03:14:48.1901266Z
+93.123.16.14,80,http,no,transparent,BG,保加利亚,索菲亞,Ohost LLC,,1130,1100,95.9,753,2026-08-29T03:14:24.7916965Z,2026-08-29T03:14:24.7916965Z
+129.226.93.232,80,http,no,transparent,SG,Singapore,Singapore,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",1192,338,99,4791,2026-08-29T03:10:41.8629080Z,2026-08-29T03:10:41.8629080Z
+47.243.92.199,3128,http,no,transparent,HK,Hong Kong,Hong Kong,Alibaba Cloud - HK,"AS45102 Alibaba (US) Technology Co., Ltd.",1206,256,98.8,7461,2026-08-29T03:11:08.2077043Z,2026-08-29T03:11:08.2077043Z
+210.211.113.35,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,1226,1297,77.6,1053,2026-08-29T03:12:38.9941730Z,2026-08-29T03:12:38.9941730Z
+37.59.125.131,8888,http,yes,transparent,FR,France,Saint-Jean-sur-Veyle,ProXad network / Free SA,AS12322 Free SAS,1275,14,92.1,7126,2026-08-29T03:14:20.1265550Z,2026-08-29T03:14:20.1265550Z
+219.142.66.245,9090,http,yes,transparent,CN,China,Beijing,SMS Demag Technology Corporation,AS4847 China Networks Inter-Exchange,1282,160,98.2,2129,2026-08-29T03:11:16.0456933Z,2026-08-29T03:11:16.0456933Z
+1.231.81.166,3128,http,yes,transparent,KR,South Korea,Jongno-gu,broadNnet,AS9318 SK Broadband Co Ltd,1514,305,97.2,7383,2026-08-29T03:14:49.6555156Z,2026-08-29T03:14:49.6555156Z
+2.59.43.253,22222,http,yes,transparent,RU,Russia,St Petersburg,TimeWeb Ltd,AS9123 JSC TIMEWEB,1594,42,48.2,139,2026-08-29T03:12:00.1743138Z,2026-08-29T03:12:00.1743138Z
+190.97.236.128,999,http,yes,transparent,VE,Venezuela,Maporal,Viginet C.A,AS263703 VIGINET C.A,1595,1200,99.4,3762,2026-08-29T03:13:31.1272046Z,2026-08-29T03:13:31.1272046Z
+210.211.113.33,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,2035,2321,83.8,1201,2026-08-29T03:12:23.1179442Z,2026-08-29T03:12:23.1179442Z
+23.228.86.236,8081,http,no,transparent,US,United States,Los Angeles,T3 Web Hosting,AS17252 Colocation America Corporation,2096,170,99.7,7432,2026-08-29T03:12:06.9354851Z,2026-08-29T03:12:06.9354851Z
+186.5.94.206,999,http,yes,transparent,EC,Ecuador,Manta,MINTEL,AS27947 Telconet S.A,2159,188,71,5662,2026-08-29T03:10:45.6771269Z,2026-08-29T03:10:45.6771269Z
+42.96.18.62,1311,http,yes,transparent,VN,Vietnam,Quận Một,Long Van System Solution,AS131423 Branch of Long Van System Solution JSC - Hanoi,2298,294,91.7,5999,2026-08-29T03:15:01.6498427Z,2026-08-29T03:15:01.6498427Z
+210.211.113.34,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,2695,1292,87.1,1217,2026-08-29T03:11:08.9227491Z,2026-08-29T03:11:08.9227491Z
+8.213.151.128,3128,http,no,transparent,KR,South Korea,Seoul,Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",3116,302,96.9,7498,2026-08-29T03:12:08.0869070Z,2026-08-29T03:12:08.0869070Z
 173.212.234.174,3128,http,yes,transparent,US,United States,New York,Fourplex Telecom LLC,AS27284 Fourplex Telecom LLC,3224,5,86.5,3672,2026-08-29T03:05:54.4971391Z,2026-08-29T03:05:54.4971391Z
-175.136.239.173,8181,http,yes,transparent,MY,Malaysia,Kuala Lumpur,Telekom Malaysia Berhad,AS4788 TM TECHNOLOGY SERVICES SDN. BHD.,3311,1253,69.3,5561,2026-08-29T03:05:53.8963302Z,2026-08-29T03:05:53.8963302Z
-104.154.186.48,80,http,yes,transparent,US,United States,Council Bluffs,Google Cloud (us-central1),AS396982 Google LLC,3803,131,54.1,2396,2026-08-29T03:09:53.7101808Z,2026-08-29T03:09:53.7101808Z
-49.147.127.126,8082,http,yes,transparent,PH,Philippines,Bacolod City,Philippine Long Distance Telephone Company,AS9299 Philippine Long Distance Telephone Company,3896,223,36,200,2026-08-29T03:05:31.7641303Z,2026-08-29T03:05:31.7641303Z
-66.94.104.255,3128,http,no,transparent,US,United States,Seattle,Emerald Onion,AS396507 Emerald Onion,4572,92,68.9,740,2026-08-29T03:05:18.5561114Z,2026-08-29T03:05:18.5561114Z
-186.101.251.197,8080,http,no,transparent,,,,,,5087,2598,9.1,11,2026-08-29T03:08:57.2938104Z,2026-08-29T03:08:57.2938104Z
-177.234.217.43,999,http,no,transparent,,,,,,6265,174,7.1,14,2026-08-29T03:09:18.5625944Z,2026-08-29T03:09:18.5625944Z
-37.187.109.70,10111,http,yes,transparent,FR,France,Roubaix,OVH SAS,AS16276 OVH SAS,6647,28,54.5,112,2026-08-29T03:06:26.7344276Z,2026-08-29T03:06:26.7344276Z
-177.23.156.0,18800,http,no,transparent,,,,,,6721,1254,7.7,13,2026-08-29T03:08:29.7927729Z,2026-08-29T03:08:29.7927729Z
-67.203.23.88,8081,http,no,transparent,US,United States,Los Angeles,T3 Web Hosting,AS17252 Colocation America Corporation,6857,689,99.6,6849,2026-08-29T03:07:45.8184854Z,2026-08-29T03:07:45.8184854Z
-186.5.94.206,999,http,yes,transparent,EC,Ecuador,Manta,MINTEL,AS27947 Telconet S.A,6978,187,71,5661,2026-08-29T03:05:38.0014207Z,2026-08-29T03:05:38.0014207Z
-67.203.23.79,8081,http,no,transparent,US,United States,Los Angeles,T3 Web Hosting,AS17252 Colocation America Corporation,7138,171,99.7,7432,2026-08-29T03:09:47.4049785Z,2026-08-29T03:09:47.4049785Z
-190.94.212.247,999,http,no,transparent,,,,,,7194,1186,7.1,14,2026-08-29T03:08:30.1982140Z,2026-08-29T03:08:30.1982140Z
-196.204.80.106,1976,http,yes,transparent,EG,Egypt,Shibīn al Kawm,Vodafone Data,AS24835 Vodafone Data,7901,2102,15.4,13,2026-08-29T03:07:19.2655343Z,2026-08-29T03:07:19.2655343Z
+114.236.137.41,21000,http,yes,transparent,CN,China,Nanjing,Chinanet JS,AS4134 CHINANET BACKBONE,4370,176,87.7,7758,2026-08-29T03:11:20.7439023Z,2026-08-29T03:11:20.7439023Z
+66.94.104.255,3128,http,no,transparent,US,United States,Seattle,Emerald Onion,AS396507 Emerald Onion,4837,99,69,741,2026-08-29T03:13:03.3220276Z,2026-08-29T03:13:03.3220276Z
+37.187.109.70,10111,http,yes,transparent,FR,France,Roubaix,OVH SAS,AS16276 OVH SAS,6434,18,54.9,113,2026-08-29T03:11:35.5381370Z,2026-08-29T03:11:35.5381370Z
+175.136.239.173,8181,http,yes,transparent,MY,Malaysia,Kuala Lumpur,Telekom Malaysia Berhad,AS4788 TM TECHNOLOGY SERVICES SDN. BHD.,6989,196,69.3,5562,2026-08-29T03:11:06.4544166Z,2026-08-29T03:11:06.4544166Z
+49.147.127.126,8082,http,yes,transparent,PH,Philippines,Bacolod City,Philippine Long Distance Telephone Company,AS9299 Philippine Long Distance Telephone Company,7150,283,36.1,202,2026-08-29T03:12:48.2960922Z,2026-08-29T03:12:48.2960922Z
+210.211.113.37,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,7982,260,84.1,1287,2026-08-29T03:14:13.8661206Z,2026-08-29T03:14:13.8661206Z
