@@ -1,5 +1,17 @@
 [
   {
+    "ip": "103.65.237.92",
+    "port": 5678,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "response_ms": 707,
+    "uptime_pct": 88,
+    "checks": 5731
+  },
+  {
     "ip": "103.169.40.53",
     "port": 80,
     "protocol": "http",
@@ -7,21 +19,9 @@
     "anonymity": "elite",
     "country_code": "ID",
     "country": "Indonesia",
-    "response_ms": 483,
+    "response_ms": 761,
     "uptime_pct": 82.1,
-    "checks": 798
-  },
-  {
-    "ip": "58.147.189.63",
-    "port": 3125,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "ID",
-    "country": "Indonesia",
-    "response_ms": 815,
-    "uptime_pct": 41.7,
-    "checks": 24
+    "checks": 799
   },
   {
     "ip": "103.182.52.15",
@@ -31,32 +31,44 @@
     "anonymity": "transparent",
     "country_code": "ID",
     "country": "Indonesia",
-    "response_ms": 1053,
+    "response_ms": 1048,
     "uptime_pct": 100,
-    "checks": 10
+    "checks": 11
   },
   {
     "ip": "159.65.11.156",
     "port": 50001,
-    "protocol": "socks4",
+    "protocol": "socks5",
     "https": true,
     "anonymity": "elite",
     "country_code": "ID",
     "country": "Indonesia",
-    "response_ms": 1155,
-    "uptime_pct": 87.5,
-    "checks": 48
+    "response_ms": 1421,
+    "uptime_pct": 87.8,
+    "checks": 49
   },
   {
-    "ip": "103.65.237.92",
-    "port": 5678,
+    "ip": "103.144.18.95",
+    "port": 8080,
     "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
+    "https": true,
+    "anonymity": "transparent",
     "country_code": "ID",
     "country": "Indonesia",
-    "response_ms": 1738,
-    "uptime_pct": 88,
-    "checks": 5729
+    "response_ms": 2242,
+    "uptime_pct": 41.7,
+    "checks": 12
+  },
+  {
+    "ip": "58.147.189.63",
+    "port": 3125,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "response_ms": 2816,
+    "uptime_pct": 44,
+    "checks": 25
   }
 ]
