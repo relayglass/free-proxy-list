@@ -1,15 +1,27 @@
 [
   {
-    "ip": "93.118.127.234",
-    "port": 8080,
+    "ip": "5.200.72.58",
+    "port": 3128,
     "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
+    "https": false,
+    "anonymity": "transparent",
     "country_code": "IR",
     "country": "Iran",
-    "response_ms": 529,
-    "uptime_pct": 16.7,
-    "checks": 48
+    "response_ms": 374,
+    "uptime_pct": 82.3,
+    "checks": 1448
+  },
+  {
+    "ip": "5.200.72.62",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "IR",
+    "country": "Iran",
+    "response_ms": 440,
+    "uptime_pct": 83.6,
+    "checks": 5428
   },
   {
     "ip": "194.31.108.109",
@@ -19,20 +31,8 @@
     "anonymity": "elite",
     "country_code": "IR",
     "country": "Iran",
-    "response_ms": 700,
+    "response_ms": 6644,
     "uptime_pct": 99.6,
-    "checks": 233
-  },
-  {
-    "ip": "185.211.57.166",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "IR",
-    "country": "Iran",
-    "response_ms": 7531,
-    "uptime_pct": 86.2,
-    "checks": 58
+    "checks": 234
   }
 ]
