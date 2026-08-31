@@ -1,27 +1,39 @@
 [
   {
-    "ip": "52.56.226.196",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "anonymous",
-    "country_code": "GB",
-    "country": "United Kingdom",
-    "response_ms": 156,
-    "uptime_pct": 100,
-    "checks": 35
-  },
-  {
     "ip": "194.164.216.246",
     "port": 1080,
-    "protocol": "socks5",
+    "protocol": "socks4",
     "https": false,
     "anonymity": "elite",
     "country_code": "GB",
     "country": "United Kingdom",
-    "response_ms": 361,
-    "uptime_pct": 53.3,
-    "checks": 15
+    "response_ms": 120,
+    "uptime_pct": 52.9,
+    "checks": 17
+  },
+  {
+    "ip": "157.90.113.23",
+    "port": 9052,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "response_ms": 135,
+    "uptime_pct": 72,
+    "checks": 1548
+  },
+  {
+    "ip": "89.47.249.41",
+    "port": 5555,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "response_ms": 278,
+    "uptime_pct": 68,
+    "checks": 606
   },
   {
     "ip": "94.76.224.104",
@@ -36,18 +48,6 @@
     "checks": 152
   },
   {
-    "ip": "89.47.249.41",
-    "port": 5555,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "GB",
-    "country": "United Kingdom",
-    "response_ms": 534,
-    "uptime_pct": 67.9,
-    "checks": 605
-  },
-  {
     "ip": "192.252.210.233",
     "port": 4145,
     "protocol": "socks5",
@@ -55,9 +55,9 @@
     "anonymity": "elite",
     "country_code": "GB",
     "country": "United Kingdom",
-    "response_ms": 929,
+    "response_ms": 916,
     "uptime_pct": 99.7,
-    "checks": 7962
+    "checks": 7963
   },
   {
     "ip": "111.119.162.248",
@@ -67,8 +67,8 @@
     "anonymity": "elite",
     "country_code": "GB",
     "country": "United Kingdom",
-    "response_ms": 1095,
-    "uptime_pct": 46.5,
-    "checks": 114
+    "response_ms": 1271,
+    "uptime_pct": 47,
+    "checks": 115
   }
 ]
