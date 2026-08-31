@@ -1,29 +1,5 @@
 [
   {
-    "ip": "5.200.72.62",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "IR",
-    "country": "Iran",
-    "response_ms": 332,
-    "uptime_pct": 83.6,
-    "checks": 5444
-  },
-  {
-    "ip": "5.200.72.58",
-    "port": 3128,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
-    "country_code": "IR",
-    "country": "Iran",
-    "response_ms": 340,
-    "uptime_pct": 82.3,
-    "checks": 1466
-  },
-  {
     "ip": "5.200.72.61",
     "port": 3128,
     "protocol": "http",
@@ -48,16 +24,40 @@
     "checks": 1515
   },
   {
-    "ip": "185.211.57.166",
+    "ip": "5.200.72.58",
+    "port": 3128,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "IR",
+    "country": "Iran",
+    "response_ms": 375,
+    "uptime_pct": 82.3,
+    "checks": 1467
+  },
+  {
+    "ip": "5.200.72.62",
     "port": 3128,
     "protocol": "http",
     "https": true,
     "anonymity": "transparent",
     "country_code": "IR",
     "country": "Iran",
-    "response_ms": 756,
-    "uptime_pct": 87.2,
-    "checks": 86
+    "response_ms": 434,
+    "uptime_pct": 83.6,
+    "checks": 5445
+  },
+  {
+    "ip": "78.38.67.210",
+    "port": 3636,
+    "protocol": "socks4",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "IR",
+    "country": "Iran",
+    "response_ms": 464,
+    "uptime_pct": 12.5,
+    "checks": 8
   },
   {
     "ip": "194.31.108.109",
@@ -67,8 +67,44 @@
     "anonymity": "elite",
     "country_code": "IR",
     "country": "Iran",
-    "response_ms": 1183,
+    "response_ms": 503,
     "uptime_pct": 99.2,
-    "checks": 260
+    "checks": 261
+  },
+  {
+    "ip": "37.202.237.4",
+    "port": 443,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "IR",
+    "country": "Iran",
+    "response_ms": 589,
+    "uptime_pct": 72.5,
+    "checks": 204
+  },
+  {
+    "ip": "94.183.6.226",
+    "port": 9090,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "IR",
+    "country": "Iran",
+    "response_ms": 601,
+    "uptime_pct": 15.4,
+    "checks": 13
+  },
+  {
+    "ip": "185.211.57.166",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "IR",
+    "country": "Iran",
+    "response_ms": 7947,
+    "uptime_pct": 87.4,
+    "checks": 87
   }
 ]
