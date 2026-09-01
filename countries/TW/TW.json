@@ -1,15 +1,27 @@
 [
   {
-    "ip": "164.52.11.194",
-    "port": 18080,
+    "ip": "220.128.223.136",
+    "port": 8084,
     "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
+    "https": false,
+    "anonymity": "anonymous",
     "country_code": "TW",
     "country": "Taiwan",
-    "response_ms": 996,
-    "uptime_pct": 64.6,
-    "checks": 4377
+    "response_ms": 1157,
+    "uptime_pct": 53.6,
+    "checks": 28
+  },
+  {
+    "ip": "220.128.223.136",
+    "port": 8081,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "TW",
+    "country": "Taiwan",
+    "response_ms": 1183,
+    "uptime_pct": 48,
+    "checks": 25
   },
   {
     "ip": "34.81.160.132",
@@ -19,8 +31,20 @@
     "anonymity": "elite",
     "country_code": "TW",
     "country": "Taiwan",
-    "response_ms": 3782,
+    "response_ms": 2303,
     "uptime_pct": 70.3,
-    "checks": 3431
+    "checks": 3432
+  },
+  {
+    "ip": "164.52.11.194",
+    "port": 18080,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "TW",
+    "country": "Taiwan",
+    "response_ms": 7650,
+    "uptime_pct": 64.6,
+    "checks": 4378
   }
 ]
