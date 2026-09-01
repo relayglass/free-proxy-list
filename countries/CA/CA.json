@@ -7,20 +7,32 @@
     "anonymity": "anonymous",
     "country_code": "CA",
     "country": "Canada",
-    "response_ms": 426,
+    "response_ms": 438,
     "uptime_pct": 96,
-    "checks": 981
+    "checks": 982
   },
   {
-    "ip": "38.29.32.240",
+    "ip": "66.59.197.63",
     "port": 3128,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
     "country_code": "CA",
     "country": "Canada",
-    "response_ms": 431,
-    "uptime_pct": 82.1,
-    "checks": 3660
+    "response_ms": 1661,
+    "uptime_pct": 58.8,
+    "checks": 17
+  },
+  {
+    "ip": "45.73.0.118",
+    "port": 5678,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "CA",
+    "country": "Canada",
+    "response_ms": 3633,
+    "uptime_pct": 11.1,
+    "checks": 9
   }
 ]
