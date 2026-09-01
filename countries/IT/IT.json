@@ -1,6 +1,6 @@
 [
   {
-    "ip": "15.161.147.224",
+    "ip": "15.161.147.63",
     "port": 3128,
     "protocol": "http",
     "https": true,
@@ -8,8 +8,8 @@
     "country_code": "IT",
     "country": "Italy",
     "response_ms": 55,
-    "uptime_pct": 100,
-    "checks": 15
+    "uptime_pct": 94.7,
+    "checks": 19
   },
   {
     "ip": "15.161.53.177",
@@ -19,9 +19,21 @@
     "anonymity": "anonymous",
     "country_code": "IT",
     "country": "Italy",
-    "response_ms": 56,
+    "response_ms": 60,
     "uptime_pct": 100,
-    "checks": 18
+    "checks": 19
+  },
+  {
+    "ip": "15.161.147.224",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "anonymous",
+    "country_code": "IT",
+    "country": "Italy",
+    "response_ms": 70,
+    "uptime_pct": 100,
+    "checks": 16
   },
   {
     "ip": "15.161.101.99",
@@ -31,45 +43,9 @@
     "anonymity": "anonymous",
     "country_code": "IT",
     "country": "Italy",
-    "response_ms": 58,
+    "response_ms": 71,
     "uptime_pct": 100,
-    "checks": 18
-  },
-  {
-    "ip": "77.242.177.57",
-    "port": 3128,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
-    "country_code": "IT",
-    "country": "Italy",
-    "response_ms": 72,
-    "uptime_pct": 74.5,
-    "checks": 3593
-  },
-  {
-    "ip": "94.156.72.171",
-    "port": 8080,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "IT",
-    "country": "Italy",
-    "response_ms": 192,
-    "uptime_pct": 78.6,
-    "checks": 398
-  },
-  {
-    "ip": "65.21.252.66",
-    "port": 10809,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "IT",
-    "country": "Italy",
-    "response_ms": 579,
-    "uptime_pct": 36.6,
-    "checks": 82
+    "checks": 19
   },
   {
     "ip": "95.254.142.165",
@@ -79,20 +55,44 @@
     "anonymity": "anonymous",
     "country_code": "IT",
     "country": "Italy",
-    "response_ms": 1919,
-    "uptime_pct": 82.2,
-    "checks": 118
+    "response_ms": 596,
+    "uptime_pct": 82.4,
+    "checks": 119
   },
   {
-    "ip": "15.161.147.63",
+    "ip": "77.242.177.57",
     "port": 3128,
     "protocol": "http",
-    "https": true,
+    "https": false,
     "anonymity": "anonymous",
     "country_code": "IT",
     "country": "Italy",
-    "response_ms": 3592,
-    "uptime_pct": 94.4,
-    "checks": 18
+    "response_ms": 1373,
+    "uptime_pct": 74.5,
+    "checks": 3594
+  },
+  {
+    "ip": "94.156.72.171",
+    "port": 8080,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "IT",
+    "country": "Italy",
+    "response_ms": 1432,
+    "uptime_pct": 78.7,
+    "checks": 399
+  },
+  {
+    "ip": "65.21.252.66",
+    "port": 10809,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "IT",
+    "country": "Italy",
+    "response_ms": 4010,
+    "uptime_pct": 37.3,
+    "checks": 83
   }
 ]
