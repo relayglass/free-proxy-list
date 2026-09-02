@@ -7,9 +7,9 @@
     "anonymity": "transparent",
     "country_code": "HK",
     "country": "Hong Kong",
-    "response_ms": 502,
+    "response_ms": 77,
     "uptime_pct": 96.3,
-    "checks": 2221
+    "checks": 2222
   },
   {
     "ip": "103.167.61.168",
@@ -19,9 +19,9 @@
     "anonymity": "anonymous",
     "country_code": "HK",
     "country": "Hong Kong",
-    "response_ms": 726,
+    "response_ms": 716,
     "uptime_pct": 100,
-    "checks": 24
+    "checks": 25
   },
   {
     "ip": "203.19.38.114",
@@ -31,9 +31,9 @@
     "anonymity": "elite",
     "country_code": "HK",
     "country": "Hong Kong",
-    "response_ms": 780,
+    "response_ms": 831,
     "uptime_pct": 99.8,
-    "checks": 8619
+    "checks": 8620
   },
   {
     "ip": "103.43.191.71",
@@ -48,16 +48,28 @@
     "checks": 6280
   },
   {
-    "ip": "47.57.69.227",
-    "port": 3128,
+    "ip": "165.154.7.156",
+    "port": 8888,
     "protocol": "http",
     "https": true,
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "country_code": "HK",
     "country": "Hong Kong",
-    "response_ms": 977,
-    "uptime_pct": 89.6,
-    "checks": 2261
+    "response_ms": 990,
+    "uptime_pct": 66.5,
+    "checks": 1139
+  },
+  {
+    "ip": "34.92.41.66",
+    "port": 5555,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "HK",
+    "country": "Hong Kong",
+    "response_ms": 1008,
+    "uptime_pct": 52.5,
+    "checks": 61
   },
   {
     "ip": "39.109.113.97",
@@ -72,30 +84,6 @@
     "checks": 6198
   },
   {
-    "ip": "34.92.41.66",
-    "port": 5555,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "HK",
-    "country": "Hong Kong",
-    "response_ms": 1016,
-    "uptime_pct": 51.7,
-    "checks": 60
-  },
-  {
-    "ip": "165.154.7.156",
-    "port": 8888,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "HK",
-    "country": "Hong Kong",
-    "response_ms": 1180,
-    "uptime_pct": 66.4,
-    "checks": 1138
-  },
-  {
     "ip": "45.194.33.12",
     "port": 30002,
     "protocol": "socks5",
@@ -103,33 +91,9 @@
     "anonymity": "elite",
     "country_code": "HK",
     "country": "Hong Kong",
-    "response_ms": 1441,
+    "response_ms": 1461,
     "uptime_pct": 93.8,
-    "checks": 2790
-  },
-  {
-    "ip": "123.58.219.171",
-    "port": 10808,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "HK",
-    "country": "Hong Kong",
-    "response_ms": 1519,
-    "uptime_pct": 82,
-    "checks": 8119
-  },
-  {
-    "ip": "152.32.168.221",
-    "port": 10808,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "HK",
-    "country": "Hong Kong",
-    "response_ms": 1522,
-    "uptime_pct": 78.2,
-    "checks": 4231
+    "checks": 2791
   },
   {
     "ip": "45.194.33.12",
@@ -139,9 +103,9 @@
     "anonymity": "elite",
     "country_code": "HK",
     "country": "Hong Kong",
-    "response_ms": 1615,
+    "response_ms": 1502,
     "uptime_pct": 86.5,
-    "checks": 9305
+    "checks": 9306
   },
   {
     "ip": "47.243.92.199",
@@ -156,6 +120,18 @@
     "checks": 8625
   },
   {
+    "ip": "103.73.66.232",
+    "port": 24444,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "HK",
+    "country": "Hong Kong",
+    "response_ms": 2556,
+    "uptime_pct": 31.4,
+    "checks": 86
+  },
+  {
     "ip": "47.243.119.143",
     "port": 2080,
     "protocol": "http",
@@ -166,5 +142,29 @@
     "response_ms": 4044,
     "uptime_pct": 66.1,
     "checks": 59
+  },
+  {
+    "ip": "47.57.69.227",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "HK",
+    "country": "Hong Kong",
+    "response_ms": 4316,
+    "uptime_pct": 89.6,
+    "checks": 2262
+  },
+  {
+    "ip": "152.32.168.221",
+    "port": 10808,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "HK",
+    "country": "Hong Kong",
+    "response_ms": 5059,
+    "uptime_pct": 78.2,
+    "checks": 4232
   }
 ]
