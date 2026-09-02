@@ -1,17 +1,5 @@
 [
   {
-    "ip": "62.60.239.29",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "AT",
-    "country": "Austria",
-    "response_ms": 49,
-    "uptime_pct": 96.2,
-    "checks": 130
-  },
-  {
     "ip": "213.33.126.130",
     "port": 80,
     "protocol": "http",
@@ -21,7 +9,19 @@
     "country": "Austria",
     "response_ms": 52,
     "uptime_pct": 99.9,
-    "checks": 5423
+    "checks": 5424
+  },
+  {
+    "ip": "62.60.239.29",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "AT",
+    "country": "Austria",
+    "response_ms": 66,
+    "uptime_pct": 96.2,
+    "checks": 131
   },
   {
     "ip": "158.255.212.55",
@@ -31,8 +31,20 @@
     "anonymity": "transparent",
     "country_code": "AT",
     "country": "Austria",
-    "response_ms": 108,
+    "response_ms": 116,
     "uptime_pct": 73.3,
-    "checks": 1299
+    "checks": 1300
+  },
+  {
+    "ip": "62.106.66.174",
+    "port": 143,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "AT",
+    "country": "Austria",
+    "response_ms": 4800,
+    "uptime_pct": 25,
+    "checks": 36
   }
 ]
