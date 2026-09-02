@@ -1,16 +1,16 @@
 # Free Proxy List - Checked Every 5 Minutes
 
-![Live proxies](https://img.shields.io/badge/live%20proxies-404-22c55e?style=flat-square)
-![Countries](https://img.shields.io/badge/countries-49-3b82f6?style=flat-square)
-![Median speed](https://img.shields.io/badge/median%20speed-937%20ms-a855f7?style=flat-square)
-![Updated](https://img.shields.io/badge/updated-02%20Sep%202026%2016%3A05%20UTC-64748b?style=flat-square)
+![Live proxies](https://img.shields.io/badge/live%20proxies-407-22c55e?style=flat-square)
+![Countries](https://img.shields.io/badge/countries-53-3b82f6?style=flat-square)
+![Median speed](https://img.shields.io/badge/median%20speed-933%20ms-a855f7?style=flat-square)
+![Updated](https://img.shields.io/badge/updated-02%20Sep%202026%2016%3A10%20UTC-64748b?style=flat-square)
 
 Most free proxy lists are full of dead addresses, and you only find out after your script
 fails. This list is different. Every proxy here answered a real request through our own test
 server in the last few minutes, and the files update every 5 minutes.
 
-Right now you get **404 working proxies** in **49 countries**. Half of
-them answer in under **937 ms**.
+Right now you get **407 working proxies** in **53 countries**. Half of
+them answer in under **933 ms**.
 
 > Built and maintained by [Relayglass](https://relayglass.com).
 
@@ -44,17 +44,17 @@ print(r.status_code)
 
 | File | Proxies | Use it when |
 | --- | ---: | --- |
-| [`all.txt`](all.txt) | 404 | You want everything, `ip:port` on each line |
-| [`all.csv`](all.csv) | 404 | You want to filter by country, speed, or uptime |
-| [`all.json`](all.json) | 404 | Your code would rather not parse CSV |
-| [`protocol/http/http.txt`](protocol/http/http.txt) | 205 | Your tool asks for an HTTP proxy. Start here |
-| [`protocol/socks5/socks5.txt`](protocol/socks5/socks5.txt) | 109 | You need SOCKS5, which also carries non-web traffic |
-| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 90 | Your tool only speaks the older SOCKS4 |
-| [`protocol/https/https.txt`](protocol/https/https.txt) | 161 | You need to load `https://` pages through the proxy |
-| [`anonymity/elite/`](anonymity/elite) | 315 | The site must not see that you use a proxy |
+| [`all.txt`](all.txt) | 407 | You want everything, `ip:port` on each line |
+| [`all.csv`](all.csv) | 407 | You want to filter by country, speed, or uptime |
+| [`all.json`](all.json) | 407 | Your code would rather not parse CSV |
+| [`protocol/http/http.txt`](protocol/http/http.txt) | 212 | Your tool asks for an HTTP proxy. Start here |
+| [`protocol/socks5/socks5.txt`](protocol/socks5/socks5.txt) | 110 | You need SOCKS5, which also carries non-web traffic |
+| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 85 | Your tool only speaks the older SOCKS4 |
+| [`protocol/https/https.txt`](protocol/https/https.txt) | 175 | You need to load `https://` pages through the proxy |
+| [`anonymity/elite/`](anonymity/elite) | 320 | The site must not see that you use a proxy |
 
 A note on the HTTPS file. Many HTTP proxies can only forward plain `http://` pages. Loading an
-`https://` page needs a different trick, called CONNECT, and only 161 of our proxies
+`https://` page needs a different trick, called CONNECT, and only 175 of our proxies
 support it. If your requests to secure sites fail, use that file.
 
 ## 📂 Browse by protocol, country, or anonymity
@@ -73,7 +73,7 @@ protocol/
 countries/
   US/       US.txt     US.csv     US.json
   DE/       DE.txt     DE.csv     DE.json
-  ...one folder per country, 49 right now
+  ...one folder per country, 53 right now
 
 anonymity/
   elite/        http/  https/  socks4/  socks5/
@@ -125,11 +125,11 @@ converting anything:
 These are the five countries with the most working proxies right now:
 
 ```
-United States    ██████████████████████████████  182
-China            █████  29
-Germany          ███  17
-The Netherlands  ██  15
-France           ██  13
+United States  ██████████████████████████████  177
+China          █████  32
+Germany        ███  20
+Russia         ██  14
+France         ██  12
 ```
 
 Country matters more than you might think. A proxy in the same country as the site you load
@@ -270,11 +270,11 @@ More free tools, including a bulk proxy checker and an IP checker, are at
 
 ## In short
 
-You get 404 working proxies, updated every 5 minutes. Check the `anonymity` column
+You get 407 working proxies, updated every 5 minutes. Check the `anonymity` column
 before you trust a proxy to hide your address, sort by `uptime_pct` rather than speed, and
 never send anything private through a free proxy.
 
-**Last updated:** 2026-09-02 16:05 UTC. This page and every file are generated
+**Last updated:** 2026-09-02 16:10 UTC. This page and every file are generated
 automatically, so a pull request against them will be replaced by the next run.
 
 ## ⚖️ Disclaimer
