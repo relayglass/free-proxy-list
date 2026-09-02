@@ -7,9 +7,9 @@
     "anonymity": "anonymous",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 44,
-    "uptime_pct": 87.6,
-    "checks": 7255
+    "response_ms": 60,
+    "uptime_pct": 87.7,
+    "checks": 7256
   },
   {
     "ip": "62.210.215.36",
@@ -19,9 +19,9 @@
     "anonymity": "anonymous",
     "country_code": "FR",
     "country": "France",
-    "response_ms": 59,
+    "response_ms": 62,
     "uptime_pct": 96,
-    "checks": 553
+    "checks": 554
   },
   {
     "ip": "95.211.174.135",
@@ -31,9 +31,9 @@
     "anonymity": "anonymous",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 77,
+    "response_ms": 76,
     "uptime_pct": 76.2,
-    "checks": 4777
+    "checks": 4778
   },
   {
     "ip": "184.75.221.82",
@@ -43,9 +43,33 @@
     "anonymity": "anonymous",
     "country_code": "CA",
     "country": "Canada",
-    "response_ms": 491,
+    "response_ms": 416,
     "uptime_pct": 95.7,
-    "checks": 1226
+    "checks": 1227
+  },
+  {
+    "ip": "77.242.177.57",
+    "port": 3128,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "IT",
+    "country": "Italy",
+    "response_ms": 471,
+    "uptime_pct": 74.3,
+    "checks": 3777
+  },
+  {
+    "ip": "12.50.107.222",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "US",
+    "country": "United States",
+    "response_ms": 529,
+    "uptime_pct": 99.4,
+    "checks": 8511
   },
   {
     "ip": "12.50.107.217",
@@ -57,31 +81,7 @@
     "country": "United States",
     "response_ms": 530,
     "uptime_pct": 99.2,
-    "checks": 8503
-  },
-  {
-    "ip": "12.50.107.219",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
-    "country_code": "US",
-    "country": "United States",
-    "response_ms": 530,
-    "uptime_pct": 99.4,
-    "checks": 8498
-  },
-  {
-    "ip": "15.235.21.254",
-    "port": 8080,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
-    "country_code": "CA",
-    "country": "Canada",
-    "response_ms": 569,
-    "uptime_pct": 85.2,
-    "checks": 5809
+    "checks": 8504
   },
   {
     "ip": "12.50.107.221",
@@ -91,9 +91,21 @@
     "anonymity": "anonymous",
     "country_code": "US",
     "country": "United States",
-    "response_ms": 598,
+    "response_ms": 530,
     "uptime_pct": 99.1,
-    "checks": 8554
+    "checks": 8555
+  },
+  {
+    "ip": "12.50.107.219",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "US",
+    "country": "United States",
+    "response_ms": 532,
+    "uptime_pct": 99.4,
+    "checks": 8499
   },
   {
     "ip": "12.50.107.220",
@@ -103,45 +115,9 @@
     "anonymity": "anonymous",
     "country_code": "US",
     "country": "United States",
-    "response_ms": 599,
+    "response_ms": 577,
     "uptime_pct": 99.3,
-    "checks": 8506
-  },
-  {
-    "ip": "12.50.107.222",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
-    "country_code": "US",
-    "country": "United States",
-    "response_ms": 602,
-    "uptime_pct": 99.4,
-    "checks": 8510
-  },
-  {
-    "ip": "219.65.73.80",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
-    "country_code": "IN",
-    "country": "India",
-    "response_ms": 722,
-    "uptime_pct": 98.1,
-    "checks": 8313
-  },
-  {
-    "ip": "219.65.73.81",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
-    "country_code": "IN",
-    "country": "India",
-    "response_ms": 732,
-    "uptime_pct": 97.9,
-    "checks": 8412
+    "checks": 8507
   },
   {
     "ip": "41.184.92.220",
@@ -151,9 +127,45 @@
     "anonymity": "anonymous",
     "country_code": "NG",
     "country": "Nigeria",
-    "response_ms": 825,
+    "response_ms": 657,
     "uptime_pct": 85.4,
-    "checks": 377
+    "checks": 378
+  },
+  {
+    "ip": "219.65.73.81",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "IN",
+    "country": "India",
+    "response_ms": 706,
+    "uptime_pct": 97.9,
+    "checks": 8413
+  },
+  {
+    "ip": "219.65.73.80",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "IN",
+    "country": "India",
+    "response_ms": 714,
+    "uptime_pct": 98.1,
+    "checks": 8314
+  },
+  {
+    "ip": "15.235.21.254",
+    "port": 8080,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "CA",
+    "country": "Canada",
+    "response_ms": 744,
+    "uptime_pct": 85.2,
+    "checks": 5811
   },
   {
     "ip": "14.161.10.46",
@@ -163,9 +175,9 @@
     "anonymity": "anonymous",
     "country_code": "VN",
     "country": "Vietnam",
-    "response_ms": 1226,
+    "response_ms": 1206,
     "uptime_pct": 95.6,
-    "checks": 2808
+    "checks": 2809
   },
   {
     "ip": "34.134.231.117",
@@ -180,15 +192,15 @@
     "checks": 6790
   },
   {
-    "ip": "183.110.216.128",
-    "port": 8091,
+    "ip": "197.221.240.182",
+    "port": 80,
     "protocol": "http",
     "https": false,
     "anonymity": "anonymous",
-    "country_code": "KR",
-    "country": "South Korea",
-    "response_ms": 2835,
-    "uptime_pct": 73.6,
-    "checks": 3862
+    "country_code": "ZW",
+    "country": "Zimbabwe",
+    "response_ms": 7965,
+    "uptime_pct": 18.9,
+    "checks": 95
   }
 ]
