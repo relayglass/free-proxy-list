@@ -1,15 +1,15 @@
 [
   {
-    "ip": "219.93.101.62",
-    "port": 80,
+    "ip": "175.143.76.177",
+    "port": 8181,
     "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
+    "https": true,
+    "anonymity": "transparent",
     "country_code": "MY",
     "country": "Malaysia",
-    "response_ms": 726,
-    "uptime_pct": 85.8,
-    "checks": 155
+    "response_ms": 755,
+    "uptime_pct": 67.2,
+    "checks": 5332
   },
   {
     "ip": "219.93.101.60",
@@ -19,9 +19,21 @@
     "anonymity": "anonymous",
     "country_code": "MY",
     "country": "Malaysia",
-    "response_ms": 814,
-    "uptime_pct": 88,
-    "checks": 200
+    "response_ms": 764,
+    "uptime_pct": 88.1,
+    "checks": 201
+  },
+  {
+    "ip": "219.93.101.62",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "MY",
+    "country": "Malaysia",
+    "response_ms": 769,
+    "uptime_pct": 85.9,
+    "checks": 156
   },
   {
     "ip": "103.95.34.186",
@@ -31,21 +43,9 @@
     "anonymity": "elite",
     "country_code": "MY",
     "country": "Malaysia",
-    "response_ms": 932,
+    "response_ms": 1113,
     "uptime_pct": 99.1,
-    "checks": 7034
-  },
-  {
-    "ip": "47.250.211.53",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "MY",
-    "country": "Malaysia",
-    "response_ms": 1489,
-    "uptime_pct": 91,
-    "checks": 5673
+    "checks": 7035
   },
   {
     "ip": "175.139.255.25",
@@ -55,8 +55,20 @@
     "anonymity": "transparent",
     "country_code": "MY",
     "country": "Malaysia",
-    "response_ms": 1906,
+    "response_ms": 1711,
     "uptime_pct": 68.5,
-    "checks": 5747
+    "checks": 5748
+  },
+  {
+    "ip": "47.250.211.53",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "MY",
+    "country": "Malaysia",
+    "response_ms": 5535,
+    "uptime_pct": 91,
+    "checks": 5674
   }
 ]
