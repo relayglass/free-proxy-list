@@ -1,14 +1,26 @@
 [
   {
-    "ip": "5.45.119.70",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
+    "ip": "5.45.126.128",
+    "port": 8080,
+    "protocol": "http",
+    "https": false,
     "anonymity": "elite",
     "country_code": "EE",
     "country": "Estonia",
-    "response_ms": 275,
-    "uptime_pct": 70.2,
-    "checks": 3278
+    "response_ms": 162,
+    "uptime_pct": 92.4,
+    "checks": 9107
+  },
+  {
+    "ip": "193.42.112.26",
+    "port": 8080,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "EE",
+    "country": "Estonia",
+    "response_ms": 6574,
+    "uptime_pct": 24,
+    "checks": 25
   }
 ]
