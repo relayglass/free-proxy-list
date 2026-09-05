@@ -1,15 +1,27 @@
 [
   {
     "ip": "167.233.169.253",
+    "port": 1084,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "AU",
+    "country": "Australia",
+    "response_ms": 1729,
+    "uptime_pct": 100,
+    "checks": 61
+  },
+  {
+    "ip": "167.233.169.253",
     "port": 1081,
     "protocol": "http",
     "https": true,
     "anonymity": "transparent",
     "country_code": "AU",
     "country": "Australia",
-    "response_ms": 2113,
+    "response_ms": 1987,
     "uptime_pct": 99.4,
-    "checks": 155
+    "checks": 156
   },
   {
     "ip": "167.233.169.253",
@@ -24,28 +36,16 @@
     "checks": 82
   },
   {
-    "ip": "167.233.169.253",
-    "port": 1084,
+    "ip": "114.111.151.41",
+    "port": 80,
     "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "AU",
-    "country": "Australia",
-    "response_ms": 2593,
-    "uptime_pct": 100,
-    "checks": 60
-  },
-  {
-    "ip": "91.92.242.21",
-    "port": 40487,
-    "protocol": "socks5",
     "https": false,
     "anonymity": "elite",
     "country_code": "AU",
     "country": "Australia",
-    "response_ms": 5653,
-    "uptime_pct": 72.7,
-    "checks": 11
+    "response_ms": 2288,
+    "uptime_pct": 48.2,
+    "checks": 282
   },
   {
     "ip": "185.204.170.179",
@@ -55,8 +55,44 @@
     "anonymity": "elite",
     "country_code": "AU",
     "country": "Australia",
-    "response_ms": 5970,
-    "uptime_pct": 78.8,
-    "checks": 33
+    "response_ms": 3881,
+    "uptime_pct": 79.4,
+    "checks": 34
+  },
+  {
+    "ip": "91.92.242.21",
+    "port": 40487,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "AU",
+    "country": "Australia",
+    "response_ms": 4775,
+    "uptime_pct": 75,
+    "checks": 12
+  },
+  {
+    "ip": "91.92.242.21",
+    "port": 40488,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "AU",
+    "country": "Australia",
+    "response_ms": 7091,
+    "uptime_pct": 77.8,
+    "checks": 9
+  },
+  {
+    "ip": "91.92.242.21",
+    "port": 40440,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "AU",
+    "country": "Australia",
+    "response_ms": 7116,
+    "uptime_pct": 73.7,
+    "checks": 19
   }
 ]
