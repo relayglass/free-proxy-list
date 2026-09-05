@@ -1,16 +1,16 @@
 # Free Proxy List - Checked Every 5 Minutes
 
-![Live proxies](https://img.shields.io/badge/live%20proxies-500-22c55e?style=flat-square)
+![Live proxies](https://img.shields.io/badge/live%20proxies-506-22c55e?style=flat-square)
 ![Countries](https://img.shields.io/badge/countries-62-3b82f6?style=flat-square)
-![Median speed](https://img.shields.io/badge/median%20speed-873%20ms-a855f7?style=flat-square)
-![Updated](https://img.shields.io/badge/updated-05%20Sep%202026%2021%3A30%20UTC-64748b?style=flat-square)
+![Median speed](https://img.shields.io/badge/median%20speed-921%20ms-a855f7?style=flat-square)
+![Updated](https://img.shields.io/badge/updated-05%20Sep%202026%2021%3A35%20UTC-64748b?style=flat-square)
 
 Most free proxy lists are full of dead addresses, and you only find out after your script
 fails. This list is different. Every proxy here answered a real request through our own test
 server in the last few minutes, and the files update every 5 minutes.
 
-Right now you get **500 working proxies** in **62 countries**. Half of
-them answer in under **873 ms**.
+Right now you get **506 working proxies** in **62 countries**. Half of
+them answer in under **921 ms**.
 
 > Built and maintained by [Relayglass](https://relayglass.com).
 
@@ -44,17 +44,17 @@ print(r.status_code)
 
 | File | Proxies | Use it when |
 | --- | ---: | --- |
-| [`all.txt`](all.txt) | 500 | You want everything, `ip:port` on each line |
-| [`all.csv`](all.csv) | 500 | You want to filter by country, speed, or uptime |
-| [`all.json`](all.json) | 500 | Your code would rather not parse CSV |
-| [`protocol/http/http.txt`](protocol/http/http.txt) | 253 | Your tool asks for an HTTP proxy. Start here |
-| [`protocol/socks5/socks5.txt`](protocol/socks5/socks5.txt) | 129 | You need SOCKS5, which also carries non-web traffic |
-| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 118 | Your tool only speaks the older SOCKS4 |
-| [`protocol/https/https.txt`](protocol/https/https.txt) | 189 | You need to load `https://` pages through the proxy |
-| [`anonymity/elite/`](anonymity/elite) | 392 | The site must not see that you use a proxy |
+| [`all.txt`](all.txt) | 506 | You want everything, `ip:port` on each line |
+| [`all.csv`](all.csv) | 506 | You want to filter by country, speed, or uptime |
+| [`all.json`](all.json) | 506 | Your code would rather not parse CSV |
+| [`protocol/http/http.txt`](protocol/http/http.txt) | 250 | Your tool asks for an HTTP proxy. Start here |
+| [`protocol/socks5/socks5.txt`](protocol/socks5/socks5.txt) | 135 | You need SOCKS5, which also carries non-web traffic |
+| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 121 | Your tool only speaks the older SOCKS4 |
+| [`protocol/https/https.txt`](protocol/https/https.txt) | 197 | You need to load `https://` pages through the proxy |
+| [`anonymity/elite/`](anonymity/elite) | 407 | The site must not see that you use a proxy |
 
 A note on the HTTPS file. Many HTTP proxies can only forward plain `http://` pages. Loading an
-`https://` page needs a different trick, called CONNECT, and only 189 of our proxies
+`https://` page needs a different trick, called CONNECT, and only 197 of our proxies
 support it. If your requests to secure sites fail, use that file.
 
 ## 📂 Browse by protocol, country, or anonymity
@@ -126,10 +126,10 @@ These are the five countries with the most working proxies right now:
 
 ```
 United States  ██████████████████████████████  217
-China          █████  38
-Germany        ███  21
+China          █████  39
+Germany        ███  23
 Singapore      ███  21
-France         ██  15
+France         ██  18
 ```
 
 Country matters more than you might think. A proxy in the same country as the site you load
@@ -270,11 +270,11 @@ More free tools, including a bulk proxy checker and an IP checker, are at
 
 ## In short
 
-You get 500 working proxies, updated every 5 minutes. Check the `anonymity` column
+You get 506 working proxies, updated every 5 minutes. Check the `anonymity` column
 before you trust a proxy to hide your address, sort by `uptime_pct` rather than speed, and
 never send anything private through a free proxy.
 
-**Last updated:** 2026-09-05 21:30 UTC. This page and every file are generated
+**Last updated:** 2026-09-05 21:35 UTC. This page and every file are generated
 automatically, so a pull request against them will be replaced by the next run.
 
 ## ⚖️ Disclaimer
