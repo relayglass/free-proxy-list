@@ -1,16 +1,16 @@
 # Free Proxy List - Checked Every 5 Minutes
 
 ![Live proxies](https://img.shields.io/badge/live%20proxies-478-22c55e?style=flat-square)
-![Countries](https://img.shields.io/badge/countries-59-3b82f6?style=flat-square)
-![Median speed](https://img.shields.io/badge/median%20speed-860%20ms-a855f7?style=flat-square)
-![Updated](https://img.shields.io/badge/updated-05%20Sep%202026%2008%3A20%20UTC-64748b?style=flat-square)
+![Countries](https://img.shields.io/badge/countries-56-3b82f6?style=flat-square)
+![Median speed](https://img.shields.io/badge/median%20speed-857%20ms-a855f7?style=flat-square)
+![Updated](https://img.shields.io/badge/updated-05%20Sep%202026%2008%3A25%20UTC-64748b?style=flat-square)
 
 Most free proxy lists are full of dead addresses, and you only find out after your script
 fails. This list is different. Every proxy here answered a real request through our own test
 server in the last few minutes, and the files update every 5 minutes.
 
-Right now you get **478 working proxies** in **59 countries**. Half of
-them answer in under **860 ms**.
+Right now you get **478 working proxies** in **56 countries**. Half of
+them answer in under **857 ms**.
 
 > Built and maintained by [Relayglass](https://relayglass.com).
 
@@ -47,14 +47,14 @@ print(r.status_code)
 | [`all.txt`](all.txt) | 478 | You want everything, `ip:port` on each line |
 | [`all.csv`](all.csv) | 478 | You want to filter by country, speed, or uptime |
 | [`all.json`](all.json) | 478 | Your code would rather not parse CSV |
-| [`protocol/http/http.txt`](protocol/http/http.txt) | 219 | Your tool asks for an HTTP proxy. Start here |
-| [`protocol/socks5/socks5.txt`](protocol/socks5/socks5.txt) | 145 | You need SOCKS5, which also carries non-web traffic |
-| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 114 | Your tool only speaks the older SOCKS4 |
-| [`protocol/https/https.txt`](protocol/https/https.txt) | 194 | You need to load `https://` pages through the proxy |
-| [`anonymity/elite/`](anonymity/elite) | 375 | The site must not see that you use a proxy |
+| [`protocol/http/http.txt`](protocol/http/http.txt) | 220 | Your tool asks for an HTTP proxy. Start here |
+| [`protocol/socks5/socks5.txt`](protocol/socks5/socks5.txt) | 146 | You need SOCKS5, which also carries non-web traffic |
+| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 112 | Your tool only speaks the older SOCKS4 |
+| [`protocol/https/https.txt`](protocol/https/https.txt) | 199 | You need to load `https://` pages through the proxy |
+| [`anonymity/elite/`](anonymity/elite) | 378 | The site must not see that you use a proxy |
 
 A note on the HTTPS file. Many HTTP proxies can only forward plain `http://` pages. Loading an
-`https://` page needs a different trick, called CONNECT, and only 194 of our proxies
+`https://` page needs a different trick, called CONNECT, and only 199 of our proxies
 support it. If your requests to secure sites fail, use that file.
 
 ## 📂 Browse by protocol, country, or anonymity
@@ -73,7 +73,7 @@ protocol/
 countries/
   US/       US.txt     US.csv     US.json
   DE/       DE.txt     DE.csv     DE.json
-  ...one folder per country, 59 right now
+  ...one folder per country, 56 right now
 
 anonymity/
   elite/        http/  https/  socks4/  socks5/
@@ -125,11 +125,11 @@ converting anything:
 These are the five countries with the most working proxies right now:
 
 ```
-United States  ██████████████████████████████  215
-China          ███  22
-Russia         ███  20
-France         ██  17
-Germany        ██  15
+United States    ██████████████████████████████  216
+China            ███  24
+Russia           ███  20
+Germany          ██  18
+The Netherlands  ██  17
 ```
 
 Country matters more than you might think. A proxy in the same country as the site you load
@@ -274,7 +274,7 @@ You get 478 working proxies, updated every 5 minutes. Check the `anonymity` colu
 before you trust a proxy to hide your address, sort by `uptime_pct` rather than speed, and
 never send anything private through a free proxy.
 
-**Last updated:** 2026-09-05 08:20 UTC. This page and every file are generated
+**Last updated:** 2026-09-05 08:25 UTC. This page and every file are generated
 automatically, so a pull request against them will be replaced by the next run.
 
 ## ⚖️ Disclaimer
