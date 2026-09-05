@@ -2,15 +2,15 @@
 
 ![Live proxies](https://img.shields.io/badge/live%20proxies-490-22c55e?style=flat-square)
 ![Countries](https://img.shields.io/badge/countries-58-3b82f6?style=flat-square)
-![Median speed](https://img.shields.io/badge/median%20speed-859%20ms-a855f7?style=flat-square)
-![Updated](https://img.shields.io/badge/updated-05%20Sep%202026%2009%3A05%20UTC-64748b?style=flat-square)
+![Median speed](https://img.shields.io/badge/median%20speed-858%20ms-a855f7?style=flat-square)
+![Updated](https://img.shields.io/badge/updated-05%20Sep%202026%2009%3A10%20UTC-64748b?style=flat-square)
 
 Most free proxy lists are full of dead addresses, and you only find out after your script
 fails. This list is different. Every proxy here answered a real request through our own test
 server in the last few minutes, and the files update every 5 minutes.
 
 Right now you get **490 working proxies** in **58 countries**. Half of
-them answer in under **859 ms**.
+them answer in under **858 ms**.
 
 > Built and maintained by [Relayglass](https://relayglass.com).
 
@@ -47,11 +47,11 @@ print(r.status_code)
 | [`all.txt`](all.txt) | 490 | You want everything, `ip:port` on each line |
 | [`all.csv`](all.csv) | 490 | You want to filter by country, speed, or uptime |
 | [`all.json`](all.json) | 490 | Your code would rather not parse CSV |
-| [`protocol/http/http.txt`](protocol/http/http.txt) | 229 | Your tool asks for an HTTP proxy. Start here |
-| [`protocol/socks5/socks5.txt`](protocol/socks5/socks5.txt) | 142 | You need SOCKS5, which also carries non-web traffic |
-| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 119 | Your tool only speaks the older SOCKS4 |
+| [`protocol/http/http.txt`](protocol/http/http.txt) | 227 | Your tool asks for an HTTP proxy. Start here |
+| [`protocol/socks5/socks5.txt`](protocol/socks5/socks5.txt) | 146 | You need SOCKS5, which also carries non-web traffic |
+| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 117 | Your tool only speaks the older SOCKS4 |
 | [`protocol/https/https.txt`](protocol/https/https.txt) | 201 | You need to load `https://` pages through the proxy |
-| [`anonymity/elite/`](anonymity/elite) | 383 | The site must not see that you use a proxy |
+| [`anonymity/elite/`](anonymity/elite) | 387 | The site must not see that you use a proxy |
 
 A note on the HTTPS file. Many HTTP proxies can only forward plain `http://` pages. Loading an
 `https://` page needs a different trick, called CONNECT, and only 201 of our proxies
@@ -126,10 +126,10 @@ These are the five countries with the most working proxies right now:
 
 ```
 United States    ██████████████████████████████  216
-China            ███  24
-Russia           ███  21
-France           ███  20
-The Netherlands  ███  20
+The Netherlands  ████  27
+China            ████  26
+Germany          ███  20
+Russia           ███  19
 ```
 
 Country matters more than you might think. A proxy in the same country as the site you load
@@ -221,8 +221,8 @@ print(len(fast), fast[:5])
 Free proxies are not stable, and any list that promises uptime is lying to you. Here are our
 real numbers, measured across the whole list.
 
-The average proxy in this list has **89.3% uptime**. So if you load 100
-addresses from `all.txt` and try them all at once, expect about **89** to answer.
+The average proxy in this list has **88.2% uptime**. So if you load 100
+addresses from `all.txt` and try them all at once, expect about **88** to answer.
 The rest will have died since the last check, and that is normal.
 
 We re-test every working proxy every 5 minutes. If one fails, we test it less often, and
@@ -274,7 +274,7 @@ You get 490 working proxies, updated every 5 minutes. Check the `anonymity` colu
 before you trust a proxy to hide your address, sort by `uptime_pct` rather than speed, and
 never send anything private through a free proxy.
 
-**Last updated:** 2026-09-05 09:05 UTC. This page and every file are generated
+**Last updated:** 2026-09-05 09:10 UTC. This page and every file are generated
 automatically, so a pull request against them will be replaced by the next run.
 
 ## ⚖️ Disclaimer
