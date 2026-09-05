@@ -7,20 +7,32 @@
     "anonymity": "transparent",
     "country_code": "TR",
     "country": "Turkey",
-    "response_ms": 256,
+    "response_ms": 254,
     "uptime_pct": 99.7,
-    "checks": 9206
+    "checks": 9207
   },
   {
     "ip": "78.110.121.34",
     "port": 10808,
-    "protocol": "http",
+    "protocol": "socks4",
     "https": false,
     "anonymity": "elite",
     "country_code": "TR",
     "country": "T\u00FCrkiye",
-    "response_ms": 2512,
+    "response_ms": 413,
     "uptime_pct": 100,
-    "checks": 56
+    "checks": 57
+  },
+  {
+    "ip": "176.88.191.150",
+    "port": 1080,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "TR",
+    "country": "Turkey",
+    "response_ms": 2651,
+    "uptime_pct": 27.4,
+    "checks": 113
   }
 ]
