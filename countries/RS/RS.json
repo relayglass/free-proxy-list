@@ -1,17 +1,5 @@
 [
   {
-    "ip": "93.87.38.20",
-    "port": 1090,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "RS",
-    "country": "Serbia",
-    "response_ms": 214,
-    "uptime_pct": 79.1,
-    "checks": 1534
-  },
-  {
     "ip": "167.233.89.17",
     "port": 1082,
     "protocol": "http",
@@ -19,20 +7,32 @@
     "anonymity": "transparent",
     "country_code": "RS",
     "country": "Serbia",
-    "response_ms": 282,
+    "response_ms": 163,
     "uptime_pct": 100,
-    "checks": 32
+    "checks": 33
   },
   {
-    "ip": "147.91.22.150",
-    "port": 80,
+    "ip": "167.233.89.17",
+    "port": 1083,
     "protocol": "http",
-    "https": false,
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "RS",
+    "country": "Serbia",
+    "response_ms": 221,
+    "uptime_pct": 100,
+    "checks": 1
+  },
+  {
+    "ip": "93.87.38.20",
+    "port": 1090,
+    "protocol": "socks5",
+    "https": true,
     "anonymity": "elite",
     "country_code": "RS",
     "country": "Serbia",
-    "response_ms": 7605,
-    "uptime_pct": 58.9,
-    "checks": 650
+    "response_ms": 241,
+    "uptime_pct": 79,
+    "checks": 1536
   }
 ]
