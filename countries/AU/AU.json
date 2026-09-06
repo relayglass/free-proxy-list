@@ -1,15 +1,27 @@
 [
   {
     "ip": "167.233.169.253",
+    "port": 1081,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "AU",
+    "country": "Australia",
+    "response_ms": 1666,
+    "uptime_pct": 98.6,
+    "checks": 500
+  },
+  {
+    "ip": "167.233.169.253",
     "port": 1084,
     "protocol": "http",
     "https": true,
     "anonymity": "transparent",
     "country_code": "AU",
     "country": "Australia",
-    "response_ms": 1654,
+    "response_ms": 1730,
     "uptime_pct": 97.5,
-    "checks": 406
+    "checks": 407
   },
   {
     "ip": "167.233.169.253",
@@ -19,33 +31,9 @@
     "anonymity": "transparent",
     "country_code": "AU",
     "country": "Australia",
-    "response_ms": 1663,
+    "response_ms": 1730,
     "uptime_pct": 99.3,
-    "checks": 423
-  },
-  {
-    "ip": "167.233.169.253",
-    "port": 1081,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "AU",
-    "country": "Australia",
-    "response_ms": 1666,
-    "uptime_pct": 98.6,
-    "checks": 499
-  },
-  {
-    "ip": "185.204.170.179",
-    "port": 1138,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "AU",
-    "country": "Australia",
-    "response_ms": 4083,
-    "uptime_pct": 81.6,
-    "checks": 38
+    "checks": 424
   },
   {
     "ip": "185.204.170.179",
@@ -55,21 +43,21 @@
     "anonymity": "elite",
     "country_code": "AU",
     "country": "Australia",
-    "response_ms": 5005,
+    "response_ms": 3839,
     "uptime_pct": 100,
-    "checks": 9
+    "checks": 10
   },
   {
     "ip": "185.204.170.179",
-    "port": 1136,
-    "protocol": "http",
+    "port": 1138,
+    "protocol": "socks4",
     "https": true,
     "anonymity": "elite",
     "country_code": "AU",
     "country": "Australia",
-    "response_ms": 5536,
-    "uptime_pct": 75,
-    "checks": 36
+    "response_ms": 3873,
+    "uptime_pct": 82.1,
+    "checks": 39
   },
   {
     "ip": "185.204.170.179",
@@ -79,8 +67,20 @@
     "anonymity": "elite",
     "country_code": "AU",
     "country": "Australia",
-    "response_ms": 7291,
-    "uptime_pct": 78.7,
-    "checks": 47
+    "response_ms": 4876,
+    "uptime_pct": 79.2,
+    "checks": 48
+  },
+  {
+    "ip": "185.204.170.179",
+    "port": 1136,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "AU",
+    "country": "Australia",
+    "response_ms": 7062,
+    "uptime_pct": 75.7,
+    "checks": 37
   }
 ]
