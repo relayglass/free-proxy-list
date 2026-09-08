@@ -12,16 +12,16 @@
     "checks": 108
   },
   {
-    "ip": "210.211.113.35",
+    "ip": "14.161.10.46",
     "port": 80,
     "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
+    "https": false,
+    "anonymity": "anonymous",
     "country_code": "VN",
     "country": "Vietnam",
-    "response_ms": 1089,
-    "uptime_pct": 74,
-    "checks": 3768
+    "response_ms": 1178,
+    "uptime_pct": 97.2,
+    "checks": 4781
   },
   {
     "ip": "14.251.13.20",
@@ -31,33 +31,9 @@
     "anonymity": "elite",
     "country_code": "VN",
     "country": "Vietnam",
-    "response_ms": 1184,
+    "response_ms": 1312,
     "uptime_pct": 97.8,
-    "checks": 4314
-  },
-  {
-    "ip": "14.161.10.46",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
-    "country_code": "VN",
-    "country": "Vietnam",
-    "response_ms": 1189,
-    "uptime_pct": 97.2,
-    "checks": 4780
-  },
-  {
-    "ip": "42.96.18.62",
-    "port": 1311,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "VN",
-    "country": "Vietnam",
-    "response_ms": 1406,
-    "uptime_pct": 91.9,
-    "checks": 8708
+    "checks": 4315
   },
   {
     "ip": "58.187.162.191",
@@ -67,9 +43,21 @@
     "anonymity": "elite",
     "country_code": "VN",
     "country": "Vietnam",
-    "response_ms": 2053,
-    "uptime_pct": 76,
-    "checks": 910
+    "response_ms": 1422,
+    "uptime_pct": 76.1,
+    "checks": 911
+  },
+  {
+    "ip": "160.22.17.4",
+    "port": 9988,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "VN",
+    "country": "Vietnam",
+    "response_ms": 1561,
+    "uptime_pct": 53.7,
+    "checks": 2120
   },
   {
     "ip": "210.211.113.37",
@@ -79,20 +67,32 @@
     "anonymity": "transparent",
     "country_code": "VN",
     "country": "Vietnam",
-    "response_ms": 2175,
+    "response_ms": 1959,
     "uptime_pct": 79.1,
-    "checks": 4376
+    "checks": 4377
   },
   {
-    "ip": "14.225.204.32",
-    "port": 10800,
-    "protocol": "socks5",
+    "ip": "42.96.18.62",
+    "port": 1311,
+    "protocol": "http",
     "https": true,
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "country_code": "VN",
     "country": "Vietnam",
-    "response_ms": 5508,
-    "uptime_pct": 72.2,
-    "checks": 4521
+    "response_ms": 2289,
+    "uptime_pct": 91.9,
+    "checks": 8709
+  },
+  {
+    "ip": "210.211.113.35",
+    "port": 80,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "VN",
+    "country": "Vietnam",
+    "response_ms": 2893,
+    "uptime_pct": 74,
+    "checks": 3770
   }
 ]
