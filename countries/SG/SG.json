@@ -1,15 +1,15 @@
 [
   {
-    "ip": "43.160.242.118",
+    "ip": "43.98.172.166",
     "port": 3128,
     "protocol": "http",
     "https": true,
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 812,
-    "uptime_pct": 81.6,
-    "checks": 7020
+    "response_ms": 672,
+    "uptime_pct": 93.2,
+    "checks": 4254
   },
   {
     "ip": "129.226.93.232",
@@ -19,9 +19,21 @@
     "anonymity": "transparent",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 837,
+    "response_ms": 856,
     "uptime_pct": 99.2,
-    "checks": 7734
+    "checks": 7735
+  },
+  {
+    "ip": "43.160.255.142",
+    "port": 7890,
+    "protocol": "socks4",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "SG",
+    "country": "Singapore",
+    "response_ms": 1002,
+    "uptime_pct": 64.7,
+    "checks": 5791
   },
   {
     "ip": "47.76.157.216",
@@ -60,16 +72,16 @@
     "checks": 10959
   },
   {
-    "ip": "43.160.255.142",
-    "port": 7890,
-    "protocol": "socks4",
-    "https": false,
+    "ip": "43.160.242.118",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
     "anonymity": "elite",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 1865,
-    "uptime_pct": 64.7,
-    "checks": 5790
+    "response_ms": 1979,
+    "uptime_pct": 81.6,
+    "checks": 7021
   },
   {
     "ip": "172.237.73.24",
@@ -79,9 +91,9 @@
     "anonymity": "elite",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 2103,
+    "response_ms": 3008,
     "uptime_pct": 97.5,
-    "checks": 1517
+    "checks": 1518
   },
   {
     "ip": "114.214.210.163",
@@ -91,20 +103,8 @@
     "anonymity": "elite",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 3220,
+    "response_ms": 6655,
     "uptime_pct": 90.6,
-    "checks": 244
-  },
-  {
-    "ip": "43.98.172.166",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "SG",
-    "country": "Singapore",
-    "response_ms": 3733,
-    "uptime_pct": 93.2,
-    "checks": 4253
+    "checks": 245
   }
 ]
