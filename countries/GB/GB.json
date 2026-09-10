@@ -1,18 +1,6 @@
 [
   {
     "ip": "195.154.191.26",
-    "port": 1089,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
-    "country_code": "GB",
-    "country": "United Kingdom",
-    "response_ms": 148,
-    "uptime_pct": 54.2,
-    "checks": 72
-  },
-  {
-    "ip": "195.154.191.26",
     "port": 1093,
     "protocol": "http",
     "https": false,
@@ -24,6 +12,18 @@
     "checks": 72
   },
   {
+    "ip": "5.75.133.113",
+    "port": 10808,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "response_ms": 770,
+    "uptime_pct": 67.9,
+    "checks": 1369
+  },
+  {
     "ip": "192.252.210.233",
     "port": 4145,
     "protocol": "socks5",
@@ -31,9 +31,9 @@
     "anonymity": "elite",
     "country_code": "GB",
     "country": "United Kingdom",
-    "response_ms": 962,
+    "response_ms": 926,
     "uptime_pct": 99.7,
-    "checks": 11006
+    "checks": 11007
   },
   {
     "ip": "173.212.234.174",
@@ -43,32 +43,8 @@
     "anonymity": "transparent",
     "country_code": "GB",
     "country": "United Kingdom",
-    "response_ms": 1239,
+    "response_ms": 1006,
     "uptime_pct": 88.5,
-    "checks": 5593
-  },
-  {
-    "ip": "51.15.253.45",
-    "port": 8080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "GB",
-    "country": "United Kingdom",
-    "response_ms": 5178,
-    "uptime_pct": 48.2,
-    "checks": 274
-  },
-  {
-    "ip": "5.75.133.113",
-    "port": 10808,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "GB",
-    "country": "United Kingdom",
-    "response_ms": 6158,
-    "uptime_pct": 67.8,
-    "checks": 1368
+    "checks": 5594
   }
 ]
