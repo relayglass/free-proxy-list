@@ -1,14 +1,26 @@
 [
   {
     "ip": "115.136.121.54",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "SE",
+    "country": "Sweden",
+    "response_ms": 1907,
+    "uptime_pct": 70,
+    "checks": 90
+  },
+  {
+    "ip": "115.136.121.54",
     "port": 9050,
-    "protocol": "socks5",
+    "protocol": "socks4",
     "https": true,
     "anonymity": "elite",
     "country_code": "SE",
     "country": "Sweden",
-    "response_ms": 4968,
-    "uptime_pct": 75.7,
-    "checks": 750
+    "response_ms": 2614,
+    "uptime_pct": 75.8,
+    "checks": 751
   }
 ]
