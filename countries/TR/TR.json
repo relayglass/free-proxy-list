@@ -1,15 +1,15 @@
 [
   {
-    "ip": "37.221.79.48",
-    "port": 8888,
+    "ip": "91.228.227.23",
+    "port": 80,
     "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
+    "https": false,
+    "anonymity": "transparent",
     "country_code": "TR",
     "country": "Turkey",
-    "response_ms": 154,
-    "uptime_pct": 50,
-    "checks": 12
+    "response_ms": 204,
+    "uptime_pct": 91.7,
+    "checks": 1278
   },
   {
     "ip": "95.3.69.222",
@@ -19,8 +19,20 @@
     "anonymity": "transparent",
     "country_code": "TR",
     "country": "Turkey",
-    "response_ms": 249,
+    "response_ms": 255,
     "uptime_pct": 99.6,
-    "checks": 10815
+    "checks": 10816
+  },
+  {
+    "ip": "37.221.79.48",
+    "port": 8888,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "TR",
+    "country": "Turkey",
+    "response_ms": 557,
+    "uptime_pct": 50,
+    "checks": 14
   }
 ]
