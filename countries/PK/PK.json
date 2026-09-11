@@ -1,17 +1,5 @@
 [
   {
-    "ip": "119.73.125.55",
-    "port": 8080,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "PK",
-    "country": "Pakistan",
-    "response_ms": 839,
-    "uptime_pct": 52.8,
-    "checks": 53
-  },
-  {
     "ip": "103.157.200.126",
     "port": 3128,
     "protocol": "http",
@@ -19,8 +7,20 @@
     "anonymity": "transparent",
     "country_code": "PK",
     "country": "Pakistan",
-    "response_ms": 915,
+    "response_ms": 715,
     "uptime_pct": 99.7,
-    "checks": 295
+    "checks": 296
+  },
+  {
+    "ip": "119.73.125.55",
+    "port": 1080,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "PK",
+    "country": "Pakistan",
+    "response_ms": 772,
+    "uptime_pct": 60,
+    "checks": 10
   }
 ]
