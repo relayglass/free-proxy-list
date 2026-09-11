@@ -1,17 +1,5 @@
 [
   {
-    "ip": "195.154.191.26",
-    "port": 1089,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
-    "country_code": "GB",
-    "country": "United Kingdom",
-    "response_ms": 155,
-    "uptime_pct": 58.8,
-    "checks": 119
-  },
-  {
     "ip": "94.76.224.104",
     "port": 5002,
     "protocol": "http",
@@ -24,6 +12,18 @@
     "checks": 256
   },
   {
+    "ip": "81.158.71.182",
+    "port": 8888,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "response_ms": 375,
+    "uptime_pct": 75.5,
+    "checks": 457
+  },
+  {
     "ip": "192.252.210.233",
     "port": 4145,
     "protocol": "socks5",
@@ -31,9 +31,21 @@
     "anonymity": "elite",
     "country_code": "GB",
     "country": "United Kingdom",
-    "response_ms": 962,
+    "response_ms": 939,
     "uptime_pct": 99.7,
-    "checks": 11076
+    "checks": 11077
+  },
+  {
+    "ip": "45.61.129.165",
+    "port": 9050,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "response_ms": 1878,
+    "uptime_pct": 91.2,
+    "checks": 9547
   },
   {
     "ip": "51.15.253.45",
@@ -43,32 +55,8 @@
     "anonymity": "elite",
     "country_code": "GB",
     "country": "United Kingdom",
-    "response_ms": 1741,
-    "uptime_pct": 47.6,
-    "checks": 328
-  },
-  {
-    "ip": "81.158.71.182",
-    "port": 8888,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "GB",
-    "country": "United Kingdom",
-    "response_ms": 3297,
-    "uptime_pct": 75.4,
-    "checks": 456
-  },
-  {
-    "ip": "45.61.129.165",
-    "port": 9050,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "GB",
-    "country": "United Kingdom",
-    "response_ms": 5482,
-    "uptime_pct": 91.2,
-    "checks": 9546
+    "response_ms": 2836,
+    "uptime_pct": 47.7,
+    "checks": 329
   }
 ]
