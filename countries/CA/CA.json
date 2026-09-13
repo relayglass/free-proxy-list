@@ -1,14 +1,26 @@
 [
   {
-    "ip": "184.75.221.82",
-    "port": 3118,
+    "ip": "38.29.32.240",
+    "port": 3128,
     "protocol": "http",
-    "https": true,
-    "anonymity": "anonymous",
+    "https": false,
+    "anonymity": "transparent",
     "country_code": "CA",
     "country": "Canada",
-    "response_ms": 1497,
-    "uptime_pct": 91.7,
-    "checks": 4235
+    "response_ms": 424,
+    "uptime_pct": 79.2,
+    "checks": 6777
+  },
+  {
+    "ip": "149.248.18.106",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "CA",
+    "country": "Canada",
+    "response_ms": 7570,
+    "uptime_pct": 40,
+    "checks": 80
   }
 ]
