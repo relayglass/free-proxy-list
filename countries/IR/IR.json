@@ -1,17 +1,5 @@
 [
   {
-    "ip": "5.200.72.62",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "IR",
-    "country": "Iran",
-    "response_ms": 331,
-    "uptime_pct": 83.4,
-    "checks": 8056
-  },
-  {
     "ip": "5.200.72.59",
     "port": 3128,
     "protocol": "http",
@@ -19,9 +7,21 @@
     "anonymity": "transparent",
     "country_code": "IR",
     "country": "Iran",
-    "response_ms": 349,
+    "response_ms": 359,
     "uptime_pct": 82.5,
-    "checks": 4084
+    "checks": 4085
+  },
+  {
+    "ip": "5.200.72.62",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "IR",
+    "country": "Iran",
+    "response_ms": 359,
+    "uptime_pct": 83.4,
+    "checks": 8057
   },
   {
     "ip": "5.200.72.58",
@@ -31,21 +31,9 @@
     "anonymity": "transparent",
     "country_code": "IR",
     "country": "Iran",
-    "response_ms": 355,
+    "response_ms": 360,
     "uptime_pct": 82.6,
-    "checks": 4016
-  },
-  {
-    "ip": "81.29.249.82",
-    "port": 5071,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "IR",
-    "country": "Iran",
-    "response_ms": 370,
-    "uptime_pct": 73.6,
-    "checks": 216
+    "checks": 4017
   },
   {
     "ip": "5.200.72.61",
@@ -55,20 +43,32 @@
     "anonymity": "transparent",
     "country_code": "IR",
     "country": "Iran",
-    "response_ms": 383,
+    "response_ms": 372,
     "uptime_pct": 83.6,
-    "checks": 3975
+    "checks": 3976
   },
   {
-    "ip": "194.31.108.109",
-    "port": 2080,
-    "protocol": "http",
+    "ip": "81.29.249.82",
+    "port": 5071,
+    "protocol": "socks4",
     "https": true,
     "anonymity": "elite",
     "country_code": "IR",
     "country": "Iran",
-    "response_ms": 7523,
+    "response_ms": 1436,
+    "uptime_pct": 73.7,
+    "checks": 217
+  },
+  {
+    "ip": "194.31.108.109",
+    "port": 2080,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "IR",
+    "country": "Iran",
+    "response_ms": 4327,
     "uptime_pct": 82.4,
-    "checks": 2904
+    "checks": 2905
   }
 ]
