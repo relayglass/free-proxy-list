@@ -1,15 +1,27 @@
 [
   {
     "ip": "8.215.25.3",
+    "port": 2080,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "response_ms": 681,
+    "uptime_pct": 60.5,
+    "checks": 959
+  },
+  {
+    "ip": "8.215.25.3",
     "port": 2081,
     "protocol": "http",
     "https": true,
     "anonymity": "elite",
     "country_code": "ID",
     "country": "Indonesia",
-    "response_ms": 740,
+    "response_ms": 774,
     "uptime_pct": 56.1,
-    "checks": 858
+    "checks": 859
   },
   {
     "ip": "103.19.78.127",
@@ -19,21 +31,33 @@
     "anonymity": "elite",
     "country_code": "ID",
     "country": "Indonesia",
-    "response_ms": 923,
-    "uptime_pct": 42,
-    "checks": 326
+    "response_ms": 921,
+    "uptime_pct": 42.2,
+    "checks": 327
   },
   {
-    "ip": "103.66.46.54",
-    "port": 69,
+    "ip": "103.76.149.140",
+    "port": 1080,
     "protocol": "socks5",
     "https": true,
     "anonymity": "elite",
     "country_code": "ID",
     "country": "Indonesia",
-    "response_ms": 1022,
-    "uptime_pct": 13.3,
-    "checks": 15
+    "response_ms": 1057,
+    "uptime_pct": 18.8,
+    "checks": 64
+  },
+  {
+    "ip": "103.191.165.77",
+    "port": 1080,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "response_ms": 1308,
+    "uptime_pct": 20,
+    "checks": 5
   },
   {
     "ip": "103.65.237.92",
@@ -43,32 +67,8 @@
     "anonymity": "elite",
     "country_code": "ID",
     "country": "Indonesia",
-    "response_ms": 1271,
+    "response_ms": 1387,
     "uptime_pct": 89.5,
-    "checks": 8918
-  },
-  {
-    "ip": "157.15.62.169",
-    "port": 1080,
-    "protocol": "socks4",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "ID",
-    "country": "Indonesia",
-    "response_ms": 1338,
-    "uptime_pct": 38.6,
-    "checks": 88
-  },
-  {
-    "ip": "103.102.142.98",
-    "port": 4145,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "ID",
-    "country": "Indonesia",
-    "response_ms": 2017,
-    "uptime_pct": 35,
-    "checks": 243
+    "checks": 8919
   }
 ]
