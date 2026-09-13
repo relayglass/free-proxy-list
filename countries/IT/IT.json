@@ -1,14 +1,26 @@
 [
   {
-    "ip": "77.242.177.57",
-    "port": 3128,
+    "ip": "217.112.96.5",
+    "port": 8080,
     "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
+    "https": true,
+    "anonymity": "transparent",
     "country_code": "IT",
     "country": "Italy",
-    "response_ms": 4433,
-    "uptime_pct": 68.5,
-    "checks": 4556
+    "response_ms": 351,
+    "uptime_pct": 10.5,
+    "checks": 38
+  },
+  {
+    "ip": "2.115.212.62",
+    "port": 48293,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "IT",
+    "country": "Italy",
+    "response_ms": 916,
+    "uptime_pct": 21,
+    "checks": 162
   }
 ]
