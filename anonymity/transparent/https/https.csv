@@ -1,35 +1,40 @@
 ip,port,protocol,https,anonymity,country_code,country,city,org,asn,response_ms,connect_ms,uptime_pct,checks,last_checked,last_alive
-173.212.234.174,3128,http,yes,transparent,DE,Germany,Brandenburg an der Havel,ForPrivacyNET,AS60729 Stiftung Erneuerbare Freiheit,161,7,89.1,5986,2026-09-13T14:29:49.9351849Z,2026-09-13T14:29:49.9351849Z
-95.3.69.222,8080,http,yes,transparent,TR,Turkey,Antakya,TurkTelekom,AS9121 Turk Telekomunikasyon Anonim Sirketi,260,56,99.6,11481,2026-09-13T14:31:10.0895489Z,2026-09-13T14:31:10.0895489Z
-176.111.37.216,39811,http,yes,transparent,UA,Ukraine,Dobropol'ye,Cogento Backbone Limited,AS214743 Cogento Backbone Limited,266,1053,94.2,10370,2026-09-13T14:30:54.8892321Z,2026-09-13T14:30:54.8892321Z
-84.8.216.230,2001,http,yes,transparent,MA,Morocco,Casablanca,Oracle Cloud Infrastructure (af-casablanca-1),AS31898 Oracle Corporation,331,52,94.3,122,2026-09-13T14:30:59.2299178Z,2026-09-13T14:30:59.2299178Z
-5.200.72.61,3128,http,yes,transparent,IR,Iran,Tehran,RESPINA Networks,AS42337 Respina Networks & Beyond PJSC,354,78,83.5,3931,2026-09-13T14:31:25.8197943Z,2026-09-13T14:31:25.8197943Z
-5.200.72.59,3128,http,yes,transparent,IR,Iran,Tehran,RESPINA Networks,AS42337 Respina Networks & Beyond PJSC,355,72,82.5,4039,2026-09-13T14:34:28.9506812Z,2026-09-13T14:34:28.9506812Z
-130.110.103.245,3128,http,yes,transparent,SA,Saudi Arabia,Jeddah,Oracle Cloud Infrastructure (me-jeddah-1),AS31898 Oracle Corporation,370,66,96.8,9997,2026-09-13T14:31:59.0300081Z,2026-09-13T14:31:59.0300081Z
-212.154.169.90,3128,http,yes,transparent,KZ,Kazakhstan,Astana,LLC ?electronic Commerce Center,AS50482 JSC Kazakhtelecom,405,85,99.3,9544,2026-09-13T14:30:21.8725553Z,2026-09-13T14:30:21.8725553Z
-176.111.37.5,39811,http,yes,transparent,UA,Ukraine,Dobropol'ye,Cogento Backbone Limited,AS214743 Cogento Backbone Limited,435,24,97.2,10507,2026-09-13T14:34:17.6216668Z,2026-09-13T14:34:17.6216668Z
-91.233.223.147,3128,http,yes,transparent,RU,Russia,Sochi,Radist LTD,AS57753 Radist LTD,491,72,62.2,592,2026-09-13T14:30:59.4075640Z,2026-09-13T14:30:59.4075640Z
-43.98.172.166,3128,http,yes,transparent,SG,Singapore,Singapore,Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",634,158,93.2,5730,2026-09-13T14:31:16.0673179Z,2026-09-13T14:31:16.0673179Z
-181.78.74.252,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,693,156,99.5,8289,2026-09-13T14:31:37.5623555Z,2026-09-13T14:31:37.5623555Z
-190.97.236.129,999,http,yes,transparent,VE,Venezuela,Ciudad Bolivia,"Valor Information Technologies, S.L","AS274849 GLOBALNET S&P, C.A.",741,1241,98.4,8152,2026-09-13T14:33:39.7503950Z,2026-09-13T14:33:39.7503950Z
-189.51.168.164,999,http,yes,transparent,MX,Mexico,Mérida,Comunicación por Fibra SA de CV,AS270111 Comunicación por Fibra SA de CV,778,2211,91.7,4431,2026-09-13T14:34:30.9037357Z,2026-09-13T14:34:30.9037357Z
-181.78.23.187,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,801,163,99.6,5284,2026-09-13T14:34:52.7511190Z,2026-09-13T14:34:52.7511190Z
-181.78.74.253,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,804,156,99.4,8288,2026-09-13T14:34:52.7502059Z,2026-09-13T14:34:52.7502059Z
-190.97.236.128,999,http,yes,transparent,VE,Venezuela,Ciudad Bolivia,"Valor Information Technologies, S.L","AS274849 GLOBALNET S&P, C.A.",869,187,99,8159,2026-09-13T14:31:37.7685973Z,2026-09-13T14:31:37.7685973Z
-196.64.103.77,1085,http,yes,transparent,MA,Morocco,Rabat,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,896,61,71.7,46,2026-09-13T14:33:08.4872295Z,2026-09-13T14:33:08.4872295Z
-167.86.104.220,80,http,yes,transparent,FR,France,Lauterbourg,Contabo GmbH,AS51167 Contabo GmbH,907,2089,91.9,509,2026-09-13T14:31:18.2713444Z,2026-09-13T14:31:18.2713444Z
-38.51.207.104,8080,http,yes,transparent,VE,Venezuela,Maracaibo,Tecnoven Services C.A,AS269730 TECNOVEN SERVICES CA,908,2213,68.5,1015,2026-09-13T14:30:35.2469555Z,2026-09-13T14:30:35.2469555Z
+84.8.216.230,2001,http,yes,transparent,MA,Morocco,Casablanca,Oracle Cloud Infrastructure (af-casablanca-1),AS31898 Oracle Corporation,214,52,94.3,123,2026-09-13T14:35:59.9456810Z,2026-09-13T14:35:59.9456810Z
+95.3.69.222,8080,http,yes,transparent,TR,Turkey,Antakya,TurkTelekom,AS9121 Turk Telekomunikasyon Anonim Sirketi,248,57,99.6,11482,2026-09-13T14:36:16.6135427Z,2026-09-13T14:36:16.6135427Z
+130.110.103.245,3128,http,yes,transparent,SA,Saudi Arabia,Jeddah,Oracle Cloud Infrastructure (me-jeddah-1),AS31898 Oracle Corporation,295,67,96.8,9998,2026-09-13T14:37:03.2277881Z,2026-09-13T14:37:03.2277881Z
+89.251.21.148,8080,http,yes,transparent,TR,Turkey,Ankara,ipbnb,AS216472 High Speed For Internet Services L.L.C,306,93,58.1,43,2026-09-13T14:38:48.4113257Z,2026-09-13T14:38:48.4113257Z
+5.200.72.59,3128,http,yes,transparent,IR,Iran,Tehran,RESPINA Networks,AS42337 Respina Networks & Beyond PJSC,356,74,82.5,4040,2026-09-13T14:39:33.9590631Z,2026-09-13T14:39:33.9590631Z
+5.200.72.61,3128,http,yes,transparent,IR,Iran,Tehran,RESPINA Networks,AS42337 Respina Networks & Beyond PJSC,373,74,83.5,3932,2026-09-13T14:36:30.8350948Z,2026-09-13T14:36:30.8350948Z
+212.154.169.90,3128,http,yes,transparent,KZ,Kazakhstan,Astana,LLC ?electronic Commerce Center,AS50482 JSC Kazakhtelecom,422,74,99.3,9545,2026-09-13T14:35:26.8447061Z,2026-09-13T14:35:26.8447061Z
+5.200.72.62,3128,http,yes,transparent,IR,Iran,Tehran,RESPINA Networks,AS42337 Respina Networks & Beyond PJSC,495,86,83.4,8013,2026-09-13T14:35:26.9290709Z,2026-09-13T14:35:26.9290709Z
+37.59.125.131,8888,http,yes,transparent,FR,France,Saint-Jean-sur-Veyle,ProXad network / Free SA,AS12322 Free SAS,504,13,92.3,11491,2026-09-13T14:39:12.4933341Z,2026-09-13T14:39:12.4933341Z
+43.98.172.166,3128,http,yes,transparent,SG,Singapore,Singapore,Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",649,153,93.2,5731,2026-09-13T14:36:18.1225558Z,2026-09-13T14:36:18.1225558Z
+181.78.74.252,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,726,161,99.5,8290,2026-09-13T14:36:42.0482484Z,2026-09-13T14:36:42.0482484Z
+181.78.74.253,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,783,158,99.4,8289,2026-09-13T14:39:55.2833301Z,2026-09-13T14:39:55.2833301Z
+181.78.23.187,999,http,yes,transparent,CO,Colombia,María la Baja,UFINET,AS52468 UFINET PANAMA S.A.,811,174,99.6,5285,2026-09-13T14:39:55.3283077Z,2026-09-13T14:39:55.3283077Z
+176.111.37.5,39811,http,yes,transparent,UA,Ukraine,Dobropol'ye,Cogento Backbone Limited,AS214743 Cogento Backbone Limited,832,24,97.2,10508,2026-09-13T14:39:23.3839163Z,2026-09-13T14:39:23.3839163Z
+190.97.236.128,999,http,yes,transparent,VE,Venezuela,Ciudad Bolivia,"Valor Information Technologies, S.L","AS274849 GLOBALNET S&P, C.A.",856,188,99,8160,2026-09-13T14:36:42.2049746Z,2026-09-13T14:36:42.2049746Z
 193.104.179.115,3128,http,yes,transparent,UZ,Uzbekistan,Tashkent,LLC BROSS-TELECOM,AS212444 Bross Telecom,967,74,84.3,2194,2026-09-13T14:34:52.8277672Z,2026-09-13T14:34:52.8277672Z
-1.231.81.166,3128,http,yes,transparent,KR,South Korea,Jongno-gu,broadNnet,AS9318 SK Broadband Co Ltd,1146,278,97.6,11752,2026-09-13T14:30:44.5282289Z,2026-09-13T14:30:44.5282289Z
-210.211.113.33,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,1152,1302,78.7,5376,2026-09-13T14:31:39.1678175Z,2026-09-13T14:31:39.1678175Z
-210.211.113.36,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,1179,1361,79.3,5334,2026-09-13T14:32:17.5145651Z,2026-09-13T14:32:17.5145651Z
-210.211.113.34,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,1236,263,80.6,5346,2026-09-13T14:34:59.4332968Z,2026-09-13T14:34:59.4332968Z
-37.59.125.131,8888,http,yes,transparent,FR,France,Saint-Jean-sur-Veyle,ProXad network / Free SA,AS12322 Free SAS,1330,15,92.3,11490,2026-09-13T14:34:07.9357922Z,2026-09-13T14:34:07.9357922Z
-114.236.137.41,21000,http,yes,transparent,CN,China,Nanjing,Chinanet JS,AS4134 CHINANET BACKBONE,1430,174,88.2,12286,2026-09-13T14:32:37.2472016Z,2026-09-13T14:32:37.2472016Z
-115.136.121.54,3128,http,yes,transparent,NL,The Netherlands,Amsterdam,TOR Exit and More,AS215125 Church of Cyberology,1486,206,77.2,579,2026-09-13T14:31:00.5385097Z,2026-09-13T14:31:00.5385097Z
-186.5.94.206,999,http,yes,transparent,EC,Ecuador,Manta,MINTEL,AS27947 Telconet S.A,1869,194,71.4,9367,2026-09-13T14:30:28.5032371Z,2026-09-13T14:30:28.5032371Z
-103.177.118.145,8118,http,yes,transparent,BD,Bangladesh,Tangail,Link3 Technologies Ltd,AS23688 Link3 Technologies Ltd.,2228,1196,79.4,6056,2026-09-13T14:33:46.2376559Z,2026-09-13T14:33:46.2376559Z
-115.231.181.40,8128,http,yes,transparent,CN,China,Hangzhou,jin hua chuanyun LTD,"AS136188 NINGBO, ZHEJIANG Province, P.R.China.",3264,1233,89.5,1700,2026-09-13T14:30:36.6217850Z,2026-09-13T14:30:36.6217850Z
-196.64.101.254,1085,http,yes,transparent,MA,Morocco,Rabat,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,3380,60,81.8,44,2026-09-13T14:31:34.4508610Z,2026-09-13T14:31:34.4508610Z
-101.51.247.69,8080,http,yes,transparent,TH,Thailand,Bangkok,TOT Public Company Limited,AS23969 TOT Public Company Limited,5336,213,14.3,21,2026-09-13T14:31:47.3390033Z,2026-09-13T14:31:47.3390033Z
-217.182.195.221,30007,http,yes,transparent,DE,Germany,Brandenburg an der Havel,ForPrivacyNET,AS60729 Stiftung Erneuerbare Freiheit,7313,13,54.4,136,2026-09-13T14:31:38.3376558Z,2026-09-13T14:31:38.3376558Z
+115.231.181.40,8128,http,yes,transparent,CN,China,Hangzhou,jin hua chuanyun LTD,"AS136188 NINGBO, ZHEJIANG Province, P.R.China.",993,206,89.5,1701,2026-09-13T14:35:38.9425459Z,2026-09-13T14:35:38.9425459Z
+173.212.234.174,3128,http,yes,transparent,US,United States,Seattle,Emerald Onion,AS396507 Emerald Onion,1032,14,89.1,5987,2026-09-13T14:35:27.3943383Z,2026-09-13T14:35:27.3943383Z
+103.177.118.145,8118,http,yes,transparent,BD,Bangladesh,Tangail,Link3 Technologies Ltd,AS23688 Link3 Technologies Ltd.,1040,197,79.4,6057,2026-09-13T14:38:49.2502459Z,2026-09-13T14:38:49.2502459Z
+1.231.81.166,3128,http,yes,transparent,KR,South Korea,Jongno-gu,broadNnet,AS9318 SK Broadband Co Ltd,1155,285,97.6,11753,2026-09-13T14:35:46.6889788Z,2026-09-13T14:35:46.6889788Z
+89.251.21.4,8080,http,yes,transparent,TR,Turkey,Ankara,ipbnb,AS216472 High Speed For Internet Services L.L.C,1306,91,75.8,418,2026-09-13T14:36:01.0778054Z,2026-09-13T14:36:01.0778054Z
+196.64.101.254,1085,http,yes,transparent,MA,Morocco,Rabat,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,1312,53,82.2,45,2026-09-13T14:37:44.9183076Z,2026-09-13T14:37:44.9183076Z
+196.64.103.77,1085,http,yes,transparent,MA,Morocco,Rabat,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,1351,57,72.3,47,2026-09-13T14:39:50.3653796Z,2026-09-13T14:39:50.3653796Z
+189.51.168.164,999,http,yes,transparent,MX,Mexico,Mérida,Comunicación por Fibra SA de CV,AS270111 Comunicación por Fibra SA de CV,1771,1174,91.7,4432,2026-09-13T14:39:36.4742687Z,2026-09-13T14:39:36.4742687Z
+190.97.236.129,999,http,yes,transparent,VE,Venezuela,Ciudad Bolivia,"Valor Information Technologies, S.L","AS274849 GLOBALNET S&P, C.A.",1779,1201,98.4,8153,2026-09-13T14:38:45.8099655Z,2026-09-13T14:38:45.8099655Z
+101.51.247.69,8080,http,yes,transparent,TH,Thailand,Bangkok,TOT Public Company Limited,AS23969 TOT Public Company Limited,1928,1251,17.4,23,2026-09-13T14:38:59.1079627Z,2026-09-13T14:38:59.1079627Z
+210.211.113.35,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,2218,258,72.8,5157,2026-09-13T14:36:49.8942918Z,2026-09-13T14:36:49.8942918Z
+210.211.113.34,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,2237,1327,80.6,5347,2026-09-13T14:40:03.4985904Z,2026-09-13T14:40:03.4985904Z
+38.51.207.104,8080,http,yes,transparent,VE,Venezuela,Maracaibo,Tecnoven Services C.A,AS269730 TECNOVEN SERVICES CA,2352,1195,68.4,1017,2026-09-13T14:37:45.0993754Z,2026-09-13T14:37:45.0993754Z
+114.236.137.41,21000,http,yes,transparent,CN,China,Nanjing,Chinanet JS,AS4134 CHINANET BACKBONE,2469,161,88.2,12287,2026-09-13T14:37:40.3647220Z,2026-09-13T14:37:40.3647220Z
+186.5.94.206,999,http,yes,transparent,EC,Ecuador,Manta,MINTEL,AS27947 Telconet S.A,2540,195,71.4,9369,2026-09-13T14:37:40.4694892Z,2026-09-13T14:37:40.4694892Z
+210.211.113.33,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,3173,270,78.7,5377,2026-09-13T14:36:44.6043809Z,2026-09-13T14:36:44.6043809Z
+210.211.113.37,80,http,yes,transparent,VN,Vietnam,Ho Chi Minh City,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd,3272,1333,78.5,5465,2026-09-13T14:35:36.6773336Z,2026-09-13T14:35:36.6773336Z
+167.86.104.220,80,http,yes,transparent,FR,France,Lauterbourg,Contabo GmbH,AS51167 Contabo GmbH,3399,30,92,510,2026-09-13T14:36:22.7560483Z,2026-09-13T14:36:22.7560483Z
+176.111.37.216,39811,http,yes,transparent,UA,Ukraine,Dobropol'ye,Cogento Backbone Limited,AS214743 Cogento Backbone Limited,4527,24,94.2,10371,2026-09-13T14:36:04.2330390Z,2026-09-13T14:36:04.2330390Z
+190.12.150.244,999,http,yes,transparent,EC,Ecuador,Quito,Onetelecom Cia.ltda,AS271795 ONETELECOM CIA.LTDA.,4959,196,37.3,75,2026-09-13T14:40:05.0894797Z,2026-09-13T14:40:05.0894797Z
+200.70.35.2,8080,http,yes,transparent,AR,Argentina,Mendoza,Arlink S.A,AS28075 ARLINK S.A.,5336,1280,9.1,33,2026-09-13T14:36:54.0336067Z,2026-09-13T14:36:54.0336067Z
+91.233.223.147,3128,http,yes,transparent,RU,Russia,Sochi,Radist LTD,AS57753 Radist LTD,5890,84,62.2,593,2026-09-13T14:36:11.3266504Z,2026-09-13T14:36:11.3266504Z
+103.168.149.49,8181,http,yes,transparent,,,,,,5898,2242,12.5,16,2026-09-13T14:38:03.3824064Z,2026-09-13T14:38:03.3824064Z
