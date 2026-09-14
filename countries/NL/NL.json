@@ -7,9 +7,9 @@
     "anonymity": "elite",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 76,
-    "uptime_pct": 100,
-    "checks": 2
+    "response_ms": 64,
+    "uptime_pct": 75,
+    "checks": 4
   },
   {
     "ip": "195.26.224.135",
@@ -19,9 +19,21 @@
     "anonymity": "elite",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 77,
+    "response_ms": 71,
     "uptime_pct": 89.7,
-    "checks": 10454
+    "checks": 10455
+  },
+  {
+    "ip": "95.211.174.135",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "anonymous",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "response_ms": 85,
+    "uptime_pct": 75.8,
+    "checks": 6719
   },
   {
     "ip": "141.95.53.104",
@@ -36,16 +48,16 @@
     "checks": 662
   },
   {
-    "ip": "153.80.240.2",
-    "port": 1080,
+    "ip": "95.81.96.158",
+    "port": 3128,
     "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
+    "https": false,
+    "anonymity": "transparent",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 1097,
-    "uptime_pct": 65.9,
-    "checks": 223
+    "response_ms": 532,
+    "uptime_pct": 67.9,
+    "checks": 660
   },
   {
     "ip": "108.181.246.55",
@@ -60,6 +72,18 @@
     "checks": 940
   },
   {
+    "ip": "153.80.240.2",
+    "port": 1080,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "response_ms": 2102,
+    "uptime_pct": 65.8,
+    "checks": 225
+  },
+  {
     "ip": "115.136.121.54",
     "port": 9050,
     "protocol": "socks4",
@@ -67,20 +91,8 @@
     "anonymity": "elite",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 1452,
+    "response_ms": 2450,
     "uptime_pct": 76.1,
-    "checks": 1630
-  },
-  {
-    "ip": "95.211.174.135",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "anonymous",
-    "country_code": "NL",
-    "country": "The Netherlands",
-    "response_ms": 7640,
-    "uptime_pct": 75.8,
-    "checks": 6718
+    "checks": 1631
   }
 ]
