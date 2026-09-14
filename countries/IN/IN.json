@@ -1,87 +1,15 @@
 [
   {
-    "ip": "45.194.41.43",
+    "ip": "45.194.41.231",
     "port": 8080,
     "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "IN",
-    "country": "India",
-    "response_ms": 476,
-    "uptime_pct": 44.5,
-    "checks": 595
-  },
-  {
-    "ip": "103.231.78.36",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
-    "country_code": "IN",
-    "country": "India",
-    "response_ms": 638,
-    "uptime_pct": 99.9,
-    "checks": 1382
-  },
-  {
-    "ip": "151.185.58.17",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "IN",
-    "country": "India",
-    "response_ms": 773,
-    "uptime_pct": 89.6,
-    "checks": 96
-  },
-  {
-    "ip": "219.65.73.80",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
-    "country_code": "IN",
-    "country": "India",
-    "response_ms": 798,
-    "uptime_pct": 98.6,
-    "checks": 11720
-  },
-  {
-    "ip": "219.65.73.81",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "anonymous",
-    "country_code": "IN",
-    "country": "India",
-    "response_ms": 820,
-    "uptime_pct": 98.4,
-    "checks": 11810
-  },
-  {
-    "ip": "144.24.111.128",
-    "port": 1088,
-    "protocol": "socks5",
     "https": true,
     "anonymity": "elite",
     "country_code": "IN",
     "country": "India",
-    "response_ms": 896,
-    "uptime_pct": 98,
-    "checks": 12070
-  },
-  {
-    "ip": "103.151.107.134",
-    "port": 80,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "anonymous",
-    "country_code": "IN",
-    "country": "India",
-    "response_ms": 920,
-    "uptime_pct": 100,
-    "checks": 9
+    "response_ms": 500,
+    "uptime_pct": 48.3,
+    "checks": 553
   },
   {
     "ip": "45.194.41.141",
@@ -91,21 +19,57 @@
     "anonymity": "elite",
     "country_code": "IN",
     "country": "India",
-    "response_ms": 1653,
+    "response_ms": 508,
     "uptime_pct": 82.8,
-    "checks": 2299
+    "checks": 2300
   },
   {
-    "ip": "14.139.235.82",
-    "port": 3128,
+    "ip": "103.231.78.36",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "IN",
+    "country": "India",
+    "response_ms": 609,
+    "uptime_pct": 99.9,
+    "checks": 1383
+  },
+  {
+    "ip": "103.151.107.134",
+    "port": 80,
     "protocol": "http",
     "https": true,
     "anonymity": "anonymous",
     "country_code": "IN",
     "country": "India",
-    "response_ms": 1726,
-    "uptime_pct": 93.1,
-    "checks": 9797
+    "response_ms": 681,
+    "uptime_pct": 100,
+    "checks": 10
+  },
+  {
+    "ip": "151.185.58.17",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "IN",
+    "country": "India",
+    "response_ms": 714,
+    "uptime_pct": 89.7,
+    "checks": 97
+  },
+  {
+    "ip": "144.24.111.128",
+    "port": 1088,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "IN",
+    "country": "India",
+    "response_ms": 734,
+    "uptime_pct": 98,
+    "checks": 12071
   },
   {
     "ip": "20.204.43.57",
@@ -115,9 +79,45 @@
     "anonymity": "transparent",
     "country_code": "IN",
     "country": "India",
-    "response_ms": 5586,
+    "response_ms": 784,
     "uptime_pct": 100,
-    "checks": 11955
+    "checks": 11956
+  },
+  {
+    "ip": "219.65.73.80",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "IN",
+    "country": "India",
+    "response_ms": 941,
+    "uptime_pct": 98.6,
+    "checks": 11721
+  },
+  {
+    "ip": "219.65.73.81",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "anonymous",
+    "country_code": "IN",
+    "country": "India",
+    "response_ms": 941,
+    "uptime_pct": 98.4,
+    "checks": 11811
+  },
+  {
+    "ip": "14.139.235.82",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "anonymous",
+    "country_code": "IN",
+    "country": "India",
+    "response_ms": 2397,
+    "uptime_pct": 93.1,
+    "checks": 9798
   },
   {
     "ip": "121.35.254.227",
@@ -127,8 +127,8 @@
     "anonymity": "elite",
     "country_code": "IN",
     "country": "India",
-    "response_ms": 6526,
+    "response_ms": 5744,
     "uptime_pct": 82.2,
-    "checks": 1206
+    "checks": 1207
   }
 ]
