@@ -1,16 +1,16 @@
 # Free Proxy List - Checked Every 5 Minutes
 
-![Live proxies](https://img.shields.io/badge/live%20proxies-438-22c55e?style=flat-square)
-![Countries](https://img.shields.io/badge/countries-58-3b82f6?style=flat-square)
-![Median speed](https://img.shields.io/badge/median%20speed-920%20ms-a855f7?style=flat-square)
-![Updated](https://img.shields.io/badge/updated-15%20Sep%202026%2016%3A45%20UTC-64748b?style=flat-square)
+![Live proxies](https://img.shields.io/badge/live%20proxies-433-22c55e?style=flat-square)
+![Countries](https://img.shields.io/badge/countries-57-3b82f6?style=flat-square)
+![Median speed](https://img.shields.io/badge/median%20speed-932%20ms-a855f7?style=flat-square)
+![Updated](https://img.shields.io/badge/updated-15%20Sep%202026%2016%3A50%20UTC-64748b?style=flat-square)
 
 Most free proxy lists are full of dead addresses, and you only find out after your script
 fails. This list is different. Every proxy here answered a real request through our own test
 server in the last few minutes, and the files update every 5 minutes.
 
-Right now you get **438 working proxies** in **58 countries**. Half of
-them answer in under **920 ms**.
+Right now you get **433 working proxies** in **57 countries**. Half of
+them answer in under **932 ms**.
 
 > Built and maintained by [Relayglass](https://relayglass.com).
 
@@ -44,12 +44,12 @@ print(r.status_code)
 
 | File | Proxies | Use it when |
 | --- | ---: | --- |
-| [`all.txt`](all.txt) | 438 | You want everything, `ip:port` on each line |
-| [`all.csv`](all.csv) | 438 | You want to filter by country, speed, or uptime |
-| [`all.json`](all.json) | 438 | Your code would rather not parse CSV |
-| [`protocol/http/http.txt`](protocol/http/http.txt) | 170 | Your tool asks for an HTTP proxy. Start here |
+| [`all.txt`](all.txt) | 433 | You want everything, `ip:port` on each line |
+| [`all.csv`](all.csv) | 433 | You want to filter by country, speed, or uptime |
+| [`all.json`](all.json) | 433 | Your code would rather not parse CSV |
+| [`protocol/http/http.txt`](protocol/http/http.txt) | 162 | Your tool asks for an HTTP proxy. Start here |
 | [`protocol/socks5/socks5.txt`](protocol/socks5/socks5.txt) | 126 | You need SOCKS5, which also carries non-web traffic |
-| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 142 | Your tool only speaks the older SOCKS4 |
+| [`protocol/socks4/socks4.txt`](protocol/socks4/socks4.txt) | 145 | Your tool only speaks the older SOCKS4 |
 | [`protocol/https/https.txt`](protocol/https/https.txt) | 169 | You need to load `https://` pages through the proxy |
 | [`anonymity/elite/`](anonymity/elite) | 351 | The site must not see that you use a proxy |
 
@@ -73,7 +73,7 @@ protocol/
 countries/
   US/       US.txt     US.csv     US.json
   DE/       DE.txt     DE.csv     DE.json
-  ...one folder per country, 58 right now
+  ...one folder per country, 57 right now
 
 anonymity/
   elite/        http/  https/  socks4/  socks5/
@@ -125,11 +125,11 @@ converting anything:
 These are the five countries with the most working proxies right now:
 
 ```
-United States    ██████████████████████████████  208
-China            ███  20
-Vietnam          ███  20
+United States    ██████████████████████████████  199
+Vietnam          ████  24
+China            ███  22
 Germany          ███  18
-The Netherlands  ██  11
+The Netherlands  ██  13
 ```
 
 Country matters more than you might think. A proxy in the same country as the site you load
@@ -270,11 +270,11 @@ More free tools, including a bulk proxy checker and an IP checker, are at
 
 ## In short
 
-You get 438 working proxies, updated every 5 minutes. Check the `anonymity` column
+You get 433 working proxies, updated every 5 minutes. Check the `anonymity` column
 before you trust a proxy to hide your address, sort by `uptime_pct` rather than speed, and
 never send anything private through a free proxy.
 
-**Last updated:** 2026-09-15 16:45 UTC. This page and every file are generated
+**Last updated:** 2026-09-15 16:50 UTC. This page and every file are generated
 automatically, so a pull request against them will be replaced by the next run.
 
 ## ⚖️ Disclaimer
