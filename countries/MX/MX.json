@@ -1,17 +1,5 @@
 [
   {
-    "ip": "103.88.234.239",
-    "port": 40019,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "MX",
-    "country": "Mexico",
-    "response_ms": 658,
-    "uptime_pct": 100,
-    "checks": 45
-  },
-  {
     "ip": "189.202.188.149",
     "port": 80,
     "protocol": "http",
@@ -19,9 +7,21 @@
     "anonymity": "elite",
     "country_code": "MX",
     "country": "Mexico",
-    "response_ms": 688,
+    "response_ms": 681,
     "uptime_pct": 99.9,
-    "checks": 12655
+    "checks": 12656
+  },
+  {
+    "ip": "103.88.234.239",
+    "port": 40019,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "MX",
+    "country": "Mexico",
+    "response_ms": 685,
+    "uptime_pct": 100,
+    "checks": 46
   },
   {
     "ip": "189.51.168.164",
@@ -31,21 +31,9 @@
     "anonymity": "transparent",
     "country_code": "MX",
     "country": "Mexico",
-    "response_ms": 740,
+    "response_ms": 732,
     "uptime_pct": 91.6,
-    "checks": 5269
-  },
-  {
-    "ip": "187.188.131.169",
-    "port": 1080,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "MX",
-    "country": "Mexico",
-    "response_ms": 783,
-    "uptime_pct": 47.6,
-    "checks": 948
+    "checks": 5270
   },
   {
     "ip": "187.210.136.88",
@@ -55,20 +43,32 @@
     "anonymity": "elite",
     "country_code": "MX",
     "country": "Mexico",
-    "response_ms": 957,
-    "uptime_pct": 32.1,
-    "checks": 364
+    "response_ms": 954,
+    "uptime_pct": 32.3,
+    "checks": 365
   },
   {
     "ip": "111.119.162.248",
     "port": 10921,
-    "protocol": "socks5",
+    "protocol": "http",
     "https": true,
     "anonymity": "elite",
     "country_code": "MX",
     "country": "Mexico",
-    "response_ms": 5734,
-    "uptime_pct": 31.4,
-    "checks": 51
+    "response_ms": 2565,
+    "uptime_pct": 32.7,
+    "checks": 52
+  },
+  {
+    "ip": "187.188.131.169",
+    "port": 1080,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "MX",
+    "country": "Mexico",
+    "response_ms": 4900,
+    "uptime_pct": 47.6,
+    "checks": 949
   }
 ]
