@@ -12,15 +12,27 @@
     "checks": 12
   },
   {
-    "ip": "185.197.74.126",
-    "port": 2080,
-    "protocol": "socks4",
-    "https": true,
+    "ip": "81.236.184.63",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": false,
     "anonymity": "elite",
     "country_code": "SE",
     "country": "Sweden",
-    "response_ms": 4072,
-    "uptime_pct": 23.5,
-    "checks": 17
+    "response_ms": 191,
+    "uptime_pct": 31.9,
+    "checks": 69
+  },
+  {
+    "ip": "217.182.195.221",
+    "port": 30000,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "SE",
+    "country": "Sweden",
+    "response_ms": 4324,
+    "uptime_pct": 50,
+    "checks": 34
   }
 ]
