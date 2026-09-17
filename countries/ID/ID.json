@@ -1,15 +1,39 @@
 [
   {
-    "ip": "69.5.23.38",
-    "port": 3128,
+    "ip": "103.65.237.92",
+    "port": 5678,
     "protocol": "http",
-    "https": true,
-    "anonymity": "anonymous",
+    "https": false,
+    "anonymity": "elite",
     "country_code": "ID",
     "country": "Indonesia",
-    "response_ms": 713,
-    "uptime_pct": 20,
-    "checks": 10
+    "response_ms": 712,
+    "uptime_pct": 89.3,
+    "checks": 10024
+  },
+  {
+    "ip": "103.248.9.69",
+    "port": 80,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "response_ms": 925,
+    "uptime_pct": 38,
+    "checks": 561
+  },
+  {
+    "ip": "103.168.246.3",
+    "port": 4153,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "response_ms": 986,
+    "uptime_pct": 21.7,
+    "checks": 23
   },
   {
     "ip": "41.216.186.68",
@@ -24,16 +48,16 @@
     "checks": 431
   },
   {
-    "ip": "157.15.63.238",
-    "port": 1080,
-    "protocol": "socks4",
+    "ip": "160.22.205.66",
+    "port": 8090,
+    "protocol": "http",
     "https": false,
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "country_code": "ID",
     "country": "Indonesia",
-    "response_ms": 1532,
-    "uptime_pct": 23.1,
-    "checks": 13
+    "response_ms": 4466,
+    "uptime_pct": 13,
+    "checks": 23
   },
   {
     "ip": "172.232.236.77",
@@ -43,32 +67,8 @@
     "anonymity": "elite",
     "country_code": "ID",
     "country": "Indonesia",
-    "response_ms": 1588,
-    "uptime_pct": 84.7,
-    "checks": 111
-  },
-  {
-    "ip": "103.248.9.69",
-    "port": 80,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "ID",
-    "country": "Indonesia",
-    "response_ms": 1941,
-    "uptime_pct": 37.9,
-    "checks": 559
-  },
-  {
-    "ip": "103.65.237.92",
-    "port": 5678,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "ID",
-    "country": "Indonesia",
-    "response_ms": 2301,
-    "uptime_pct": 89.3,
-    "checks": 10023
+    "response_ms": 6528,
+    "uptime_pct": 84.8,
+    "checks": 112
   }
 ]
