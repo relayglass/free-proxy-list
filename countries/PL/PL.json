@@ -1,17 +1,5 @@
 [
   {
-    "ip": "31.42.6.125",
-    "port": 5678,
-    "protocol": "socks4",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "PL",
-    "country": "Poland",
-    "response_ms": 156,
-    "uptime_pct": 42.2,
-    "checks": 282
-  },
-  {
     "ip": "178.212.144.7",
     "port": 80,
     "protocol": "http",
@@ -19,9 +7,33 @@
     "anonymity": "transparent",
     "country_code": "PL",
     "country": "Poland",
-    "response_ms": 166,
+    "response_ms": 70,
     "uptime_pct": 99.7,
-    "checks": 13096
+    "checks": 13097
+  },
+  {
+    "ip": "185.32.4.65",
+    "port": 4153,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "PL",
+    "country": "Poland",
+    "response_ms": 127,
+    "uptime_pct": 15,
+    "checks": 20
+  },
+  {
+    "ip": "31.42.6.125",
+    "port": 5678,
+    "protocol": "socks4",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "PL",
+    "country": "Poland",
+    "response_ms": 155,
+    "uptime_pct": 42.4,
+    "checks": 283
   },
   {
     "ip": "31.42.2.113",
@@ -31,8 +43,8 @@
     "anonymity": "elite",
     "country_code": "PL",
     "country": "Poland",
-    "response_ms": 2219,
+    "response_ms": 179,
     "uptime_pct": 41.2,
-    "checks": 403
+    "checks": 405
   }
 ]
