@@ -1,14 +1,26 @@
 [
   {
-    "ip": "112.203.49.80",
-    "port": 8082,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
+    "ip": "161.49.100.131",
+    "port": 1080,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
     "country_code": "PH",
     "country": "Philippines",
-    "response_ms": 1519,
-    "uptime_pct": 26.7,
-    "checks": 15
+    "response_ms": 1248,
+    "uptime_pct": 31.7,
+    "checks": 372
+  },
+  {
+    "ip": "43.106.60.21",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "PH",
+    "country": "Philippines",
+    "response_ms": 1277,
+    "uptime_pct": 31.9,
+    "checks": 216
   }
 ]
