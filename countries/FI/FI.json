@@ -1,15 +1,15 @@
 [
   {
-    "ip": "65.109.217.164",
-    "port": 3128,
+    "ip": "66.151.34.89",
+    "port": 80,
     "protocol": "http",
-    "https": true,
+    "https": false,
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 117,
-    "uptime_pct": 80.6,
-    "checks": 1426
+    "response_ms": 118,
+    "uptime_pct": 95.1,
+    "checks": 3840
   },
   {
     "ip": "135.181.79.187",
@@ -24,30 +24,6 @@
     "checks": 2529
   },
   {
-    "ip": "66.151.34.89",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "FI",
-    "country": "Finland",
-    "response_ms": 141,
-    "uptime_pct": 95.1,
-    "checks": 3839
-  },
-  {
-    "ip": "57.128.231.218",
-    "port": 1004,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "FI",
-    "country": "Finland",
-    "response_ms": 200,
-    "uptime_pct": 85.3,
-    "checks": 917
-  },
-  {
     "ip": "66.151.34.192",
     "port": 1080,
     "protocol": "socks5",
@@ -60,6 +36,18 @@
     "checks": 37
   },
   {
+    "ip": "57.128.231.218",
+    "port": 1004,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FI",
+    "country": "Finland",
+    "response_ms": 213,
+    "uptime_pct": 85.2,
+    "checks": 919
+  },
+  {
     "ip": "77.73.68.222",
     "port": 65000,
     "protocol": "http",
@@ -67,20 +55,44 @@
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 218,
+    "response_ms": 363,
     "uptime_pct": 71.5,
-    "checks": 638
+    "checks": 639
   },
   {
     "ip": "65.108.159.129",
-    "port": 5678,
+    "port": 8081,
     "protocol": "http",
     "https": true,
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 2197,
-    "uptime_pct": 22.4,
-    "checks": 539
+    "response_ms": 2199,
+    "uptime_pct": 22.9,
+    "checks": 1348
+  },
+  {
+    "ip": "62.60.210.173",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FI",
+    "country": "Finland",
+    "response_ms": 3067,
+    "uptime_pct": 63.8,
+    "checks": 3994
+  },
+  {
+    "ip": "65.109.217.164",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FI",
+    "country": "Finland",
+    "response_ms": 3689,
+    "uptime_pct": 80.6,
+    "checks": 1427
   }
 ]
