@@ -1,41 +1,5 @@
 [
   {
-    "ip": "45.141.119.231",
-    "port": 1080,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "CH",
-    "country": "Switzerland",
-    "response_ms": 90,
-    "uptime_pct": 57.1,
-    "checks": 14
-  },
-  {
-    "ip": "185.195.71.218",
-    "port": 18080,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "CH",
-    "country": "Switzerland",
-    "response_ms": 95,
-    "uptime_pct": 99.8,
-    "checks": 948
-  },
-  {
-    "ip": "185.191.239.248",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "CH",
-    "country": "Switzerland",
-    "response_ms": 98,
-    "uptime_pct": 91.9,
-    "checks": 8126
-  },
-  {
     "ip": "217.162.8.134",
     "port": 80,
     "protocol": "http",
@@ -43,9 +7,21 @@
     "anonymity": "elite",
     "country_code": "CH",
     "country": "Switzerland",
-    "response_ms": 107,
+    "response_ms": 73,
     "uptime_pct": 93.7,
-    "checks": 334
+    "checks": 335
+  },
+  {
+    "ip": "45.141.119.231",
+    "port": 1080,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "CH",
+    "country": "Switzerland",
+    "response_ms": 75,
+    "uptime_pct": 60,
+    "checks": 15
   },
   {
     "ip": "49.13.87.123",
@@ -55,8 +31,32 @@
     "anonymity": "elite",
     "country_code": "CH",
     "country": "Switzerland",
-    "response_ms": 131,
-    "uptime_pct": 65.3,
-    "checks": 75
+    "response_ms": 124,
+    "uptime_pct": 64.9,
+    "checks": 77
+  },
+  {
+    "ip": "185.195.71.218",
+    "port": 18080,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "CH",
+    "country": "Switzerland",
+    "response_ms": 125,
+    "uptime_pct": 99.8,
+    "checks": 949
+  },
+  {
+    "ip": "185.191.239.248",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "CH",
+    "country": "Switzerland",
+    "response_ms": 266,
+    "uptime_pct": 91.9,
+    "checks": 8127
   }
 ]
