@@ -1,14 +1,26 @@
 [
   {
-    "ip": "188.211.30.65",
-    "port": 8787,
+    "ip": "185.128.240.2",
+    "port": 3128,
     "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "RO",
+    "country": "Romania",
+    "response_ms": 162,
+    "uptime_pct": 50,
+    "checks": 2
+  },
+  {
+    "ip": "157.90.113.23",
+    "port": 9052,
+    "protocol": "socks4",
     "https": true,
     "anonymity": "elite",
     "country_code": "RO",
     "country": "Romania",
-    "response_ms": 4893,
-    "uptime_pct": 24.4,
-    "checks": 45
+    "response_ms": 194,
+    "uptime_pct": 66.8,
+    "checks": 3896
   }
 ]
