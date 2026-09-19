@@ -1,14 +1,26 @@
 [
   {
-    "ip": "31.57.219.168",
-    "port": 6002,
-    "protocol": "http",
+    "ip": "31.168.143.90",
+    "port": 1080,
+    "protocol": "socks4",
     "https": true,
     "anonymity": "elite",
     "country_code": "IL",
     "country": "Israel",
-    "response_ms": 2251,
-    "uptime_pct": 88.4,
-    "checks": 121
+    "response_ms": 1340,
+    "uptime_pct": 37.5,
+    "checks": 88
+  },
+  {
+    "ip": "31.57.219.168",
+    "port": 6002,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "IL",
+    "country": "Israel",
+    "response_ms": 2413,
+    "uptime_pct": 88.5,
+    "checks": 122
   }
 ]
