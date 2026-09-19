@@ -1,17 +1,5 @@
 [
   {
-    "ip": "91.228.227.23",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
-    "country_code": "TR",
-    "country": "Turkey",
-    "response_ms": 187,
-    "uptime_pct": 94.7,
-    "checks": 3690
-  },
-  {
     "ip": "107.181.155.86",
     "port": 80,
     "protocol": "http",
@@ -21,7 +9,19 @@
     "country": "T\u00FCrkiye",
     "response_ms": 200,
     "uptime_pct": 100,
-    "checks": 190
+    "checks": 191
+  },
+  {
+    "ip": "91.228.227.23",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "TR",
+    "country": "Turkey",
+    "response_ms": 224,
+    "uptime_pct": 94.7,
+    "checks": 3691
   },
   {
     "ip": "95.3.69.222",
@@ -31,9 +31,33 @@
     "anonymity": "transparent",
     "country_code": "TR",
     "country": "Turkey",
-    "response_ms": 240,
+    "response_ms": 244,
     "uptime_pct": 99.6,
-    "checks": 13214
+    "checks": 13215
+  },
+  {
+    "ip": "2.56.108.184",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "TR",
+    "country": "T\u00FCrkiye",
+    "response_ms": 346,
+    "uptime_pct": 48.8,
+    "checks": 814
+  },
+  {
+    "ip": "193.164.7.235",
+    "port": 8082,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "TR",
+    "country": "T\u00FCrkiye",
+    "response_ms": 424,
+    "uptime_pct": 62,
+    "checks": 158
   },
   {
     "ip": "85.133.250.27",
@@ -43,32 +67,8 @@
     "anonymity": "elite",
     "country_code": "TR",
     "country": "Turkey",
-    "response_ms": 467,
+    "response_ms": 4654,
     "uptime_pct": 94.5,
-    "checks": 397
-  },
-  {
-    "ip": "216.9.224.173",
-    "port": 1080,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "TR",
-    "country": "T\u00FCrkiye",
-    "response_ms": 4278,
-    "uptime_pct": 33.3,
-    "checks": 12
-  },
-  {
-    "ip": "188.132.249.66",
-    "port": 1080,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "TR",
-    "country": "Turkey",
-    "response_ms": 7786,
-    "uptime_pct": 25.6,
-    "checks": 39
+    "checks": 398
   }
 ]
