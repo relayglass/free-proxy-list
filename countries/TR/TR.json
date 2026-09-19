@@ -1,15 +1,15 @@
 [
   {
-    "ip": "107.181.155.86",
-    "port": 80,
+    "ip": "193.164.7.235",
+    "port": 8082,
     "protocol": "http",
-    "https": false,
+    "https": true,
     "anonymity": "elite",
     "country_code": "TR",
     "country": "T\u00FCrkiye",
-    "response_ms": 146,
-    "uptime_pct": 100,
-    "checks": 158
+    "response_ms": 186,
+    "uptime_pct": 61.1,
+    "checks": 126
   },
   {
     "ip": "91.228.227.23",
@@ -19,9 +19,21 @@
     "anonymity": "transparent",
     "country_code": "TR",
     "country": "Turkey",
-    "response_ms": 186,
+    "response_ms": 190,
     "uptime_pct": 94.6,
-    "checks": 3657
+    "checks": 3658
+  },
+  {
+    "ip": "107.181.155.86",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "TR",
+    "country": "T\u00FCrkiye",
+    "response_ms": 194,
+    "uptime_pct": 100,
+    "checks": 159
   },
   {
     "ip": "95.3.69.222",
@@ -33,19 +45,7 @@
     "country": "Turkey",
     "response_ms": 272,
     "uptime_pct": 99.6,
-    "checks": 13181
-  },
-  {
-    "ip": "49.13.22.249",
-    "port": 10813,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "TR",
-    "country": "T\u00FCrkiye",
-    "response_ms": 4440,
-    "uptime_pct": 67.9,
-    "checks": 299
+    "checks": 13182
   },
   {
     "ip": "85.133.250.27",
@@ -55,8 +55,32 @@
     "anonymity": "elite",
     "country_code": "TR",
     "country": "Turkey",
-    "response_ms": 6481,
+    "response_ms": 491,
     "uptime_pct": 94,
-    "checks": 364
+    "checks": 365
+  },
+  {
+    "ip": "49.13.22.249",
+    "port": 10813,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "TR",
+    "country": "T\u00FCrkiye",
+    "response_ms": 4236,
+    "uptime_pct": 68,
+    "checks": 300
+  },
+  {
+    "ip": "176.88.166.190",
+    "port": 5678,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "TR",
+    "country": "Turkey",
+    "response_ms": 4391,
+    "uptime_pct": 24.9,
+    "checks": 197
   }
 ]
