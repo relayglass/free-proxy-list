@@ -9,19 +9,19 @@
     "country": null,
     "response_ms": 388,
     "uptime_pct": 100,
-    "checks": 646
+    "checks": 647
   },
   {
-    "ip": "27.147.153.179",
+    "ip": "103.42.202.190",
     "port": 1080,
     "protocol": "socks4",
-    "https": true,
+    "https": false,
     "anonymity": "elite",
     "country_code": "BD",
     "country": "Bangladesh",
-    "response_ms": 988,
-    "uptime_pct": 40.1,
-    "checks": 907
+    "response_ms": 936,
+    "uptime_pct": 35,
+    "checks": 437
   },
   {
     "ip": "103.120.165.132",
@@ -31,9 +31,9 @@
     "anonymity": "elite",
     "country_code": "BD",
     "country": "Bangladesh",
-    "response_ms": 989,
-    "uptime_pct": 38.4,
-    "checks": 440
+    "response_ms": 986,
+    "uptime_pct": 38.5,
+    "checks": 441
   },
   {
     "ip": "202.5.60.52",
@@ -43,9 +43,21 @@
     "anonymity": "elite",
     "country_code": "BD",
     "country": "Bangladesh",
-    "response_ms": 990,
+    "response_ms": 992,
     "uptime_pct": 100,
-    "checks": 88
+    "checks": 89
+  },
+  {
+    "ip": "103.149.75.82",
+    "port": 1080,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "BD",
+    "country": "Bangladesh",
+    "response_ms": 997,
+    "uptime_pct": 89.8,
+    "checks": 13633
   },
   {
     "ip": "202.5.50.151",
@@ -57,31 +69,7 @@
     "country": "Bangladesh",
     "response_ms": 1012,
     "uptime_pct": 92.7,
-    "checks": 5441
-  },
-  {
-    "ip": "103.149.75.82",
-    "port": 1080,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "BD",
-    "country": "Bangladesh",
-    "response_ms": 1020,
-    "uptime_pct": 89.8,
-    "checks": 13632
-  },
-  {
-    "ip": "124.109.105.44",
-    "port": 80,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "anonymous",
-    "country_code": "BD",
-    "country": "Bangladesh",
-    "response_ms": 2557,
-    "uptime_pct": 83.7,
-    "checks": 423
+    "checks": 5442
   },
   {
     "ip": "59.152.97.233",
@@ -91,8 +79,32 @@
     "anonymity": "elite",
     "country_code": "BD",
     "country": "Bangladesh",
-    "response_ms": 3313,
+    "response_ms": 1271,
     "uptime_pct": 58.6,
-    "checks": 6121
+    "checks": 6122
+  },
+  {
+    "ip": "124.109.105.44",
+    "port": 80,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "anonymous",
+    "country_code": "BD",
+    "country": "Bangladesh",
+    "response_ms": 1959,
+    "uptime_pct": 83.7,
+    "checks": 424
+  },
+  {
+    "ip": "124.109.105.44",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "anonymous",
+    "country_code": "BD",
+    "country": "Bangladesh",
+    "response_ms": 2691,
+    "uptime_pct": 88.3,
+    "checks": 523
   }
 ]
