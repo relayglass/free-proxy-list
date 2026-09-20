@@ -1,17 +1,5 @@
 [
   {
-    "ip": "66.151.34.89",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "FI",
-    "country": "Finland",
-    "response_ms": 117,
-    "uptime_pct": 95,
-    "checks": 4210
-  },
-  {
     "ip": "135.181.79.187",
     "port": 40001,
     "protocol": "http",
@@ -19,21 +7,33 @@
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 140,
+    "response_ms": 128,
     "uptime_pct": 97.1,
-    "checks": 2825
+    "checks": 2826
   },
   {
-    "ip": "77.73.68.222",
-    "port": 65000,
+    "ip": "66.151.34.89",
+    "port": 80,
     "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "FI",
+    "country": "Finland",
+    "response_ms": 129,
+    "uptime_pct": 95,
+    "checks": 4211
+  },
+  {
+    "ip": "185.74.44.172",
+    "port": 1080,
+    "protocol": "socks4",
     "https": true,
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 206,
-    "uptime_pct": 69.4,
-    "checks": 900
+    "response_ms": 183,
+    "uptime_pct": 65.7,
+    "checks": 35
   },
   {
     "ip": "57.128.231.218",
@@ -43,21 +43,9 @@
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 229,
+    "response_ms": 233,
     "uptime_pct": 88,
-    "checks": 1303
-  },
-  {
-    "ip": "5.75.133.113",
-    "port": 10803,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "FI",
-    "country": "Finland",
-    "response_ms": 778,
-    "uptime_pct": 71.4,
-    "checks": 560
+    "checks": 1304
   },
   {
     "ip": "62.60.210.173",
@@ -67,8 +55,32 @@
     "anonymity": "elite",
     "country_code": "FI",
     "country": "Finland",
-    "response_ms": 1329,
+    "response_ms": 2464,
     "uptime_pct": 65.5,
-    "checks": 4408
+    "checks": 4409
+  },
+  {
+    "ip": "5.75.133.113",
+    "port": 10803,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FI",
+    "country": "Finland",
+    "response_ms": 3656,
+    "uptime_pct": 71.5,
+    "checks": 561
+  },
+  {
+    "ip": "77.73.68.222",
+    "port": 65000,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FI",
+    "country": "Finland",
+    "response_ms": 5758,
+    "uptime_pct": 69.5,
+    "checks": 901
   }
 ]
