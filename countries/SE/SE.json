@@ -1,17 +1,5 @@
 [
   {
-    "ip": "194.14.207.87",
-    "port": 8001,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "SE",
-    "country": "Sweden",
-    "response_ms": 139,
-    "uptime_pct": 49.2,
-    "checks": 189
-  },
-  {
     "ip": "57.128.231.218",
     "port": 1001,
     "protocol": "socks4",
@@ -19,33 +7,45 @@
     "anonymity": "elite",
     "country_code": "SE",
     "country": "Sweden",
-    "response_ms": 185,
+    "response_ms": 183,
     "uptime_pct": 86.5,
-    "checks": 1235
+    "checks": 1236
   },
   {
-    "ip": "49.13.22.249",
-    "port": 10805,
+    "ip": "195.160.223.99",
+    "port": 9050,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "SE",
+    "country": "Sweden",
+    "response_ms": 582,
+    "uptime_pct": 11.4,
+    "checks": 44
+  },
+  {
+    "ip": "96.60.107.42",
+    "port": 9050,
     "protocol": "socks5",
     "https": true,
     "anonymity": "elite",
     "country_code": "SE",
     "country": "Sweden",
-    "response_ms": 273,
-    "uptime_pct": 94.6,
-    "checks": 111
+    "response_ms": 957,
+    "uptime_pct": 12.5,
+    "checks": 8
   },
   {
-    "ip": "217.182.195.221",
-    "port": 30003,
+    "ip": "194.14.207.87",
+    "port": 8001,
     "protocol": "http",
     "https": false,
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "country_code": "SE",
     "country": "Sweden",
-    "response_ms": 1096,
-    "uptime_pct": 41,
-    "checks": 268
+    "response_ms": 972,
+    "uptime_pct": 49.5,
+    "checks": 190
   },
   {
     "ip": "176.124.205.244",
@@ -55,9 +55,9 @@
     "anonymity": "elite",
     "country_code": "SE",
     "country": "Sweden",
-    "response_ms": 1175,
+    "response_ms": 985,
     "uptime_pct": 98.1,
-    "checks": 359
+    "checks": 360
   },
   {
     "ip": "66.94.104.255",
@@ -67,8 +67,32 @@
     "anonymity": "transparent",
     "country_code": "SE",
     "country": "Sweden",
-    "response_ms": 1784,
+    "response_ms": 1102,
     "uptime_pct": 70.2,
-    "checks": 2995
+    "checks": 2996
+  },
+  {
+    "ip": "167.86.111.116",
+    "port": 3128,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "SE",
+    "country": "Sweden",
+    "response_ms": 3266,
+    "uptime_pct": 78,
+    "checks": 2913
+  },
+  {
+    "ip": "62.60.231.45",
+    "port": 10809,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "SE",
+    "country": "Sweden",
+    "response_ms": 5363,
+    "uptime_pct": 76.1,
+    "checks": 109
   }
 ]
