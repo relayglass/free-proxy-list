@@ -1,17 +1,5 @@
 [
   {
-    "ip": "176.111.37.216",
-    "port": 39811,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "UA",
-    "country": "Ukraine",
-    "response_ms": 138,
-    "uptime_pct": 94,
-    "checks": 12163
-  },
-  {
     "ip": "95.3.69.222",
     "port": 8080,
     "protocol": "http",
@@ -19,9 +7,9 @@
     "anonymity": "transparent",
     "country_code": "TR",
     "country": "Turkey",
-    "response_ms": 312,
+    "response_ms": 241,
     "uptime_pct": 99.6,
-    "checks": 13784
+    "checks": 13785
   },
   {
     "ip": "130.110.103.245",
@@ -31,9 +19,9 @@
     "anonymity": "transparent",
     "country_code": "SA",
     "country": "Saudi Arabia",
-    "response_ms": 341,
+    "response_ms": 350,
     "uptime_pct": 97.3,
-    "checks": 12299
+    "checks": 12300
   },
   {
     "ip": "159.65.233.169",
@@ -43,9 +31,33 @@
     "anonymity": "transparent",
     "country_code": "US",
     "country": "United States",
-    "response_ms": 369,
+    "response_ms": 374,
     "uptime_pct": 98,
-    "checks": 357
+    "checks": 358
+  },
+  {
+    "ip": "5.200.72.62",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "IR",
+    "country": "Iran",
+    "response_ms": 379,
+    "uptime_pct": 83.4,
+    "checks": 9253
+  },
+  {
+    "ip": "212.154.169.90",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "KZ",
+    "country": "Kazakhstan",
+    "response_ms": 443,
+    "uptime_pct": 99.2,
+    "checks": 11730
   },
   {
     "ip": "193.104.179.115",
@@ -55,21 +67,9 @@
     "anonymity": "transparent",
     "country_code": "UZ",
     "country": "Uzbekistan",
-    "response_ms": 407,
+    "response_ms": 464,
     "uptime_pct": 90.4,
-    "checks": 4417
-  },
-  {
-    "ip": "185.191.239.248",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "CH",
-    "country": "Switzerland",
-    "response_ms": 410,
-    "uptime_pct": 92,
-    "checks": 8456
+    "checks": 4418
   },
   {
     "ip": "190.97.236.129",
@@ -81,67 +81,7 @@
     "country": "Venezuela",
     "response_ms": 559,
     "uptime_pct": 98.4,
-    "checks": 10401
-  },
-  {
-    "ip": "153.51.201.35",
-    "port": 999,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "VE",
-    "country": "Venezuela",
-    "response_ms": 667,
-    "uptime_pct": 99.3,
-    "checks": 1609
-  },
-  {
-    "ip": "190.97.236.128",
-    "port": 999,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "VE",
-    "country": "Venezuela",
-    "response_ms": 717,
-    "uptime_pct": 98.8,
-    "checks": 10404
-  },
-  {
-    "ip": "189.51.168.164",
-    "port": 999,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "MX",
-    "country": "Mexico",
-    "response_ms": 720,
-    "uptime_pct": 91.1,
-    "checks": 6816
-  },
-  {
-    "ip": "114.236.137.41",
-    "port": 21000,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "CN",
-    "country": "China",
-    "response_ms": 768,
-    "uptime_pct": 87.9,
-    "checks": 14614
-  },
-  {
-    "ip": "1.231.81.166",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "KR",
-    "country": "South Korea",
-    "response_ms": 1157,
-    "uptime_pct": 97.8,
-    "checks": 14046
+    "checks": 10402
   },
   {
     "ip": "43.98.172.166",
@@ -151,9 +91,117 @@
     "anonymity": "transparent",
     "country_code": "SG",
     "country": "Singapore",
-    "response_ms": 1189,
+    "response_ms": 636,
     "uptime_pct": 93.4,
-    "checks": 8080
+    "checks": 8081
+  },
+  {
+    "ip": "153.51.201.35",
+    "port": 999,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "VE",
+    "country": "Venezuela",
+    "response_ms": 666,
+    "uptime_pct": 99.3,
+    "checks": 1610
+  },
+  {
+    "ip": "114.236.137.41",
+    "port": 21000,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "CN",
+    "country": "China",
+    "response_ms": 684,
+    "uptime_pct": 87.9,
+    "checks": 14615
+  },
+  {
+    "ip": "189.51.168.164",
+    "port": 999,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "MX",
+    "country": "Mexico",
+    "response_ms": 697,
+    "uptime_pct": 91.1,
+    "checks": 6817
+  },
+  {
+    "ip": "190.97.236.128",
+    "port": 999,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "VE",
+    "country": "Venezuela",
+    "response_ms": 741,
+    "uptime_pct": 98.8,
+    "checks": 10405
+  },
+  {
+    "ip": "190.97.236.130",
+    "port": 999,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "VE",
+    "country": "Venezuela",
+    "response_ms": 892,
+    "uptime_pct": 86.2,
+    "checks": 1374
+  },
+  {
+    "ip": "3.39.226.35",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "KR",
+    "country": "South Korea",
+    "response_ms": 1094,
+    "uptime_pct": 90.4,
+    "checks": 52
+  },
+  {
+    "ip": "1.231.81.166",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "KR",
+    "country": "South Korea",
+    "response_ms": 1154,
+    "uptime_pct": 97.9,
+    "checks": 14047
+  },
+  {
+    "ip": "176.111.37.5",
+    "port": 39811,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "UA",
+    "country": "Ukraine",
+    "response_ms": 1225,
+    "uptime_pct": 97.6,
+    "checks": 12781
+  },
+  {
+    "ip": "37.59.125.131",
+    "port": 8888,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "FR",
+    "country": "France",
+    "response_ms": 1472,
+    "uptime_pct": 92.6,
+    "checks": 13770
   },
   {
     "ip": "115.231.181.40",
@@ -168,16 +216,28 @@
     "checks": 3809
   },
   {
-    "ip": "190.97.236.130",
-    "port": 999,
+    "ip": "107.167.18.122",
+    "port": 443,
     "protocol": "http",
     "https": true,
     "anonymity": "transparent",
-    "country_code": "VE",
-    "country": "Venezuela",
-    "response_ms": 1742,
-    "uptime_pct": 86.2,
-    "checks": 1373
+    "country_code": "US",
+    "country": "United States",
+    "response_ms": 1614,
+    "uptime_pct": 84.3,
+    "checks": 3820
+  },
+  {
+    "ip": "185.191.239.248",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "CH",
+    "country": "Switzerland",
+    "response_ms": 1871,
+    "uptime_pct": 92,
+    "checks": 8457
   },
   {
     "ip": "186.5.94.206",
@@ -187,45 +247,21 @@
     "anonymity": "transparent",
     "country_code": "EC",
     "country": "Ecuador",
-    "response_ms": 1884,
+    "response_ms": 2250,
     "uptime_pct": 72.8,
-    "checks": 11715
+    "checks": 11716
   },
   {
-    "ip": "210.211.113.33",
-    "port": 80,
+    "ip": "103.147.247.65",
+    "port": 8080,
     "protocol": "http",
     "https": true,
     "anonymity": "transparent",
-    "country_code": "VN",
-    "country": "Vietnam",
-    "response_ms": 2006,
-    "uptime_pct": 78.4,
-    "checks": 7260
-  },
-  {
-    "ip": "3.39.226.35",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "KR",
-    "country": "South Korea",
-    "response_ms": 2268,
-    "uptime_pct": 90.2,
-    "checks": 51
-  },
-  {
-    "ip": "176.111.37.5",
-    "port": 39811,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "UA",
-    "country": "Ukraine",
-    "response_ms": 2344,
-    "uptime_pct": 97.6,
-    "checks": 12780
+    "country_code": null,
+    "country": null,
+    "response_ms": 3049,
+    "uptime_pct": 7.7,
+    "checks": 13
   },
   {
     "ip": "201.71.2.27",
@@ -235,20 +271,8 @@
     "anonymity": "transparent",
     "country_code": "VE",
     "country": "Venezuela",
-    "response_ms": 3760,
-    "uptime_pct": 55.9,
-    "checks": 1116
-  },
-  {
-    "ip": "212.154.169.90",
-    "port": 3128,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "KZ",
-    "country": "Kazakhstan",
-    "response_ms": 5670,
-    "uptime_pct": 99.2,
-    "checks": 11728
+    "response_ms": 4553,
+    "uptime_pct": 56,
+    "checks": 1117
   }
 ]
