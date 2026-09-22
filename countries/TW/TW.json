@@ -1,26 +1,26 @@
 [
   {
-    "ip": "123.118.115.37",
-    "port": 7890,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "TW",
-    "country": "Taiwan",
-    "response_ms": 1131,
-    "uptime_pct": 76,
-    "checks": 25
-  },
-  {
     "ip": "104.238.220.231",
     "port": 1080,
-    "protocol": "socks5",
+    "protocol": "socks4",
     "https": true,
     "anonymity": "elite",
     "country_code": "TW",
     "country": "Taiwan",
-    "response_ms": 7529,
-    "uptime_pct": 81.8,
-    "checks": 468
+    "response_ms": 3703,
+    "uptime_pct": 81.9,
+    "checks": 469
+  },
+  {
+    "ip": "123.118.115.37",
+    "port": 7890,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "TW",
+    "country": "Taiwan",
+    "response_ms": 5035,
+    "uptime_pct": 76.9,
+    "checks": 26
   }
 ]
