@@ -1,27 +1,15 @@
 [
   {
     "ip": "95.111.228.190",
-    "port": 1080,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "FR",
-    "country": "France",
-    "response_ms": 36,
-    "uptime_pct": 76.6,
-    "checks": 171
-  },
-  {
-    "ip": "95.111.228.190",
     "port": 1081,
     "protocol": "socks4",
     "https": true,
     "anonymity": "elite",
     "country_code": "FR",
     "country": "France",
-    "response_ms": 52,
-    "uptime_pct": 77.9,
-    "checks": 68
+    "response_ms": 40,
+    "uptime_pct": 78.3,
+    "checks": 69
   },
   {
     "ip": "109.199.119.160",
@@ -31,21 +19,21 @@
     "anonymity": "elite",
     "country_code": "FR",
     "country": "France",
-    "response_ms": 61,
+    "response_ms": 52,
     "uptime_pct": 99.4,
-    "checks": 14292
+    "checks": 14293
   },
   {
-    "ip": "213.32.70.99",
-    "port": 3128,
+    "ip": "95.111.228.190",
+    "port": 1080,
     "protocol": "socks5",
     "https": true,
     "anonymity": "elite",
     "country_code": "FR",
     "country": "France",
-    "response_ms": 221,
-    "uptime_pct": 96.7,
-    "checks": 337
+    "response_ms": 61,
+    "uptime_pct": 76.7,
+    "checks": 172
   },
   {
     "ip": "109.123.249.138",
@@ -55,21 +43,33 @@
     "anonymity": "elite",
     "country_code": "FR",
     "country": "France",
-    "response_ms": 277,
+    "response_ms": 195,
     "uptime_pct": 99.4,
-    "checks": 154
+    "checks": 155
   },
   {
-    "ip": "37.59.125.131",
-    "port": 8888,
+    "ip": "37.187.74.125",
+    "port": 80,
     "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
+    "https": false,
+    "anonymity": "elite",
     "country_code": "FR",
     "country": "France",
-    "response_ms": 292,
-    "uptime_pct": 92.5,
-    "checks": 13810
+    "response_ms": 300,
+    "uptime_pct": 91.1,
+    "checks": 13007
+  },
+  {
+    "ip": "213.32.70.99",
+    "port": 3128,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FR",
+    "country": "France",
+    "response_ms": 441,
+    "uptime_pct": 96.7,
+    "checks": 338
   },
   {
     "ip": "109.123.251.109",
@@ -79,45 +79,9 @@
     "anonymity": "elite",
     "country_code": "FR",
     "country": "France",
-    "response_ms": 359,
+    "response_ms": 481,
     "uptime_pct": 82,
-    "checks": 9470
-  },
-  {
-    "ip": "144.91.111.48",
-    "port": 1088,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "FR",
-    "country": "France",
-    "response_ms": 565,
-    "uptime_pct": 95.3,
-    "checks": 5315
-  },
-  {
-    "ip": "213.199.47.140",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "FR",
-    "country": "France",
-    "response_ms": 887,
-    "uptime_pct": 92.8,
-    "checks": 7369
-  },
-  {
-    "ip": "202.133.88.173",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "FR",
-    "country": "France",
-    "response_ms": 1144,
-    "uptime_pct": 91.3,
-    "checks": 12708
+    "checks": 9471
   },
   {
     "ip": "144.91.121.61",
@@ -127,8 +91,44 @@
     "anonymity": "elite",
     "country_code": "FR",
     "country": "France",
-    "response_ms": 1500,
+    "response_ms": 602,
     "uptime_pct": 94.3,
-    "checks": 14370
+    "checks": 14371
+  },
+  {
+    "ip": "37.59.125.131",
+    "port": 8888,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "FR",
+    "country": "France",
+    "response_ms": 1250,
+    "uptime_pct": 92.5,
+    "checks": 13811
+  },
+  {
+    "ip": "144.91.111.48",
+    "port": 1088,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "FR",
+    "country": "France",
+    "response_ms": 1711,
+    "uptime_pct": 95.3,
+    "checks": 5317
+  },
+  {
+    "ip": "202.133.88.173",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "FR",
+    "country": "France",
+    "response_ms": 3184,
+    "uptime_pct": 91.3,
+    "checks": 12709
   }
 ]
