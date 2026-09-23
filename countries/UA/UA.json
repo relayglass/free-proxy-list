@@ -1,17 +1,5 @@
 [
   {
-    "ip": "176.111.37.216",
-    "port": 39811,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "UA",
-    "country": "Ukraine",
-    "response_ms": 150,
-    "uptime_pct": 93.9,
-    "checks": 12239
-  },
-  {
     "ip": "176.111.37.5",
     "port": 39811,
     "protocol": "http",
@@ -19,21 +7,33 @@
     "anonymity": "transparent",
     "country_code": "UA",
     "country": "Ukraine",
-    "response_ms": 174,
+    "response_ms": 140,
     "uptime_pct": 97.6,
-    "checks": 13158
+    "checks": 13159
   },
   {
-    "ip": "193.239.26.142",
-    "port": 9000,
-    "protocol": "socks5",
+    "ip": "176.111.37.216",
+    "port": 39811,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "UA",
+    "country": "Ukraine",
+    "response_ms": 165,
+    "uptime_pct": 93.9,
+    "checks": 12240
+  },
+  {
+    "ip": "31.43.63.70",
+    "port": 4145,
+    "protocol": "socks4",
     "https": true,
     "anonymity": "elite",
     "country_code": "UA",
     "country": "Ukraine",
-    "response_ms": 599,
-    "uptime_pct": 100,
-    "checks": 2
+    "response_ms": 298,
+    "uptime_pct": 32.7,
+    "checks": 165
   },
   {
     "ip": "185.244.158.4",
@@ -43,8 +43,20 @@
     "anonymity": "elite",
     "country_code": "UA",
     "country": "Ukraine",
-    "response_ms": 1247,
+    "response_ms": 1249,
     "uptime_pct": 47.4,
-    "checks": 1507
+    "checks": 1508
+  },
+  {
+    "ip": "193.239.26.142",
+    "port": 9000,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "UA",
+    "country": "Ukraine",
+    "response_ms": 2051,
+    "uptime_pct": 75,
+    "checks": 4
   }
 ]
