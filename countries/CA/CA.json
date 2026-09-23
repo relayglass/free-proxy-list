@@ -1,15 +1,27 @@
 [
   {
-    "ip": "38.29.32.240",
-    "port": 3128,
+    "ip": "184.75.221.82",
+    "port": 3118,
     "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
+    "https": true,
+    "anonymity": "anonymous",
     "country_code": "CA",
     "country": "Canada",
-    "response_ms": 448,
-    "uptime_pct": 77.4,
-    "checks": 8737
+    "response_ms": 408,
+    "uptime_pct": 88.7,
+    "checks": 6151
+  },
+  {
+    "ip": "161.35.90.93",
+    "port": 1081,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "CA",
+    "country": "Canada",
+    "response_ms": 592,
+    "uptime_pct": 58.8,
+    "checks": 4396
   },
   {
     "ip": "167.160.190.215",
@@ -19,33 +31,9 @@
     "anonymity": "elite",
     "country_code": "CA",
     "country": "Canada",
-    "response_ms": 454,
+    "response_ms": 1458,
     "uptime_pct": 91.3,
-    "checks": 241
-  },
-  {
-    "ip": "184.75.221.82",
-    "port": 3118,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "anonymous",
-    "country_code": "CA",
-    "country": "Canada",
-    "response_ms": 538,
-    "uptime_pct": 88.7,
-    "checks": 6150
-  },
-  {
-    "ip": "132.243.168.30",
-    "port": 9150,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "CA",
-    "country": "Canada",
-    "response_ms": 618,
-    "uptime_pct": 67.1,
-    "checks": 2307
+    "checks": 242
   },
   {
     "ip": "38.49.210.79",
@@ -55,20 +43,8 @@
     "anonymity": "elite",
     "country_code": "CA",
     "country": "Canada",
-    "response_ms": 5800,
+    "response_ms": 2775,
     "uptime_pct": 61.8,
-    "checks": 1412
-  },
-  {
-    "ip": "148.113.167.24",
-    "port": 8080,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "CA",
-    "country": "Canada",
-    "response_ms": 7127,
-    "uptime_pct": 66.7,
-    "checks": 3
+    "checks": 1414
   }
 ]
