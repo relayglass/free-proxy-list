@@ -1,27 +1,15 @@
 [
   {
-    "ip": "152.53.183.107",
-    "port": 8081,
+    "ip": "128.140.113.110",
+    "port": 1080,
     "protocol": "http",
     "https": true,
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 9,
-    "uptime_pct": 92.7,
-    "checks": 5804
-  },
-  {
-    "ip": "144.76.61.252",
-    "port": 1080,
-    "protocol": "socks4",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "DE",
-    "country": "Germany",
-    "response_ms": 16,
-    "uptime_pct": 100,
-    "checks": 31
+    "response_ms": 17,
+    "uptime_pct": 18,
+    "checks": 1316
   },
   {
     "ip": "213.157.6.50",
@@ -31,9 +19,21 @@
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 17,
+    "response_ms": 18,
     "uptime_pct": 99.8,
-    "checks": 8039
+    "checks": 8040
+  },
+  {
+    "ip": "144.76.61.252",
+    "port": 1080,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 20,
+    "uptime_pct": 100,
+    "checks": 32
   },
   {
     "ip": "157.90.10.50",
@@ -43,93 +43,9 @@
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 22,
+    "response_ms": 20,
     "uptime_pct": 93.3,
-    "checks": 5250
-  },
-  {
-    "ip": "157.90.10.50",
-    "port": 8080,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "DE",
-    "country": "Germany",
-    "response_ms": 22,
-    "uptime_pct": 93.6,
-    "checks": 6390
-  },
-  {
-    "ip": "157.90.10.50",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "DE",
-    "country": "Germany",
-    "response_ms": 23,
-    "uptime_pct": 94.3,
-    "checks": 7468
-  },
-  {
-    "ip": "47.91.65.23",
-    "port": 3128,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
-    "country_code": "DE",
-    "country": "Germany",
-    "response_ms": 25,
-    "uptime_pct": 96.7,
-    "checks": 14786
-  },
-  {
-    "ip": "157.90.10.50",
-    "port": 8888,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "DE",
-    "country": "Germany",
-    "response_ms": 25,
-    "uptime_pct": 94.3,
-    "checks": 7551
-  },
-  {
-    "ip": "47.245.165.201",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "DE",
-    "country": "Germany",
-    "response_ms": 35,
-    "uptime_pct": 72.8,
-    "checks": 9636
-  },
-  {
-    "ip": "31.76.111.88",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "DE",
-    "country": "Germany",
-    "response_ms": 38,
-    "uptime_pct": 39.3,
-    "checks": 1217
-  },
-  {
-    "ip": "116.202.108.111",
-    "port": 3128,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
-    "country_code": "DE",
-    "country": "Germany",
-    "response_ms": 47,
-    "uptime_pct": 100,
-    "checks": 4718
+    "checks": 5251
   },
   {
     "ip": "157.90.10.50",
@@ -139,9 +55,81 @@
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 47,
+    "response_ms": 23,
     "uptime_pct": 92.9,
-    "checks": 5265
+    "checks": 5266
+  },
+  {
+    "ip": "157.90.10.50",
+    "port": 8080,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 23,
+    "uptime_pct": 93.6,
+    "checks": 6391
+  },
+  {
+    "ip": "157.90.10.50",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 24,
+    "uptime_pct": 94.3,
+    "checks": 7469
+  },
+  {
+    "ip": "116.202.108.111",
+    "port": 3128,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 25,
+    "uptime_pct": 99.9,
+    "checks": 4720
+  },
+  {
+    "ip": "47.245.165.201",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 33,
+    "uptime_pct": 72.8,
+    "checks": 9637
+  },
+  {
+    "ip": "47.91.65.23",
+    "port": 3128,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 40,
+    "uptime_pct": 96.7,
+    "checks": 14787
+  },
+  {
+    "ip": "103.237.102.191",
+    "port": 11111,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 47,
+    "uptime_pct": 98.2,
+    "checks": 14811
   },
   {
     "ip": "193.58.122.93",
@@ -156,16 +144,16 @@
     "checks": 3369
   },
   {
-    "ip": "128.140.113.110",
-    "port": 8081,
+    "ip": "157.90.10.50",
+    "port": 8888,
     "protocol": "http",
     "https": false,
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 52,
-    "uptime_pct": 17.5,
-    "checks": 962
+    "response_ms": 50,
+    "uptime_pct": 94.3,
+    "checks": 7552
   },
   {
     "ip": "202.133.91.79",
@@ -175,9 +163,21 @@
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 55,
+    "response_ms": 50,
     "uptime_pct": 100,
-    "checks": 114
+    "checks": 115
+  },
+  {
+    "ip": "2.27.63.250",
+    "port": 8118,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 56,
+    "uptime_pct": 57.9,
+    "checks": 2001
   },
   {
     "ip": "135.125.179.41",
@@ -192,18 +192,6 @@
     "checks": 153
   },
   {
-    "ip": "2.27.63.250",
-    "port": 8118,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "DE",
-    "country": "Germany",
-    "response_ms": 71,
-    "uptime_pct": 57.9,
-    "checks": 1999
-  },
-  {
     "ip": "135.125.232.151",
     "port": 1080,
     "protocol": "socks5",
@@ -211,21 +199,9 @@
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 97,
+    "response_ms": 74,
     "uptime_pct": 94.8,
-    "checks": 2782
-  },
-  {
-    "ip": "103.237.102.191",
-    "port": 11111,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "DE",
-    "country": "Germany",
-    "response_ms": 119,
-    "uptime_pct": 98.2,
-    "checks": 14810
+    "checks": 2783
   },
   {
     "ip": "95.181.160.37",
@@ -235,9 +211,21 @@
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 136,
+    "response_ms": 95,
     "uptime_pct": 96,
-    "checks": 1364
+    "checks": 1365
+  },
+  {
+    "ip": "31.76.111.88",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 119,
+    "uptime_pct": 39.3,
+    "checks": 1218
   },
   {
     "ip": "57.128.231.218",
@@ -247,9 +235,9 @@
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 241,
+    "response_ms": 242,
     "uptime_pct": 97,
-    "checks": 437
+    "checks": 438
   },
   {
     "ip": "80.209.243.86",
@@ -259,57 +247,33 @@
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 645,
+    "response_ms": 649,
     "uptime_pct": 96,
-    "checks": 420
+    "checks": 421
   },
   {
-    "ip": "141.98.153.86",
-    "port": 80,
-    "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
-    "country_code": "DE",
-    "country": "Germany",
-    "response_ms": 865,
-    "uptime_pct": 91.6,
-    "checks": 10091
-  },
-  {
-    "ip": "167.86.111.116",
-    "port": 3128,
+    "ip": "141.95.53.104",
+    "port": 9898,
     "protocol": "http",
     "https": false,
     "anonymity": "transparent",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 1375,
-    "uptime_pct": 76.9,
-    "checks": 3066
+    "response_ms": 707,
+    "uptime_pct": 79.3,
+    "checks": 1732
   },
   {
-    "ip": "144.76.61.252",
-    "port": 3128,
+    "ip": "152.53.183.107",
+    "port": 8081,
     "protocol": "http",
     "https": true,
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 2242,
-    "uptime_pct": 68.5,
-    "checks": 89
-  },
-  {
-    "ip": "146.158.104.49",
-    "port": 10808,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "DE",
-    "country": "Germany",
-    "response_ms": 2401,
-    "uptime_pct": 55.6,
-    "checks": 18
+    "response_ms": 1032,
+    "uptime_pct": 92.7,
+    "checks": 5805
   },
   {
     "ip": "152.53.183.107",
@@ -319,8 +283,56 @@
     "anonymity": "elite",
     "country_code": "DE",
     "country": "Germany",
-    "response_ms": 3068,
+    "response_ms": 2118,
     "uptime_pct": 80.7,
-    "checks": 4291
+    "checks": 4292
+  },
+  {
+    "ip": "31.76.59.70",
+    "port": 1080,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 2120,
+    "uptime_pct": 12.5,
+    "checks": 40
+  },
+  {
+    "ip": "144.76.61.252",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 2644,
+    "uptime_pct": 68.9,
+    "checks": 90
+  },
+  {
+    "ip": "141.98.153.86",
+    "port": 80,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 2708,
+    "uptime_pct": 91.6,
+    "checks": 10092
+  },
+  {
+    "ip": "66.94.104.255",
+    "port": 3128,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "transparent",
+    "country_code": "DE",
+    "country": "Germany",
+    "response_ms": 3831,
+    "uptime_pct": 69.8,
+    "checks": 3179
   }
 ]
