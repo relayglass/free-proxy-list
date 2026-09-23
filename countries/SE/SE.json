@@ -1,15 +1,15 @@
 [
   {
-    "ip": "57.128.231.218",
-    "port": 1001,
-    "protocol": "socks4",
+    "ip": "46.59.120.87",
+    "port": 81,
+    "protocol": "http",
     "https": true,
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "country_code": "SE",
     "country": "Sweden",
-    "response_ms": 697,
-    "uptime_pct": 87,
-    "checks": 1822
+    "response_ms": 164,
+    "uptime_pct": 45.5,
+    "checks": 11
   },
   {
     "ip": "109.120.133.177",
@@ -19,9 +19,21 @@
     "anonymity": "elite",
     "country_code": "SE",
     "country": "Sweden",
-    "response_ms": 774,
+    "response_ms": 237,
     "uptime_pct": 95,
-    "checks": 140
+    "checks": 141
+  },
+  {
+    "ip": "57.128.231.218",
+    "port": 1001,
+    "protocol": "socks4",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "SE",
+    "country": "Sweden",
+    "response_ms": 311,
+    "uptime_pct": 87.1,
+    "checks": 1823
   },
   {
     "ip": "171.25.158.95",
@@ -31,21 +43,9 @@
     "anonymity": "elite",
     "country_code": "SE",
     "country": "Sweden",
-    "response_ms": 1288,
-    "uptime_pct": 84.7,
-    "checks": 406
-  },
-  {
-    "ip": "193.181.35.97",
-    "port": 8118,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "SE",
-    "country": "Sweden",
-    "response_ms": 1803,
-    "uptime_pct": 33.3,
-    "checks": 6
+    "response_ms": 1149,
+    "uptime_pct": 84.8,
+    "checks": 407
   },
   {
     "ip": "66.94.104.255",
@@ -60,18 +60,6 @@
     "checks": 3195
   },
   {
-    "ip": "62.60.231.45",
-    "port": 10809,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "SE",
-    "country": "Sweden",
-    "response_ms": 3751,
-    "uptime_pct": 62.1,
-    "checks": 256
-  },
-  {
     "ip": "167.86.111.116",
     "port": 3128,
     "protocol": "http",
@@ -82,5 +70,17 @@
     "response_ms": 4650,
     "uptime_pct": 76.7,
     "checks": 3081
+  },
+  {
+    "ip": "62.60.231.45",
+    "port": 10809,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "SE",
+    "country": "Sweden",
+    "response_ms": 7652,
+    "uptime_pct": 62.3,
+    "checks": 257
   }
 ]
