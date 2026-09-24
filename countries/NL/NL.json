@@ -1,5 +1,17 @@
 [
   {
+    "ip": "45.43.91.13",
+    "port": 3128,
+    "protocol": "http",
+    "https": true,
+    "anonymity": "transparent",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "response_ms": 70,
+    "uptime_pct": 50,
+    "checks": 4
+  },
+  {
     "ip": "95.211.174.135",
     "port": 3128,
     "protocol": "http",
@@ -7,33 +19,9 @@
     "anonymity": "anonymous",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 78,
+    "response_ms": 80,
     "uptime_pct": 76,
-    "checks": 8326
-  },
-  {
-    "ip": "5.175.192.43",
-    "port": 1080,
-    "protocol": "socks5",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "NL",
-    "country": "The Netherlands",
-    "response_ms": 113,
-    "uptime_pct": 64.7,
-    "checks": 1718
-  },
-  {
-    "ip": "5.128.189.112",
-    "port": 10809,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "NL",
-    "country": "The Netherlands",
-    "response_ms": 1040,
-    "uptime_pct": 89.8,
-    "checks": 88
+    "checks": 8327
   },
   {
     "ip": "213.111.146.36",
@@ -43,20 +31,32 @@
     "anonymity": "elite",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 2073,
+    "response_ms": 1057,
     "uptime_pct": 99.9,
-    "checks": 2291
+    "checks": 2292
   },
   {
-    "ip": "45.43.91.13",
-    "port": 3128,
+    "ip": "5.128.189.112",
+    "port": 10809,
     "protocol": "http",
-    "https": false,
-    "anonymity": "transparent",
+    "https": true,
+    "anonymity": "elite",
     "country_code": "NL",
     "country": "The Netherlands",
-    "response_ms": 4169,
-    "uptime_pct": 50,
-    "checks": 2
+    "response_ms": 1165,
+    "uptime_pct": 89.9,
+    "checks": 89
+  },
+  {
+    "ip": "45.61.129.165",
+    "port": 9050,
+    "protocol": "socks5",
+    "https": true,
+    "anonymity": "elite",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "response_ms": 2821,
+    "uptime_pct": 91.9,
+    "checks": 12274
   }
 ]
