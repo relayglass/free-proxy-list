@@ -1,15 +1,27 @@
 [
   {
-    "ip": "113.161.134.128",
-    "port": 1080,
+    "ip": "101.32.65.42",
+    "port": 8888,
+    "protocol": "http",
+    "https": false,
+    "anonymity": "elite",
+    "country_code": "VN",
+    "country": "Vietnam",
+    "response_ms": 755,
+    "uptime_pct": 97.1,
+    "checks": 3410
+  },
+  {
+    "ip": "183.80.130.10",
+    "port": 4145,
     "protocol": "socks4",
     "https": true,
     "anonymity": "elite",
     "country_code": "VN",
     "country": "Vietnam",
-    "response_ms": 1180,
-    "uptime_pct": 31.4,
-    "checks": 579
+    "response_ms": 1013,
+    "uptime_pct": 8.1,
+    "checks": 37
   },
   {
     "ip": "43.109.48.180",
@@ -19,33 +31,9 @@
     "anonymity": "elite",
     "country_code": "VN",
     "country": "Vietnam",
-    "response_ms": 1256,
+    "response_ms": 1142,
     "uptime_pct": 48.7,
-    "checks": 2277
-  },
-  {
-    "ip": "203.205.49.2",
-    "port": 10159,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "elite",
-    "country_code": "VN",
-    "country": "Vietnam",
-    "response_ms": 1443,
-    "uptime_pct": 31.4,
-    "checks": 185
-  },
-  {
-    "ip": "14.239.75.248",
-    "port": 20129,
-    "protocol": "http",
-    "https": true,
-    "anonymity": "transparent",
-    "country_code": "VN",
-    "country": "Vietnam",
-    "response_ms": 1466,
-    "uptime_pct": 100,
-    "checks": 1
+    "checks": 2278
   },
   {
     "ip": "103.166.185.54",
@@ -55,20 +43,20 @@
     "anonymity": "transparent",
     "country_code": "VN",
     "country": "Vietnam",
-    "response_ms": 3185,
-    "uptime_pct": 81.2,
-    "checks": 293
+    "response_ms": 2544,
+    "uptime_pct": 81.3,
+    "checks": 294
   },
   {
-    "ip": "101.32.65.42",
-    "port": 8888,
+    "ip": "14.239.75.248",
+    "port": 20129,
     "protocol": "http",
-    "https": false,
-    "anonymity": "elite",
+    "https": true,
+    "anonymity": "transparent",
     "country_code": "VN",
     "country": "Vietnam",
-    "response_ms": 6812,
-    "uptime_pct": 97.1,
-    "checks": 3409
+    "response_ms": 3532,
+    "uptime_pct": 100,
+    "checks": 2
   }
 ]
